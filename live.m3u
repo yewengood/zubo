@@ -341,12 +341,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#LR•IPV4
 p3p://108.181.20.159:33682/5fe0b82c000cac9774c17f262e43314d#LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct#LR•IPV4
-#EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
-https://judy.567852.xyz/live/bf67f424cb2ee1205cc421f51b0efbec6935956ec1fdaf6b65988f2369239bf1.m3u8?token=549293861986921#LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/明珠台.png" group-title="广东频道",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt#LR•IPV4
-#EXTINF:-1 tvg-id="2" tvg-name="明珠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/明珠台.png" group-title="广东频道",明珠台
-https://judy.567852.xyz/live/06630af00a526d740e75406697de781f52b1639996838c5a4a00a22745c3b0d7.m3u8?token=549293861986921#LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-4K.png" group-title="央视频道",CCTV-4K
 http://43.136.119.99/cqyx.php?id=cctv4k#LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV16-4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV16-4K.png" group-title="央视频道",CCTV16-4K
@@ -2264,8 +2260,6 @@ http://free.xiptv.x10.bz/kudou.php?id=2#LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="TVB跑马台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB跑马台.png" group-title="香港频道",TVB跑马台
 http://free.xiptv.x10.bz/kudou.php?id=4#LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-https://judy.567852.xyz/live/f50dcac048b74194371870935b9e6bb75d5dab06108d101f22d0e88805dc45e1.m3u8?token=549293861986921#LR•IPV4
-#EXTINF:-1 tvg-id="2" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
 http://free.xiptv.x10.bz/kudou.php?id=7#LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="TVB娱乐新闻台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB娱乐新闻台.png" group-title="香港频道",TVB娱乐新闻台
 http://free.xiptv.x10.bz/kudou.php?id=20#LR•IPV4
@@ -2294,8 +2288,6 @@ p3p://108.181.20.159:33682/652970de00011277bb14dcd76e301cc0#LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="美亚电影台(粤)" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/美亚电影台(粤).png" group-title="香港频道",美亚电影台(粤)
 http://free.xiptv.x10.bz/kudou.php?id=25#LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="PopC" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/PopC.png" group-title="香港频道",PopC
-https://judy.567852.xyz/live/dbdd4699ca52bde8de46b45f861c7cd851f80ea51a47f021484bef00ec32fd2e.m3u8?token=549293861986921#LR•IPV4
-#EXTINF:-1 tvg-id="2" tvg-name="PopC" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/PopC.png" group-title="香港频道",PopC
 http://free.xiptv.x10.bz/kudou.php?id=38#LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="MyTV 亚洲剧台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/MyTV 亚洲剧台.png" group-title="香港频道",MyTV 亚洲剧台
 http://free.xiptv.x10.bz/kudou.php?id=10#LR•IPV4
