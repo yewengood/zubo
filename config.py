@@ -2,7 +2,8 @@ ip_version_priority = "ipv6"
 
 source_urls = [
     "https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt",
-    "https://raw.githubusercontent.com/yewengood/-/main/888.txt"
+    "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
+    "http://43.136.119.99/txt.php?url=https://judy.567852.xyz/live/playlist.m3u?token=549293861986921"
     #"https://jihulab.com/ss3234741/sj/raw/2a8f0afa421a98836bc891698446c7271c2f32f3/lib/live2.txt",
     #"https://gitcode.net/ygbh66/666/raw/master/x.txt",
     #"https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
