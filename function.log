@@ -1,5 +1,6 @@
-2024-09-06 14:14:19,617 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2024-09-06 14:14:19,620 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  广州频道, 📡  深圳频道, 📡  广东频道, 📡  四川频道, 📡  湖南频道, 📡  北京联通
-2024-09-06 14:14:19,794 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
-2024-09-06 14:14:19,796 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, YY精选, 斗鱼精选, 虎牙-精选
-2024-09-06 14:14:20,606 - ERROR - url: https://www.stream-link.org/stream-link.m3u 爬取失败❌, Error: 404 Client Error: Not Found for url: https://www.stream-link.org/stream-link.m3u
+2024-09-06 14:18:00,232 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2024-09-06 14:18:00,236 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  广州频道, 📡  深圳频道, 📡  广东频道, 📡  四川频道, 📡  湖南频道, 📡  北京联通
+2024-09-06 14:18:00,330 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
+2024-09-06 14:18:00,333 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, YY精选, 斗鱼精选, 虎牙-精选
+2024-09-06 14:18:02,175 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
+2024-09-06 14:18:02,180 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: 服务器炸了, 关于接口, 港台频道, HK and Macao, China, Taiwan, North America, SG & MY, Korea, Japan, CR18+, Sing新加坡, Malaysia, India印度, China中国, HongKong香港, Racing跑马, TW台湾, News新闻, 体育Sport, 电影Mov, 儿童Kids, 知识Doc, 印尼ID, 美国USA, 加拿大CA, 日本JP, 韩国KR, 午夜时光CR
