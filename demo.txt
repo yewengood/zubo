@@ -436,6 +436,41 @@ HBO HiTS,#=96
 MOVIES NOW,#=101 
 卫视电影,#=102 
 天映经典,#=103 
+凤凰中文台,#id=121
+凤凰资讯台,#id=122
+凤凰香港台,#id=123
+
+TVB翡翠台,#id=188
+TVB无线新闻台,#id=2
+TVB跑马台,#id=4
+TVB Plus,#id=7
+TVB娱乐新闻台,#id=20
+
+TVB华丽翡翠台,#id=9
+TVB功夫台,#id=12
+now财经台,#id=28
+now星影台,#id=29
+now爆谷台,#id=30
+now SPORTS1,#id=31
+黄金华剧台,#id=24
+美亚电影台(粤),#id=25
+PopC,#id=38
+
+MyTV 亚洲剧台,#id=10
+MyTV 黄金翡翠台,#id=11
+MyTV 亚洲综合娱乐台,#id=15
+MyTV 亚洲综合娱乐台,#id=16
+MyTV 跑马台,#id=17
+MyTV 千禧经典台,#id=19
+MyTV 华语剧台,#id=22
+MyTV SuperFree,#id=8
+MyTV 粤语片台,#id=14
+
+ViuTV,#id=23
+
+ROCK综艺娱乐,#id=32
+ROCK超级娱乐,#id=33
+
 
 台湾频道,#genre#
 AIWAN+,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8538/.m3u8
@@ -497,6 +532,48 @@ TVBS HD,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8575/.m3u8
 凤凰资讯,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8576/.m3u8
 凤凰中文,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8577/.m3u8
 卫视电影台,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8578/.m3u8
+民视,#id=43
+台视,#id=44
+中视新闻,#id=45
+华视新闻,#id=46
+民视台湾台,#id=49
+民视第一台,#id=50
+三立台湾台,#id=52
+靖洋戏剧台,#id=53
+八大综合台,#id=55
+八大第一台,#id=56
+八大戏剧台,#id=57
+爱尔达影剧台,#id=59
+CN卡通,#id=65
+亚洲旅游台,#id=71
+爱尔达体育4台,#id=72
+探索频道,#id=73
+DMAX,#id=74
+东森LIVE,#id=75
+寰宇新闻,#id=76
+TVBS,#id=77
+TVBS新闻,#id=78
+
+中视新闻,#id=80
+台视新闻,#id=81
+民视新闻,#id=84
+龙祥时代,#id=85
+东森电影,#id=86
+东森洋片,#id=87
+好莱坞电影,#id=88
+龙华戏剧,#id=90
+龙华偶像,#id=91
+龙华洋片,#id=92
+龙华电影,#id=93
+美亚电影台(国),#id=94
+HBO,#id=95
+HBO HiTS,#id=96
+华纳电影台,#id=100
+MOVIES NOW,#id=101
+卫视电影,#id=102
+天映经典,#id=103
+
+
 YY精选,#genre#
 老广的味道,#43.136.119.99/yy.php?id=1382735565
 探秘中华美食,#43.136.119.99/yy.php?id=1354930954
