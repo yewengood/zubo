@@ -1445,6 +1445,8 @@ MyTV SuperFree,http://free.xiptv.x10.bz/kudou.php?id=8#LR•IPV4
 MyTV 粤语片台,http://free.xiptv.x10.bz/kudou.php?id=14#LR•IPV4
 ROCK综艺娱乐,http://free.xiptv.x10.bz/kudou.php?id=32#LR•IPV4
 ROCK超级娱乐,http://free.xiptv.x10.bz/kudou.php?id=33#LR•IPV4
+ViuTV,http://free.xiptv.x10.bz/kudou.php?id=23#LR•IPV4
+台湾频道,#genre#
 民视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8#LR•IPV4
 民视,http://free.xiptv.x10.bz/kudou.php?id=43#LR•IPV4
 民视,p3p://108.181.20.159:34853/6001ba8400051d89f5b151a63fa96419#LR•IPV4
@@ -1523,8 +1525,6 @@ MOVIES NOW,http://free.xiptv.x10.bz/kudou.php?id=101#LR•IPV4
 卫视电影,p3p://108.181.20.159:34853/61f88baf000e09b3a1b9e2a3622612e9#LR•IPV4
 天映经典,http://free.xiptv.x10.bz/kudou.php?id=103#LR•IPV4
 天映经典,p3p://108.181.20.159:34853/5fded422000d0eb46d5f29815c1d4155#LR•IPV4
-ViuTV,http://free.xiptv.x10.bz/kudou.php?id=23#LR•IPV4
-台湾频道,#genre#
 AIWAN+,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8538/.m3u8#LR•IPV4
 TVBS新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8#LR•IPV4
 年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8#LR•IPV4
