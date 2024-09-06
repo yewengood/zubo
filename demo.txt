@@ -397,6 +397,44 @@ MyTV SuperFree,#=8
 MyTV 粤语片台,#=14 ViuTV,#=23 
 ROCK综艺娱乐,#=32 
 ROCK超级娱乐,#=33 
+
+凤凰中文台,#id=121
+凤凰资讯台,#id=122
+凤凰香港台,#id=123
+
+TVB翡翠台,#id=188
+TVB无线新闻台,#id=2
+TVB跑马台,#id=4
+TVB Plus,#id=7
+TVB娱乐新闻台,#id=20
+
+TVB华丽翡翠台,#id=9
+TVB功夫台,#id=12
+now财经台,#id=28
+now星影台,#id=29
+now爆谷台,#id=30
+now SPORTS1,#id=31
+黄金华剧台,#id=24
+美亚电影台(粤),#id=25
+PopC,#id=38
+
+MyTV 亚洲剧台,#id=10
+MyTV 黄金翡翠台,#id=11
+MyTV 亚洲综合娱乐台,#id=15
+MyTV 亚洲综合娱乐台,#id=16
+MyTV 跑马台,#id=17
+MyTV 千禧经典台,#id=19
+MyTV 华语剧台,#id=22
+MyTV SuperFree,#id=8
+MyTV 粤语片台,#id=14
+
+ViuTV,#id=23
+
+ROCK综艺娱乐,#id=32
+ROCK超级娱乐,#id=33
+
+
+台湾频道,#genre#
 民视,#=43 
 台视,#=44 
 中视新闻,#=45 
@@ -436,43 +474,6 @@ HBO HiTS,#=96
 MOVIES NOW,#=101 
 卫视电影,#=102 
 天映经典,#=103 
-凤凰中文台,#id=121
-凤凰资讯台,#id=122
-凤凰香港台,#id=123
-
-TVB翡翠台,#id=188
-TVB无线新闻台,#id=2
-TVB跑马台,#id=4
-TVB Plus,#id=7
-TVB娱乐新闻台,#id=20
-
-TVB华丽翡翠台,#id=9
-TVB功夫台,#id=12
-now财经台,#id=28
-now星影台,#id=29
-now爆谷台,#id=30
-now SPORTS1,#id=31
-黄金华剧台,#id=24
-美亚电影台(粤),#id=25
-PopC,#id=38
-
-MyTV 亚洲剧台,#id=10
-MyTV 黄金翡翠台,#id=11
-MyTV 亚洲综合娱乐台,#id=15
-MyTV 亚洲综合娱乐台,#id=16
-MyTV 跑马台,#id=17
-MyTV 千禧经典台,#id=19
-MyTV 华语剧台,#id=22
-MyTV SuperFree,#id=8
-MyTV 粤语片台,#id=14
-
-ViuTV,#id=23
-
-ROCK综艺娱乐,#id=32
-ROCK超级娱乐,#id=33
-
-
-台湾频道,#genre#
 AIWAN+,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8538/.m3u8
 TVBS新闻台,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8574/.m3u8
 年代新闻,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8539/.m3u8
