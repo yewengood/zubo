@@ -141,9 +141,9 @@ def updateChannelUrlsM3U(channels, template_channels):
                             total_urls = len(filtered_urls)
                             for index, url in enumerate(filtered_urls, start=1):
                                 if is_ipv6(url):
-                                    url_suffix = f"#LR•IPV6" if total_urls == 1 else f"#LR•IPV6"
+                                    url_suffix = f"$LR•IPV6" if total_urls == 1 else f"$LR•IPV6"
                                 else:
-                                    url_suffix = f"#LR•IPV4" if total_urls == 1 else f"#LR•IPV4"
+                                    url_suffix = f"$LR•IPV4" if total_urls == 1 else f"$LR•IPV4"
                                 if '$' in url:
                                     base_url = url.split('$', 1)[0]
                                 else:
