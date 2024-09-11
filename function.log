@@ -1,7 +1,7 @@
-2024-09-10 18:37:44,892 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
-2024-09-10 18:37:44,894 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, YY精选, 斗鱼精选, 虎牙-精选
-2024-09-10 18:37:45,165 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2024-09-10 18:37:45,195 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  广东频道, 📡  广州频道, 📡  深圳频道, 📡  四川频道, 📡  湖南频道, 📡  北京联通
-2024-09-10 18:37:46,138 - ERROR - url: http://我不是.摸鱼儿.top/live 爬取失败❌, Error: 404 Client Error: Not Found for url: http://xn--ihqu10cn4c.xn--v4q818bf34b.top/live
-2024-09-10 18:37:46,488 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
-2024-09-10 18:37:46,488 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, 18+Chinese
+2024-09-11 12:33:55,625 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
+2024-09-11 12:33:55,628 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 广东移动, 阳江移动组播#genre#, 电信组播#genre#
+2024-09-11 12:33:55,966 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2024-09-11 12:33:55,996 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  广东频道, 📡  广州频道, 📡  深圳频道, 📡  四川频道, 📡  湖南频道, 📡  北京联通
+2024-09-11 12:33:56,945 - ERROR - url: http://我不是.摸鱼儿.top/live 爬取失败❌, Error: 404 Client Error: Not Found for url: http://xn--ihqu10cn4c.xn--v4q818bf34b.top/live
+2024-09-11 12:33:57,360 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
+2024-09-11 12:33:57,363 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, 特别说明, ﻿港台频道, 港澳, 台湾, 马来, 新加, 日本, 韩国, 北美, 新闻, 音乐, 体育, 知识, 少儿, 电影, 戏剧, 18+Chinese
