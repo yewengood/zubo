@@ -138,7 +138,7 @@
 广东珠江IPV6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8 
 广东珠江IPV6,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8 
 广东珠江IPV6,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&hlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989 
-广东珠江频道,http://43.136.119.99/douyin.php?id=gdtvzjpd$LR•IPV4
+广东珠江频道,http://43.136.119.99/douyin.php?id=gdtvzjpd 
 广东新闻,http://113.93.54.144:5555/rtp/239.77.0.173:5146 
 广东新闻,http://14.145.234.231:8888/rtp/239.77.0.4:5146 
 广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8 
@@ -334,8 +334,8 @@
 明珠台,mitv://135.148.104.228:19806/066930b0d2764f05a9b8a0019efe82fe 
 明珠台,mitv://135.148.104.228:19806/6ea5ab8d22f04024b3fac9bfb2b243aa 
 央视频道,#genre#
-CCTV-4K,http://43.136.119.99/cqyx.php?id=cctv4k$LR•IPV4
-CCTV16-4K,http://43.136.119.99/cqyx.php?id=cctv16_4k$LR•IPV4
+CCTV-4K,http://43.136.119.99/cqyx.php?id=cctv4k 
+CCTV16-4K,http://43.136.119.99/cqyx.php?id=cctv16_4k 
 CCTV1-高码,http://49.234.186.50:35455/ysptp/cctv1.m3u8 
 CCTV1-高码,http://1.14.19.228:35455/ysptp/cctv1.m3u8 
 CCTV1,http://49.234.186.50:35455/itv/6000000001000029752.m3u8?cdn=wasusyt 
@@ -2033,43 +2033,43 @@ iHOT频道,#genre#
 爱院线,http://171.213.141.226:66/udp/239.93.42.11:5140 
 爱院线,http://171.213.129.134:66/udp/239.93.42.11:5140 
 香港频道,#genre#
-翡翠台 4K,https://judy.567852.xyz/live/ed5530edc450aea9b1af2619666cc9225e541dd0331f1858f81d9d085625a333.m3u8?token=549293861986921$LR•IPV4
+翡翠台 4K,https://judy.567852.xyz/live/ed5530edc450aea9b1af2619666cc9225e541dd0331f1858f81d9d085625a333.m3u8?token=549293861986921 
 TVB Plus,https://judy.567852.xyz/live/f50dcac048b74194371870935b9e6bb75d5dab06108d101f22d0e88805dc45e1.m3u8?token=549293861986921 
 TVB Plus,http://ali.hlspull.yximgs.com/live/ea9069d76367d0e34d5e12a0c8193ff9.flv 
 TVB Plus,http://ali.hlspull.yximgs.com/live/b116e94486fa4e1302e04cfb9b6063da.flv 
 TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6 
 TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d 
-無線新聞台,https://judy.567852.xyz/live/f14f0c476b05b65c0f36ed2f0635518320fc6be7bc2f937a948dd5da8f598aa5.m3u8?token=549293861986921$LR•IPV4
-華語劇台,https://judy.567852.xyz/live/25e814ebb917605573fae126f4b41ee35f0b67a94e72fe19bf47f5c46cbd9c2f.m3u8?token=549293861986921$LR•IPV4
-鳳凰衛視中文台,https://judy.567852.xyz/live/550abcad63de3b79b806c11600a26dda450d3780452907381cb76c3d838a9e31.m3u8?token=549293861986921$LR•IPV4
-鳳凰衛視資訊台,https://judy.567852.xyz/live/ae3900e56a3cb77927f956f1dbdc98399fac7de05411cba2758b874305a0a9bc.m3u8?token=549293861986921$LR•IPV4
-鳳凰衛視香港台,https://judy.567852.xyz/live/7b9e525cb14bca36e36a81784b82af99615ff8dcdced6177fbafa734d41c1458.m3u8?token=549293861986921$LR•IPV4
-黃金翡翠台,https://judy.567852.xyz/live/7e2920cc1b58b5e0a48af38955440e72161f6acf4a3775df4c9ab3d827b9547e.m3u8?token=549293861986921$LR•IPV4
-黃金華劇台,https://judy.567852.xyz/live/acba1ba4f088a63dbd2dd5bbe66989acf4315b6506cd48244dab7a26443e0d3a.m3u8?token=549293861986921$LR•IPV4
-亞洲劇台,https://judy.567852.xyz/live/06d9d6e64d7f24303e3b2876f087d5cf716e0301b75bb358a5c1a4b8c9413c1d.m3u8?token=549293861986921$LR•IPV4
-亞洲新聞台,https://judy.567852.xyz/live/5f96550ed9ea6bf77eed060eb089a1536534a6e00c9b7ca497d5d1618d10f458.m3u8?token=549293861986921$LR•IPV4
-創世電視,https://judy.567852.xyz/live/e003d224d1c2098b0eb27a6d3e61de6a97069dfcb892b372686c73d696f36919.m3u8?token=549293861986921$LR•IPV4
-千禧經典台,https://judy.567852.xyz/live/f4f8bb7bd134ece4ecf3c5b17c7a3fbc02e09e36b2f85393f4b9197d72beca64.m3u8?token=549293861986921$LR•IPV4
-天映經典頻道,https://judy.567852.xyz/live/89fc890291d221eef8e43a2f517305889f562405584f9c25c1c49a88ba1be045.m3u8?token=549293861986921$LR•IPV4
-娛樂新聞台,https://judy.567852.xyz/live/e1accd34e51514117f991c8880e8549aebc8a5c453e8e9c6e215a21e52aa7e4f.m3u8?token=549293861986921$LR•IPV4
-戲曲台,https://judy.567852.xyz/live/80764ed0be5a4fc928cf21f595cb5fdeabe116b5ec8add4aa275026e15c37559.m3u8?token=549293861986921$LR•IPV4
-東方衛視國際頻道,https://judy.567852.xyz/live/3c79c2b7db5eddb070552f5a28c13ea748cf8050bbdf37501beab8cecfd9cde0.m3u8?token=549293861986921$LR•IPV4
-無線衛星亞洲台,https://judy.567852.xyz/live/055041dc69634d6efe5d8379885ddcf7a9debada2c83420a59447b8ff5104264.m3u8?token=549293861986921$LR•IPV4
-myTV SUPER 18台,https://judy.567852.xyz/live/8668aa4ab14e27d4137e7e22b8f0f0cb99f2b849a2b2a95cee9eddeeed1b7b1c.m3u8?token=549293861986921$LR•IPV4
-無線衛星新聞台,https://judy.567852.xyz/live/29f80886859898262b8714f0b5943907c1cd2802c784d163f8ea9d45c45dfd3a.m3u8?token=549293861986921$LR•IPV4
-神州新聞台,https://judy.567852.xyz/live/6b772599a8072ce1036e926e27191962cd8412cbde0434b1605a6756456aa958.m3u8?token=549293861986921$LR•IPV4
-粵語片台,https://judy.567852.xyz/live/bc6edb698b1fc2b9281e880705eb2072032e290abd955a72c073d3b2f6dac8b7.m3u8?token=549293861986921$LR•IPV4
-美亞電影台,https://judy.567852.xyz/live/a3c5a9f52bc575ec28955b108856127e6768980e7596a7f7e0675577dcadf227.m3u8?token=549293861986921$LR•IPV4
-中國電影頻道,https://judy.567852.xyz/live/1625021a86923221e5ecd2e2341123e7b44e2966d186bfcc93905fd3b4bc5dcd.m3u8?token=549293861986921$LR•IPV4
+無線新聞台,https://judy.567852.xyz/live/f14f0c476b05b65c0f36ed2f0635518320fc6be7bc2f937a948dd5da8f598aa5.m3u8?token=549293861986921 
+華語劇台,https://judy.567852.xyz/live/25e814ebb917605573fae126f4b41ee35f0b67a94e72fe19bf47f5c46cbd9c2f.m3u8?token=549293861986921 
+鳳凰衛視中文台,https://judy.567852.xyz/live/550abcad63de3b79b806c11600a26dda450d3780452907381cb76c3d838a9e31.m3u8?token=549293861986921 
+鳳凰衛視資訊台,https://judy.567852.xyz/live/ae3900e56a3cb77927f956f1dbdc98399fac7de05411cba2758b874305a0a9bc.m3u8?token=549293861986921 
+鳳凰衛視香港台,https://judy.567852.xyz/live/7b9e525cb14bca36e36a81784b82af99615ff8dcdced6177fbafa734d41c1458.m3u8?token=549293861986921 
+黃金翡翠台,https://judy.567852.xyz/live/7e2920cc1b58b5e0a48af38955440e72161f6acf4a3775df4c9ab3d827b9547e.m3u8?token=549293861986921 
+黃金華劇台,https://judy.567852.xyz/live/acba1ba4f088a63dbd2dd5bbe66989acf4315b6506cd48244dab7a26443e0d3a.m3u8?token=549293861986921 
+亞洲劇台,https://judy.567852.xyz/live/06d9d6e64d7f24303e3b2876f087d5cf716e0301b75bb358a5c1a4b8c9413c1d.m3u8?token=549293861986921 
+亞洲新聞台,https://judy.567852.xyz/live/5f96550ed9ea6bf77eed060eb089a1536534a6e00c9b7ca497d5d1618d10f458.m3u8?token=549293861986921 
+創世電視,https://judy.567852.xyz/live/e003d224d1c2098b0eb27a6d3e61de6a97069dfcb892b372686c73d696f36919.m3u8?token=549293861986921 
+千禧經典台,https://judy.567852.xyz/live/f4f8bb7bd134ece4ecf3c5b17c7a3fbc02e09e36b2f85393f4b9197d72beca64.m3u8?token=549293861986921 
+天映經典頻道,https://judy.567852.xyz/live/89fc890291d221eef8e43a2f517305889f562405584f9c25c1c49a88ba1be045.m3u8?token=549293861986921 
+娛樂新聞台,https://judy.567852.xyz/live/e1accd34e51514117f991c8880e8549aebc8a5c453e8e9c6e215a21e52aa7e4f.m3u8?token=549293861986921 
+戲曲台,https://judy.567852.xyz/live/80764ed0be5a4fc928cf21f595cb5fdeabe116b5ec8add4aa275026e15c37559.m3u8?token=549293861986921 
+東方衛視國際頻道,https://judy.567852.xyz/live/3c79c2b7db5eddb070552f5a28c13ea748cf8050bbdf37501beab8cecfd9cde0.m3u8?token=549293861986921 
+無線衛星亞洲台,https://judy.567852.xyz/live/055041dc69634d6efe5d8379885ddcf7a9debada2c83420a59447b8ff5104264.m3u8?token=549293861986921 
+myTV SUPER 18台,https://judy.567852.xyz/live/8668aa4ab14e27d4137e7e22b8f0f0cb99f2b849a2b2a95cee9eddeeed1b7b1c.m3u8?token=549293861986921 
+無線衛星新聞台,https://judy.567852.xyz/live/29f80886859898262b8714f0b5943907c1cd2802c784d163f8ea9d45c45dfd3a.m3u8?token=549293861986921 
+神州新聞台,https://judy.567852.xyz/live/6b772599a8072ce1036e926e27191962cd8412cbde0434b1605a6756456aa958.m3u8?token=549293861986921 
+粵語片台,https://judy.567852.xyz/live/bc6edb698b1fc2b9281e880705eb2072032e290abd955a72c073d3b2f6dac8b7.m3u8?token=549293861986921 
+美亞電影台,https://judy.567852.xyz/live/a3c5a9f52bc575ec28955b108856127e6768980e7596a7f7e0675577dcadf227.m3u8?token=549293861986921 
+中國電影頻道,https://judy.567852.xyz/live/1625021a86923221e5ecd2e2341123e7b44e2966d186bfcc93905fd3b4bc5dcd.m3u8?token=549293861986921 
 Animax,https://judy.567852.xyz/live/4b33c2293b9b241b28abfe7ab70fbb9530548d99119e06407ba36fc812914399.m3u8?token=549293861986921 
 Animax,mitv://135.148.104.228:19806/7c6f8a583fc24b298779528c07b8c66d 
 Animax,mitv://135.148.104.228:19806/4913cc8e4b7e490eaebbb4a081bf02b8 
-Arirang TV,https://judy.567852.xyz/live/b5cbd14fc5bf5bd0f2c1ce7960a515f69913018a2eaeeb51dcc3daeca5e7e057.m3u8?token=549293861986921$LR•IPV4
+Arirang TV,https://judy.567852.xyz/live/b5cbd14fc5bf5bd0f2c1ce7960a515f69913018a2eaeeb51dcc3daeca5e7e057.m3u8?token=549293861986921 
 AXN,https://judy.567852.xyz/live/ed5d4dca7cfe600cc1601189bf250579e2a86312d5b0914890af7f12f672e78f.m3u8?token=549293861986921 
 AXN,mitv://135.148.104.228:19806/6c01776274094a4191d223378054782b 
-CGTN (中國環球電視網)英語頻道,https://judy.567852.xyz/live/e5807f70a562941107a7689c199f6c25731474732bd2e86acff8d4a08cf4ba87.m3u8?token=549293861986921$LR•IPV4
-CGTN (中國環球電視網)記錄頻道,https://judy.567852.xyz/live/4a567f08bc765450e2d844bd683e709ac57a7cca8bfc81edb8a97b10b8d7d49b.m3u8?token=549293861986921$LR•IPV4
-NHK World-Japan,https://judy.567852.xyz/live/2245e248bac7f4c4a55730eb8b465e8c2a6c92025c1bbf92b51d96984a52cc67.m3u8?token=549293861986921$LR•IPV4
+CGTN (中國環球電視網)英語頻道,https://judy.567852.xyz/live/e5807f70a562941107a7689c199f6c25731474732bd2e86acff8d4a08cf4ba87.m3u8?token=549293861986921 
+CGTN (中國環球電視網)記錄頻道,https://judy.567852.xyz/live/4a567f08bc765450e2d844bd683e709ac57a7cca8bfc81edb8a97b10b8d7d49b.m3u8?token=549293861986921 
+NHK World-Japan,https://judy.567852.xyz/live/2245e248bac7f4c4a55730eb8b465e8c2a6c92025c1bbf92b51d96984a52cc67.m3u8?token=549293861986921 
 Nick Jr.,https://judy.567852.xyz/live/e64e28aabd302eee6664cbe61dfaba0eae6e46a114a06e6b331732635c145eec.m3u8?token=549293861986921 
 Nick Jr.,mitv://135.148.104.228:19806/0fdb4f78ab6f498f88c12ca5a34fffc2 
 Nickelodeon,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickelodeon 
@@ -2077,50 +2077,50 @@ Nickelodeon,https://judy.567852.xyz/live/a448cd701af6fb74eec10e334247001e2a6c3f9
 PopC,https://judy.567852.xyz/live/dbdd4699ca52bde8de46b45f861c7cd851f80ea51a47f021484bef00ec32fd2e.m3u8?token=549293861986921 
 PopC,mitv://135.148.104.228:19806/3ae0f859370b4f17baec42495be6f043 
 PopC,mitv://135.148.104.228:19806/63cdb28090d949ed824376fab51fdd12 
-ROCK Action,https://judy.567852.xyz/live/6a210dcae4407ad6a81c52cd3cc5829559a4c9f05109b3f8a87663d3438dd8df.m3u8?token=549293861986921$LR•IPV4
-ROCK 綜藝娛樂,https://judy.567852.xyz/live/fc044762e56956c1bfbf2ae0ca1001b8897e1393d90ce94f69260f120aebe14f.m3u8?token=549293861986921$LR•IPV4
-SUPER Kids,https://judy.567852.xyz/live/186b7d332041919323f99bf7573fff8e83c6d95c4216111dbbf3abc0de9c104b.m3u8?token=549293861986921$LR•IPV4
+ROCK Action,https://judy.567852.xyz/live/6a210dcae4407ad6a81c52cd3cc5829559a4c9f05109b3f8a87663d3438dd8df.m3u8?token=549293861986921 
+ROCK 綜藝娛樂,https://judy.567852.xyz/live/fc044762e56956c1bfbf2ae0ca1001b8897e1393d90ce94f69260f120aebe14f.m3u8?token=549293861986921 
+SUPER Kids,https://judy.567852.xyz/live/186b7d332041919323f99bf7573fff8e83c6d95c4216111dbbf3abc0de9c104b.m3u8?token=549293861986921 
 Thrill,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Thrill 
 Thrill,https://judy.567852.xyz/live/59457d032a2dc739957f18a2e8b5d3841dccf051114a09d4cfb61c80392c5422.m3u8?token=549293861986921 
 Thrill,mitv://135.148.104.228:19806/d20fff7aa7d64ab19d2a39da2970734a 
 tvN,https://judy.567852.xyz/live/ced3a778963c08fa456d1e42dd4f049cd3c6f514ad88353cbe32096364804f18.m3u8?token=549293861986921 
 tvN,mitv://135.148.104.228:19806/45cb5d3ff4f842178bd262ac32891a0c 
-ZooMoo,https://judy.567852.xyz/live/98eaf43828c52877a47650392fde33e5880ed5cee595548bc0db382a709b6bad.m3u8?token=549293861986921$LR•IPV4
-中央電視台綜合頻道 (港澳版),https://judy.567852.xyz/live/6080b2ff4d3e3fafd95f6408bc060fddb86fc53db53a77af188c0cd2ae9ffe20.m3u8?token=549293861986921$LR•IPV4
-半島電視台英語頻道,https://judy.567852.xyz/live/09a352a2a8d08e23808f825a79c963178bf47398fb3471eb2c3be4153203e330.m3u8?token=549293861986921$LR•IPV4
-DW,https://judy.567852.xyz/live/9dd5a21b029b769c459b808d38f625888085b2af384c59f979cda1f02bf05e5c.m3u8?token=549293861986921$LR•IPV4
-FashionBox,https://judy.567852.xyz/live/1922100f6984d14279893dc852d1331626604dc28aa6c304c967e48ff34ffd0c.m3u8?token=549293861986921$LR•IPV4
-France 24,https://judy.567852.xyz/live/81e111406fbf41dd4645893fbcdc42a5f33a02b4cdbcaa5929b7e0e821a3c821.m3u8?token=549293861986921$LR•IPV4
-Global Trekker,https://judy.567852.xyz/live/7a4863b617691711d1d41ee5b87e4e842e11cd526e2ad91a5e89db308f72d5ce.m3u8?token=549293861986921$LR•IPV4
+ZooMoo,https://judy.567852.xyz/live/98eaf43828c52877a47650392fde33e5880ed5cee595548bc0db382a709b6bad.m3u8?token=549293861986921 
+中央電視台綜合頻道 (港澳版),https://judy.567852.xyz/live/6080b2ff4d3e3fafd95f6408bc060fddb86fc53db53a77af188c0cd2ae9ffe20.m3u8?token=549293861986921 
+半島電視台英語頻道,https://judy.567852.xyz/live/09a352a2a8d08e23808f825a79c963178bf47398fb3471eb2c3be4153203e330.m3u8?token=549293861986921 
+DW,https://judy.567852.xyz/live/9dd5a21b029b769c459b808d38f625888085b2af384c59f979cda1f02bf05e5c.m3u8?token=549293861986921 
+FashionBox,https://judy.567852.xyz/live/1922100f6984d14279893dc852d1331626604dc28aa6c304c967e48ff34ffd0c.m3u8?token=549293861986921 
+France 24,https://judy.567852.xyz/live/81e111406fbf41dd4645893fbcdc42a5f33a02b4cdbcaa5929b7e0e821a3c821.m3u8?token=549293861986921 
+Global Trekker,https://judy.567852.xyz/live/7a4863b617691711d1d41ee5b87e4e842e11cd526e2ad91a5e89db308f72d5ce.m3u8?token=549293861986921 
 KIX,https://judy.567852.xyz/live/508e5d02f7c8089162d60e3ebee79a8591a453810215f7879023581b9f9c1f03.m3u8?token=549293861986921 
 KIX,mitv://135.148.104.228:19806/e0df18c976d2448cae5e6dfe8b748fe4 
-Love Nature HD,https://judy.567852.xyz/live/43744dde2d1c70997754c77ee9de59f19b78d9adf6e2ddded3da8f9335ce14ec.m3u8?token=549293861986921$LR•IPV4
-Love Nature 4K,https://judy.567852.xyz/live/eb235609b1d736dfb96cf2ea003d7bea36c7312803f6cb961474a7169b272987.m3u8?token=549293861986921$LR•IPV4
-Mezzo Live HD,https://judy.567852.xyz/live/c4be5bf137aacdb99287426410cf654deb9bec96bbcb032aa06b5a76d3c637d7.m3u8?token=549293861986921$LR•IPV4
-myTV SUPER FREE,https://judy.567852.xyz/live/03de0535a912c72ef4c0c7b98be72657b08cd5e1c813b0f80bc36f1c3f483b21.m3u8?token=549293861986921$LR•IPV4
-互動窗 1,https://judy.567852.xyz/live/85cc888b9a1d0c59caa7e86aa8539dd5c3ef7cf38a663d784efd99c52f1582aa.m3u8?token=549293861986921$LR•IPV4
-互動窗 2,https://judy.567852.xyz/live/8b6dc1a2ca8563947d8494d7931225f09e051a88c4f43b6c5e251894c99ce272.m3u8?token=549293861986921$LR•IPV4
-港台电视32,mitv://135.148.104.228:19806/8ef4a2b7bac54aba8b17dfd2071df91f$LR•IPV4
+Love Nature HD,https://judy.567852.xyz/live/43744dde2d1c70997754c77ee9de59f19b78d9adf6e2ddded3da8f9335ce14ec.m3u8?token=549293861986921 
+Love Nature 4K,https://judy.567852.xyz/live/eb235609b1d736dfb96cf2ea003d7bea36c7312803f6cb961474a7169b272987.m3u8?token=549293861986921 
+Mezzo Live HD,https://judy.567852.xyz/live/c4be5bf137aacdb99287426410cf654deb9bec96bbcb032aa06b5a76d3c637d7.m3u8?token=549293861986921 
+myTV SUPER FREE,https://judy.567852.xyz/live/03de0535a912c72ef4c0c7b98be72657b08cd5e1c813b0f80bc36f1c3f483b21.m3u8?token=549293861986921 
+互動窗 1,https://judy.567852.xyz/live/85cc888b9a1d0c59caa7e86aa8539dd5c3ef7cf38a663d784efd99c52f1582aa.m3u8?token=549293861986921 
+互動窗 2,https://judy.567852.xyz/live/8b6dc1a2ca8563947d8494d7931225f09e051a88c4f43b6c5e251894c99ce272.m3u8?token=549293861986921 
+港台电视32,mitv://135.148.104.228:19806/8ef4a2b7bac54aba8b17dfd2071df91f 
 台湾频道,#genre#
 民视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8 
 民视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan 
 民视,mitv://135.148.104.228:19806/e85920ffa4de4c2cbab08ad68fd1d5ae 
-台视,mitv://135.148.104.228:19806/333435199f804b03aad4410d4674aaeb$LR•IPV4
-中视新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn$LR•IPV4
-华视新闻,mitv://135.148.104.228:19806/ad4759ce4ff244efaa766154165e5d39$LR•IPV4
-民视台湾台,mitv://135.148.104.228:19806/38f827cbd65f4fd8af9c173dc13f6cc7$LR•IPV4
+台视,mitv://135.148.104.228:19806/333435199f804b03aad4410d4674aaeb 
+中视新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn 
+华视新闻,mitv://135.148.104.228:19806/ad4759ce4ff244efaa766154165e5d39 
+民视台湾台,mitv://135.148.104.228:19806/38f827cbd65f4fd8af9c173dc13f6cc7 
 民视第一台,mitv://135.148.104.228:19806/c29c4ad3a69749f4908e9ae4cab91032 
 民视第一台,mitv://135.148.104.228:19806/3a4000096c084c79af219586be8ed979 
 三立台湾台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8 
 三立台湾台,mitv://135.148.104.228:19806/82c3325594cc42bcb28b18426623428e 
-靖洋戏剧台,mitv://135.148.104.228:19806/0089fb08f1b448b99c18ce438a9f7fc5$LR•IPV4
+靖洋戏剧台,mitv://135.148.104.228:19806/0089fb08f1b448b99c18ce438a9f7fc5 
 八大综合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8520/.m3u8 
 八大综合台,mitv://135.148.104.228:19806/5bc105affae344648b1b19d46233e6e6 
 八大第一台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8519/.m3u8 
 八大第一台,mitv://135.148.104.228:19806/ef3ddf51945a48beabd3f79eeafe8ac0 
 八大戏剧台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8531/.m3u8 
 八大戏剧台,mitv://135.148.104.228:19806/a5393bab3516410fb2bd81ea2329f7b3 
-爱尔达影剧台,mitv://135.148.104.228:19806/d2fc333d45044f419b16748a28ac19c5$LR•IPV4
+爱尔达影剧台,mitv://135.148.104.228:19806/d2fc333d45044f419b16748a28ac19c5 
 亚洲旅游台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8 
 亚洲旅游台,mitv://135.148.104.228:19806/409459f958a04a5fa3609250df421445 
 亚洲旅游台,mitv://135.148.104.228:19806/bc0c6c9782004039b1220b4faa8a3abf 
@@ -2129,15 +2129,15 @@ myTV SUPER FREE,https://judy.567852.xyz/live/03de0535a912c72ef4c0c7b98be72657b08
 探索频道,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8 
 探索频道,mitv://135.148.104.228:19806/c7afe2fe39a04c1dada51462430dce8a 
 探索频道,mitv://135.148.104.228:19806/03803dbb35eb4e78a332b2b421b770c8 
-DMAX,mitv://135.148.104.228:19806/9fcdb313900f49c4b0236628fd939870$LR•IPV4
+DMAX,mitv://135.148.104.228:19806/9fcdb313900f49c4b0236628fd939870 
 TVBS,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs 
 TVBS,mitv://135.148.104.228:19806/5fe15c41a5ed4d5f9262ee28464c45c0 
 TVBS,mitv://135.148.104.228:19806/9e185dd6c7dd46edb5a7d675e4fca701 
 TVBS新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n 
 TVBS新闻,http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8 
-民视新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvnew_taiwan$LR•IPV4
-东森电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie$LR•IPV4
-好莱坞电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hollywoodmovies_twn$LR•IPV4
+民视新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvnew_taiwan 
+东森电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie 
+好莱坞电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hollywoodmovies_twn 
 龙华戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8549/.m3u8 
 龙华戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaxiju_twn 
 龙华戏剧,mitv://135.148.104.228:19806/b3526dee03424c8090e6d4d5e787c56b 
@@ -2146,9 +2146,9 @@ TVBS新闻,http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
 龙华偶像,mitv://135.148.104.228:19806/a7b822eb3c86487b960d27a273d5e0b6 
 龙华电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8556/.m3u8 
 龙华电影,mitv://135.148.104.228:19806/40368423d7dc44baaac3fbfc644ee9bf 
-HBO,mitv://135.148.104.228:19806/ccabaebf243e4385a8f39a6abf31f8bb$LR•IPV4
-天映经典,mitv://135.148.104.228:19806/3496dc2c5dc1421c8c403eb9c475753e$LR•IPV4
-AIWAN+,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8538/.m3u8$LR•IPV4
+HBO,mitv://135.148.104.228:19806/ccabaebf243e4385a8f39a6abf31f8bb 
+天映经典,mitv://135.148.104.228:19806/3496dc2c5dc1421c8c403eb9c475753e 
+AIWAN+,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8538/.m3u8 
 TVBS新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8 
 TVBS新闻台,mitv://135.148.104.228:19806/53f80a10fb054d5ab0649a59980025a9 
 TVBS新闻台,mitv://135.148.104.228:19806/bb6082c57bae466b9e6c64ba43f2c1e1 
@@ -2156,33 +2156,33 @@ TVBS新闻台,mitv://135.148.104.228:19806/bb6082c57bae466b9e6c64ba43f2c1e1
 年代新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=niandainews_twn 
 年代新闻,mitv://135.148.104.228:19806/f8c807d770a8429da9d058b516902907 
 年代新闻,mitv://135.148.104.228:19806/cd32e0feca2244288f8a878d7aacf0fc 
-东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8$LR•IPV4
+东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8 
 中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8 
 中天新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews 
 民视新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8 
 民视新闻台,mitv://135.148.104.228:19806/96f9b2974a86449f9a6f881b4e23ca03 
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8$LR•IPV4
-非凡商业,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8$LR•IPV4
+三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8 
+非凡商业,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8 
 东森财经新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8 
 东森财经新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvcaijing_twn 
 寰宇新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8 
 寰宇新闻台,mitv://135.148.104.228:19806/33c00ed7adda475f9afe8adbd600bd9a 
-壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8$LR•IPV4
-龙华日韩,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8550/.m3u8$LR•IPV4
-Bloomberg,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8551/.m3u8$LR•IPV4
-NHK,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8552/.m3u8$LR•IPV4
-momo综合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8553/.m3u8$LR•IPV4
+壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8 
+龙华日韩,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8550/.m3u8 
+Bloomberg,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8551/.m3u8 
+NHK,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8552/.m3u8 
+momo综合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8553/.m3u8 
 好莱坞电影台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8 
 好莱坞电影台,mitv://135.148.104.228:19806/c4810d15af404015859a5fc5059e4716 
 CINEMAX,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8559/.m3u8 
 CINEMAX,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cinemax_twn 
 CINEMAX,mitv://135.148.104.228:19806/a7ef892dc3d54789b8a29e5b8b06882e 
 CINEMAX,mitv://135.148.104.228:19806/d559fe6e91584b87bff1eaeb0660c6ef 
-卫视合家欢,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8561/.m3u8$LR•IPV4
+卫视合家欢,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8561/.m3u8 
 博斯运动1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8557/.m3u8 
 博斯运动1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport1_twn 
-ELEVEN1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8566/.m3u8$LR•IPV4
-ELEVEN2,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8567/.m3u8$LR•IPV4
+ELEVEN1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8566/.m3u8 
+ELEVEN2,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8567/.m3u8 
 中视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8 
 中视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn 
 中视,mitv://135.148.104.228:19806/695746eb4c094292a862a53216d54dac 
@@ -2208,16 +2208,16 @@ TLC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tlc
 动物星球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=animalplanet_twn 
 动物星球,mitv://135.148.104.228:19806/b165132a770741bcac023d15750067d3 
 动物星球,mitv://135.148.104.228:19806/e2f475dd35c74f20b7dc33c3204beb23 
-东森幼幼,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8515/.m3u8$LR•IPV4
+东森幼幼,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8515/.m3u8 
 龙华卡通,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8516/.m3u8 
 龙华卡通,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn 
-纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8$LR•IPV4
-纬来戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8533/.m3u8$LR•IPV4
+纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8 
+纬来戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8533/.m3u8 
 纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8 
 纬来日本,mitv://135.148.104.228:19806/f975f456c2124eb78e6afaad3a9db300 
 三立都会台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8 
 三立都会台,mitv://135.148.104.228:19806/d246662584364ea6aad39cb2c7767eec 
-卫视中文台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8523/.m3u8$LR•IPV4
+卫视中文台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8523/.m3u8 
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8 
 东森综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvzhonghe 
 东森戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8 
@@ -2228,160 +2228,160 @@ TLC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tlc
 中天综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe 
 中天娱乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8527/.m3u8 
 中天娱乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctient 
-东风37,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8528/.m3u8$LR•IPV4
-年代MUCH,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8$LR•IPV4
+东风37,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8528/.m3u8 
+年代MUCH,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8 
 TVBS欢乐台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8 
 TVBS欢乐台,mitv://135.148.104.228:19806/115a1e134813400abd3e49bad3af517c 
 TVBS欢乐台,mitv://135.148.104.228:19806/2f5899dbb41e4f798ef5d21862533392 
-TVBS HD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8$LR•IPV4
-卫视电影台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8578/.m3u8$LR•IPV4
+TVBS HD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8 
+卫视电影台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8578/.m3u8 
 Smartv,#genre#
-RTHK32,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn$LR•IPV4
-RTHK31,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn$LR•IPV4
-凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$LR•IPV4
-无线财经资讯,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbcaijing_twn$LR•IPV4
-VIUTV1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn$LR•IPV4
-无线新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=inews_twn$LR•IPV4
-非凡新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn$LR•IPV4
-美亚电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=meiyamovie_twn$LR•IPV4
+RTHK32,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn 
+RTHK31,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn 
+凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd 
+无线财经资讯,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbcaijing_twn 
+VIUTV1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn 
+无线新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=inews_twn 
+非凡新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn 
+美亚电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=meiyamovie_twn 
 Arirang,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=arirang_twn 
 Arirang,mitv://135.148.104.228:19806/5260ebd503c84b62bb0c9cd0d1e33223 
-爱尔达体育2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport2_twn$LR•IPV4
-爱尔达体育1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport_twn$LR•IPV4
-民视台湾,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvtaiwan_twn$LR•IPV4
-大爱1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=daai_twn$LR•IPV4
-博斯高球2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf2_twn$LR•IPV4
-博斯运动2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport2_twn$LR•IPV4
-博斯网球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bositennis_twn$LR•IPV4
-八大综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badazhonghe$LR•IPV4
-中天亚洲,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctiasia_twn$LR•IPV4
-三立综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlizhonghe$LR•IPV4
-三立戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlixiju_twn$LR•IPV4
-八大戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badadrama$LR•IPV4
-八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst$LR•IPV4
-小太阳,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xiaotaiyang$LR•IPV4
-靖天国际,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtianintl_twn$LR•IPV4
-EYETV戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvxiju_twn$LR•IPV4
-EYETV旅游,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvtravel_twn$LR•IPV4
+爱尔达体育2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport2_twn 
+爱尔达体育1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport_twn 
+民视台湾,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvtaiwan_twn 
+大爱1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=daai_twn 
+博斯高球2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf2_twn 
+博斯运动2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport2_twn 
+博斯网球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bositennis_twn 
+八大综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badazhonghe 
+中天亚洲,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctiasia_twn 
+三立综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlizhonghe 
+三立戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlixiju_twn 
+八大戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badadrama 
+八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst 
+小太阳,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xiaotaiyang 
+靖天国际,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtianintl_twn 
+EYETV戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvxiju_twn 
+EYETV旅游,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvtravel_twn 
 TVBS欢乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbshuanle_twn 
 TVBS欢乐,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8 
-Zee TV HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Zeetvhd$LR•IPV4
-Warner TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=WarnerTV$LR•IPV4
-Viu6,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn$LR•IPV4
+Zee TV HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Zeetvhd 
+Warner TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=WarnerTV 
+Viu6,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn 
 Vasantham,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Vasantham 
 Vasantham,mitv://135.148.104.228:19806/cc7a8a329a9f4c2cac0bf4df02cb6b6e 
-TvN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVN$LR•IPV4
-True Premium 2 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=truepre2_pat$LR•IPV4
-True Premium 1 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=truepre1_pat$LR•IPV4
-Transtv,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Transtv$LR•IPV4
-Trans 7,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Trans7_eko$LR•IPV4
-Tnn24,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tnn24_pat$LR•IPV4
-Tawaf TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TawafTV$LR•IPV4
-TVRI National,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVRI$LR•IPV4
-TVMU,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVMU_eko$LR•IPV4
+TvN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVN 
+True Premium 2 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=truepre2_pat 
+True Premium 1 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=truepre1_pat 
+Transtv,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Transtv 
+Trans 7,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Trans7_eko 
+Tnn24,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tnn24_pat 
+Tawaf TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TawafTV 
+TVRI National,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVRI 
+TVMU,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVMU_eko 
 TV9,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV9 
 TV9,mitv://135.148.104.228:19806/ad929cc96e0e4461aa03d7a0a8e1e8c8 
 TV9,mitv://135.148.104.228:19806/2ded50bc29c04480aaad42823d1fc0f2 
-TV9 Indonesia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV9_eko$LR•IPV4
-TV8,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV8$LR•IPV4
+TV9 Indonesia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV9_eko 
+TV8,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV8 
 TV3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV3 
 TV3,mitv://135.148.104.228:19806/5d3a3f2fec3c413d87d0b349ef79951e 
 TV3,mitv://135.148.104.228:19806/b0236f1ba51f4a70814d5806671dc028 
-TV3 backup,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV3_backup$LR•IPV4
+TV3 backup,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV3_backup 
 TV2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV2 
 TV2,mitv://135.148.104.228:19806/265c61c5d7ad468e8e0e437d23797171 
 TV1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV1 
 TV1,mitv://135.148.104.228:19806/d7229d76e8624e8d872d94d081e9524e 
-TPTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tptv_pat$LR•IPV4
+TPTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tptv_pat 
 Suria,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Suria 
 Suria,mitv://135.148.104.228:19806/ba543c5c308c44ad9cde7fbf4bc72171 
-体育3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp3$LR•IPV4
-体育2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp2$LR•IPV4
-Sunnah HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sunnah_mido$LR•IPV4
-Sun Music,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sunmusic_raj$LR•IPV4
+体育3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp3 
+体育2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp2 
+Sunnah HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sunnah_mido 
+Sun Music,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sunmusic_raj 
 Star Vijay,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Starvijay 
 Star Vijay,mitv://135.148.104.228:19806/b2b5e74aad414e70934ac1a2f3e576ca 
-Star Vijay India,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=starvijay_raj$LR•IPV4
-Sony Six HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sonysix_raj$LR•IPV4
-Sony HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=SetOne$LR•IPV4
-Skynews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=skynews_antik$LR•IPV4
-SCTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Sctv$LR•IPV4
-SCM,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Weishimovie$LR•IPV4
-RTM Sports HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rtmsport$LR•IPV4
-RCTI,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rcti$LR•IPV4
-Quran HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=quran_mido$LR•IPV4
-Prima,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Prima$LR•IPV4
-Pick TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=picktv_antik$LR•IPV4
-PPTV Thailand1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pptv_pat$LR•IPV4
-One,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=One$LR•IPV4
-Oasis,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Oasis$LR•IPV4
-Nick Jr,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickjr$LR•IPV4
-News 18 Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=news18tamil_raj$LR•IPV4
-New,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=new_pat$LR•IPV4
-Net TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=NetTV$LR•IPV4
-Nation,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nation_pat$LR•IPV4
+Star Vijay India,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=starvijay_raj 
+Sony Six HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sonysix_raj 
+Sony HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=SetOne 
+Skynews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=skynews_antik 
+SCTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Sctv 
+SCM,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Weishimovie 
+RTM Sports HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rtmsport 
+RCTI,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rcti 
+Quran HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=quran_mido 
+Prima,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Prima 
+Pick TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=picktv_antik 
+PPTV Thailand1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pptv_pat 
+One,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=One 
+Oasis,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Oasis 
+Nick Jr,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickjr 
+News 18 Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=news18tamil_raj 
+New,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=new_pat 
+Net TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=NetTV 
+Nation,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nation_pat 
 地理野生动物,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowildtamil_raj 
 地理野生动物,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Natgeowild 
-野生动物,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowild_twn$LR•IPV4
-NatGeo Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeotamil_raj$LR•IPV4
-More4,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=more4_antik$LR•IPV4
-Momo TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=momo1_twn$LR•IPV4
-MiaoMi,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=MiaoMi$LR•IPV4
-Metro TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=metrotv_eko$LR•IPV4
-Makkal TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Makkaltv$LR•IPV4
-AXNTaiwan,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn$LR•IPV4
-Asianet,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asianet_raj$LR•IPV4
-Awani,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Awani$LR•IPV4
-AxnHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Axn$LR•IPV4
+野生动物,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowild_twn 
+NatGeo Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeotamil_raj 
+More4,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=more4_antik 
+Momo TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=momo1_twn 
+MiaoMi,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=MiaoMi 
+Metro TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=metrotv_eko 
+Makkal TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Makkaltv 
+AXNTaiwan,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn 
+Asianet,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asianet_raj 
+Awani,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Awani 
+AxnHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Axn 
 CNBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnbc_twn 
 CNBC,mitv://135.148.104.228:19806/0c7b37b4c3254709945af2916fe4848b 
-CelestialMoviesHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestialindo$LR•IPV4
-Channel3Thailand,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ch3_pat$LR•IPV4
-DiscoveryAsia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverytwn_twn$LR•IPV4
-DiscoveryHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryhd_twn$LR•IPV4
-DiscoveryKidsTamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverykidtamil_raj$LR•IPV4
-DiscoveryTurbo,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryturbo_twn$LR•IPV4
-DiscoveryWorldTamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryworldtam_raj$LR•IPV4
-BBC1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbc1_antik$LR•IPV4
-BBC2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbc2_antik$LR•IPV4
-BBCEarthHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcearth_twn$LR•IPV4
-BBCEarthTamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcearthtam_raj$LR•IPV4
-BBCWorldNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn$LR•IPV4
-BTESPN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=btespn$LR•IPV4
-BTSports1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=beeone$LR•IPV4
-BTSports3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=beethree$LR•IPV4
-BloombergNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn$LR•IPV4
+CelestialMoviesHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestialindo 
+Channel3Thailand,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ch3_pat 
+DiscoveryAsia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverytwn_twn 
+DiscoveryHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryhd_twn 
+DiscoveryKidsTamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverykidtamil_raj 
+DiscoveryTurbo,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryturbo_twn 
+DiscoveryWorldTamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryworldtam_raj 
+BBC1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbc1_antik 
+BBC2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbc2_antik 
+BBCEarthHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcearth_twn 
+BBCEarthTamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcearthtam_raj 
+BBCWorldNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn 
+BTESPN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=btespn 
+BTSports1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=beeone 
+BTSports3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=beethree 
+BloombergNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn 
 Boomerang,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Boomerang 
 Boomerang,mitv://135.148.104.228:19806/60a0b85c79af4aee89ca0d605cdfd7a3 
 Boomerang,mitv://135.148.104.228:19806/16af5143b3544fba92d3ea5e7539ee44 
-CBBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbbc_antik$LR•IPV4
-CBSHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbshd_glo$LR•IPV4
-CBSNHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbsn_glo$LR•IPV4
-Muslim TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=MuslimTV$LR•IPV4
-itv1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=itv1_antik$LR•IPV4
-tvNMovie,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvnmovie$LR•IPV4
-J2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_twn$LR•IPV4
-民视第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn$LR•IPV4
+CBBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbbc_antik 
+CBSHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbshd_glo 
+CBSNHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbsn_glo 
+Muslim TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=MuslimTV 
+itv1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=itv1_antik 
+tvNMovie,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvnmovie 
+J2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_twn 
+民视第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn 
 美食星球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foodplanet_twn 
 美食星球,mitv://135.148.104.228:19806/02a89e372e1344d0b74c5b288d4d1cea 
 美食星球,mitv://135.148.104.228:19806/603ff2b4a3b34834bbe7bbc04b6b8d78 
-好消息 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=good2_twn$LR•IPV4
-亚洲旅游,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asiatravel_twn$LR•IPV4
-ABCNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=abcnews_glo$LR•IPV4
-BabyTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=babytv_twn$LR•IPV4
+好消息 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=good2_twn 
+亚洲旅游,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asiatravel_twn 
+ABCNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=abcnews_glo 
+BabyTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=babytv_twn 
 CNN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnn_twn 
 CNN,mitv://135.148.104.228:19806/88e503d015b54c75866ce86732601017 
-ELEVEN体育1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=golfchannel_twn$LR•IPV4
-FoxNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foxnews_twn$LR•IPV4
-HBO家庭,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fyi_twn$LR•IPV4
+ELEVEN体育1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=golfchannel_twn 
+FoxNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foxnews_twn 
+HBO家庭,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fyi_twn 
 WWE,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=wwe_twn 
 WWE,mitv://135.148.104.228:19806/e3ac5937983b467197d0355d0bfaf53b 
-三立台湾,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlitaiwan$LR•IPV4
-中视经典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshi_twn$LR•IPV4
-博斯高球1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf1_twn$LR•IPV4
-星卫电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie$LR•IPV4
-时尚,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fashiontv_twn$LR•IPV4
-CNA亚洲新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cna$LR•IPV4
+三立台湾,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlitaiwan 
+中视经典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshi_twn 
+博斯高球1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf1_twn 
+星卫电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie 
+时尚,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fashiontv_twn 
+CNA亚洲新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cna 
 Euronews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=euronews_antik 
 Euronews,mitv://135.148.104.228:19806/43dedaf8037e43ceb06f46baa4391692 
 TLC旅游生活,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tlc_twn 
@@ -2389,319 +2389,319 @@ TLC旅游生活,mitv://135.148.104.228:19806/32000d7eec2049c6b1de2eb8cd3c9348
 翡翠,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn 
 翡翠,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Wlt 
 YY精选,#genre#
-老广的味道,http://43.136.119.99/yy.php?id=1382735565$LR•IPV4
-探秘中华美食,http://43.136.119.99/yy.php?id=1354930954$LR•IPV4
-野外生存,http://43.136.119.99/yy.php?id=1355244168$LR•IPV4
-德爷单挑荒野,http://43.136.119.99/yy.php?id=27772604$LR•IPV4
+老广的味道,http://43.136.119.99/yy.php?id=1382735565 
+探秘中华美食,http://43.136.119.99/yy.php?id=1354930954 
+野外生存,http://43.136.119.99/yy.php?id=1355244168 
+德爷单挑荒野,http://43.136.119.99/yy.php?id=27772604 
 荒野求生,http://43.136.119.99/yy.php?id=1355244170 
 荒野求生,http://diyp.zxxoo.work/huya/24766781 
-荒野求生德爷,http://43.136.119.99/yy.php?id=36949900$LR•IPV4
-陪你看动漫,http://43.136.119.99/yy.php?id=1352866135$LR•IPV4
-陪你看电影,http://43.136.119.99/yy.php?id=1351186084$LR•IPV4
-港片 喜剧 动作,http://43.136.119.99/yy.php?id=1355480591$LR•IPV4
-斗罗 斗破,http://43.136.119.99/yy.php?id=1353098382$LR•IPV4
-笑傲江湖,http://43.136.119.99/yy.php?id=1354282410$LR•IPV4
-李连杰电影,http://43.136.119.99/yy.php?id=74613175$LR•IPV4
-漫威电影,http://43.136.119.99/yy.php?id=1354930233$LR•IPV4
-yy电影7,http://43.136.119.99/yy.php?id=1354930924$LR•IPV4
-yy电影8,http://43.136.119.99/yy.php?id=1382745095$LR•IPV4
-yy电影9,http://43.136.119.99/yy.php?id=1355171357$LR•IPV4
-yy电影10,http://43.136.119.99/yy.php?id=24066336$LR•IPV4
-yy电影-李连杰,http://43.136.119.99/yy.php?id=1459869766$LR•IPV4
-YY電影-成龍,http://43.136.119.99/yy.php?id=1354888751$LR•IPV4
-YY電影-林正英03,http://43.136.119.99/yy.php?id=1351505899$LR•IPV4
-YY電影-林正英04,http://43.136.119.99/yy.php?id=1353685311$LR•IPV4
-YY電影-歐美電影,http://43.136.119.99/yy.php?id=24923327$LR•IPV4
-YY電影-歐美科幻,http://43.136.119.99/yy.php?id=37988782$LR•IPV4
-YY電影-歐美動作電影,http://43.136.119.99/yy.php?id=1382745089$LR•IPV4
-经典鬼片3000部,http://43.136.119.99/yy.php?id=29460894$LR•IPV4
-经典港片800部,http://43.136.119.99/yy.php?id=1382800018$LR•IPV4
-林正英-经典电影,http://43.136.119.99/yy.php?id=34229877$LR•IPV4
-绝版恐怖鬼片,http://43.136.119.99/yy.php?id=1382748585$LR•IPV4
-港片赌片3000部,http://43.136.119.99/yy.php?id=1355076627$LR•IPV4
-【港片】赌片动作,http://43.136.119.99/yy.php?id=24921161$LR•IPV4
-林正英女鬼电影,http://43.136.119.99/yy.php?id=1453996620$LR•IPV4
-林正英经典,http://43.136.119.99/yy.php?id=1353312849$LR•IPV4
-破案港剧,http://43.136.119.99/yy.php?id=1350670730$LR•IPV4
+荒野求生德爷,http://43.136.119.99/yy.php?id=36949900 
+陪你看动漫,http://43.136.119.99/yy.php?id=1352866135 
+陪你看电影,http://43.136.119.99/yy.php?id=1351186084 
+港片 喜剧 动作,http://43.136.119.99/yy.php?id=1355480591 
+斗罗 斗破,http://43.136.119.99/yy.php?id=1353098382 
+笑傲江湖,http://43.136.119.99/yy.php?id=1354282410 
+李连杰电影,http://43.136.119.99/yy.php?id=74613175 
+漫威电影,http://43.136.119.99/yy.php?id=1354930233 
+yy电影7,http://43.136.119.99/yy.php?id=1354930924 
+yy电影8,http://43.136.119.99/yy.php?id=1382745095 
+yy电影9,http://43.136.119.99/yy.php?id=1355171357 
+yy电影10,http://43.136.119.99/yy.php?id=24066336 
+yy电影-李连杰,http://43.136.119.99/yy.php?id=1459869766 
+YY電影-成龍,http://43.136.119.99/yy.php?id=1354888751 
+YY電影-林正英03,http://43.136.119.99/yy.php?id=1351505899 
+YY電影-林正英04,http://43.136.119.99/yy.php?id=1353685311 
+YY電影-歐美電影,http://43.136.119.99/yy.php?id=24923327 
+YY電影-歐美科幻,http://43.136.119.99/yy.php?id=37988782 
+YY電影-歐美動作電影,http://43.136.119.99/yy.php?id=1382745089 
+经典鬼片3000部,http://43.136.119.99/yy.php?id=29460894 
+经典港片800部,http://43.136.119.99/yy.php?id=1382800018 
+林正英-经典电影,http://43.136.119.99/yy.php?id=34229877 
+绝版恐怖鬼片,http://43.136.119.99/yy.php?id=1382748585 
+港片赌片3000部,http://43.136.119.99/yy.php?id=1355076627 
+【港片】赌片动作,http://43.136.119.99/yy.php?id=24921161 
+林正英女鬼电影,http://43.136.119.99/yy.php?id=1453996620 
+林正英经典,http://43.136.119.99/yy.php?id=1353312849 
+破案港剧,http://43.136.119.99/yy.php?id=1350670730 
 林正英电影,http://43.136.119.99/yy.php?id=1382841203 
 林正英电影,http://43.136.119.99/yy.php?id=34229877&uid=1536159096 
-经典港片电影,http://43.136.119.99/yy.php?id=1382793140$LR•IPV4
-港片电影集,http://43.136.119.99/yy.php?id=1455225203$LR•IPV4
-24小时播放,http://43.136.119.99/yy.php?id=29067083$LR•IPV4
-星爷经典-百看不厌,http://43.136.119.99/yy.php?id=1382736808$LR•IPV4
-林正英僵尸鬼片,http://43.136.119.99/yy.php?id=1459714870$LR•IPV4
-经典港片 3000部,http://43.136.119.99/yy.php?id=1353059120$LR•IPV4
+经典港片电影,http://43.136.119.99/yy.php?id=1382793140 
+港片电影集,http://43.136.119.99/yy.php?id=1455225203 
+24小时播放,http://43.136.119.99/yy.php?id=29067083 
+星爷经典-百看不厌,http://43.136.119.99/yy.php?id=1382736808 
+林正英僵尸鬼片,http://43.136.119.99/yy.php?id=1459714870 
+经典港片 3000部,http://43.136.119.99/yy.php?id=1353059120 
 经典鬼片,http://43.136.119.99/yy.php?id=1508828185 
 经典鬼片,http://43.136.119.99/yy.php?id=29460894&uid=1647770566 
-吕小羊鬼片正在直播,http://43.136.119.99/yy.php?id=1354792118$LR•IPV4
-绝版鬼片港片,http://43.136.119.99/yy.php?id=1382743247$LR•IPV4
-超级恐怖鬼片,http://43.136.119.99/yy.php?id=1355485328$LR•IPV4
-绝版鬼片超恐怖,http://43.136.119.99/yy.php?id=1382788850$LR•IPV4
-洪金宝福星系列,http://43.136.119.99/yy.php?id=1354924839$LR•IPV4
-动作大片-热血开打,http://43.136.119.99/yy.php?id=1354936168$LR•IPV4
-【林正英】僵尸鬼片,http://43.136.119.99/yy.php?id=30668277$LR•IPV4
-绝版看上瘾的鬼片,http://43.136.119.99/yy.php?id=1355742336$LR•IPV4
-鬼片.惊悚.港片,http://43.136.119.99/yy.php?id=1355497884$LR•IPV4
-经典绝版恐怖3000,http://43.136.119.99/yy.php?id=84238895$LR•IPV4
-港片绝版好看,http://43.136.119.99/yy.php?id=1353850051$LR•IPV4
-【电影】超然巨作,http://43.136.119.99/yy.php?id=29170933#http://43.136.119.99/yy.php?id=26623173$LR•IPV4
-港片经典女鬼,http://43.136.119.99/yy.php?id=1355639947$LR•IPV4
-经典鬼片百看不厌,http://43.136.119.99/yy.php?id=1354209316$LR•IPV4
-院线动作大片,http://43.136.119.99/yy.php?id=1382736900$LR•IPV4
-国内战争电影,http://43.136.119.99/yy.php?id=1382736865$LR•IPV4
-经典动作电影,http://43.136.119.99/yy.php?id=1370293254$LR•IPV4
-科幻电影,http://43.136.119.99/yy.php?id=1354930209$LR•IPV4
-超精彩！系列动作电影,http://43.136.119.99/yy.php?id=1382745096$LR•IPV4
-科幻片：来看神奇的地球,http://43.136.119.99/yy.php?id=1354930897$LR•IPV4
-超炫科幻大片,http://43.136.119.99/yy.php?id=1382736840$LR•IPV4
-国产大片电影,http://43.136.119.99/yy.php?id=1354926655$LR•IPV4
-国外科幻片,http://43.136.119.99/yy.php?id=1382735585$LR•IPV4
-高分动作大片-热血出击,http://43.136.119.99/yy.php?id=1382736909$LR•IPV4
-国外黑色喜剧：冷幽默小剧场,http://43.136.119.99/yy.php?id=1382745175$LR•IPV4
-经典搞笑影片,http://43.136.119.99/yy.php?id=1382749878$LR•IPV4
-欢乐一起看,http://43.136.119.99/yy.php?id=1354930926$LR•IPV4
-林正英鬼片,http://43.136.119.99/yy.php?id=1351505899&uid=1150685483$LR•IPV4
-菲菲影院,http://43.136.119.99/yy.php?id=1456668939&uid=2718850416$LR•IPV4
-幸福影视,http://43.136.119.99/yy.php?id=1382737886&uid=2786225520$LR•IPV4
-经典港片,http://43.136.119.99/yy.php?id=1382800018&uid=2874641994$LR•IPV4
-米娜影视,http://43.136.119.99/yy.php?id=1382690078&uid=2358387041$LR•IPV4
-豪哥影视,http://43.136.119.99/yy.php?id=23402146&uid=2456925852$LR•IPV4
-绝版电影,http://43.136.119.99/yy.php?id=1454587259&uid=67381238$LR•IPV4
-港片电影,http://43.136.119.99/yy.php?id=1355479289&uid=60563267$LR•IPV4
-泡芙影院,http://43.136.119.99/yy.php?id=24407222&uid=2241532024$LR•IPV4
+吕小羊鬼片正在直播,http://43.136.119.99/yy.php?id=1354792118 
+绝版鬼片港片,http://43.136.119.99/yy.php?id=1382743247 
+超级恐怖鬼片,http://43.136.119.99/yy.php?id=1355485328 
+绝版鬼片超恐怖,http://43.136.119.99/yy.php?id=1382788850 
+洪金宝福星系列,http://43.136.119.99/yy.php?id=1354924839 
+动作大片-热血开打,http://43.136.119.99/yy.php?id=1354936168 
+【林正英】僵尸鬼片,http://43.136.119.99/yy.php?id=30668277 
+绝版看上瘾的鬼片,http://43.136.119.99/yy.php?id=1355742336 
+鬼片.惊悚.港片,http://43.136.119.99/yy.php?id=1355497884 
+经典绝版恐怖3000,http://43.136.119.99/yy.php?id=84238895 
+港片绝版好看,http://43.136.119.99/yy.php?id=1353850051 
+【电影】超然巨作,http://43.136.119.99/yy.php?id=29170933#http://43.136.119.99/yy.php?id=26623173 
+港片经典女鬼,http://43.136.119.99/yy.php?id=1355639947 
+经典鬼片百看不厌,http://43.136.119.99/yy.php?id=1354209316 
+院线动作大片,http://43.136.119.99/yy.php?id=1382736900 
+国内战争电影,http://43.136.119.99/yy.php?id=1382736865 
+经典动作电影,http://43.136.119.99/yy.php?id=1370293254 
+科幻电影,http://43.136.119.99/yy.php?id=1354930209 
+超精彩！系列动作电影,http://43.136.119.99/yy.php?id=1382745096 
+科幻片：来看神奇的地球,http://43.136.119.99/yy.php?id=1354930897 
+超炫科幻大片,http://43.136.119.99/yy.php?id=1382736840 
+国产大片电影,http://43.136.119.99/yy.php?id=1354926655 
+国外科幻片,http://43.136.119.99/yy.php?id=1382735585 
+高分动作大片-热血出击,http://43.136.119.99/yy.php?id=1382736909 
+国外黑色喜剧：冷幽默小剧场,http://43.136.119.99/yy.php?id=1382745175 
+经典搞笑影片,http://43.136.119.99/yy.php?id=1382749878 
+欢乐一起看,http://43.136.119.99/yy.php?id=1354930926 
+林正英鬼片,http://43.136.119.99/yy.php?id=1351505899&uid=1150685483 
+菲菲影院,http://43.136.119.99/yy.php?id=1456668939&uid=2718850416 
+幸福影视,http://43.136.119.99/yy.php?id=1382737886&uid=2786225520 
+经典港片,http://43.136.119.99/yy.php?id=1382800018&uid=2874641994 
+米娜影视,http://43.136.119.99/yy.php?id=1382690078&uid=2358387041 
+豪哥影视,http://43.136.119.99/yy.php?id=23402146&uid=2456925852 
+绝版电影,http://43.136.119.99/yy.php?id=1454587259&uid=67381238 
+港片电影,http://43.136.119.99/yy.php?id=1355479289&uid=60563267 
+泡芙影院,http://43.136.119.99/yy.php?id=24407222&uid=2241532024 
 绝版电影港片女鬼,http://43.136.119.99/yy.php?id=1355479289 
 绝版电影港片女鬼,http://43.136.119.99/yy.php?id=1355479289#http://43.136.119.99/yy.php? 
-【赌神片动作片港片】,http://43.136.119.99/yy.php?id=1355112116$LR•IPV4
-鹿鼎记-周星驰版,http://43.136.119.99/yy.php?id=1354658049$LR•IPV4
+【赌神片动作片港片】,http://43.136.119.99/yy.php?id=1355112116 
+鹿鼎记-周星驰版,http://43.136.119.99/yy.php?id=1354658049 
 斗鱼精选,#genre#
-风味人间,http://diyp.zxxoo.work/douyu/9650849#http://diyp.zxxoo.work/douyu/9650849$LR•IPV4
-吃米滴虫(粤语）,http://diyp.zxxoo.work/douyu/5033502$LR•IPV4
-粤语电影,http://diyp.zxxoo.work/douyu/1226741#http://diyp.zxxoo.work/douyu/1226741$LR•IPV4
-神乐电影（粤语）,http://diyp.zxxoo.work/douyu/6566671$LR•IPV4
-粤语电影极清,https://pullhw.zhaoyangyang.cn/live/8720112.flv?auth_info=AHN0ohZXKIkpHfaJ0Jxo6AooWEsiEl2NEhvmMZGHXvg%3D.5747436c766c78616933686f624f334e#https://pullhw.zhaoyangyang.cn/live/8720112.flv?auth_info=AHN0ohZXKIkpHfaJ0Jxo6AooWEsiEl2NEhvmMZGHXvg%3D.5747436c766c78616933686f624f334e$LR•IPV4
-周星驰电影,http://diyp.zxxoo.work/douyu/3637778$LR•IPV4
-麓山迷踪㊣版,http://diyp.zxxoo.work/douyu/4505431$LR•IPV4
-瑶瑶恐怖㊣版,http://diyp.zxxoo.work/douyu/2935323$LR•IPV4
-怡寶影院㊣版,http://diyp.zxxoo.work/douyu/434971$LR•IPV4
-小黛兮影㊣版,http://diyp.zxxoo.work/douyu/11553944$LR•IPV4
-萌小鬼片✔原,http://diyp.zxxoo.work/douyu/3928$LR•IPV4
-凌儿影院㊣版,http://diyp.zxxoo.work/douyu/1377142$LR•IPV4
-国产影院代,http://diyp.zxxoo.work/douyu/5423$LR•IPV4
-吃米滴虫代,http://diyp.zxxoo.work/douyu/315457$LR•IPV4
-冰冰经典代,http://diyp.zxxoo.work/douyu/74374$LR•IPV4
-星爷影院代,http://diyp.zxxoo.work/douyu/508118$LR•IPV4
-神乐影院✔原,http://diyp.zxxoo.work/douyu/122402$LR•IPV4
-可乐影院✔原,http://diyp.zxxoo.work/douyu/20415$LR•IPV4
-小宇60帧✔原,http://diyp.zxxoo.work/douyu/323876$LR•IPV4
-恐怖惊悚✔原,http://diyp.zxxoo.work/douyu/96577$LR•IPV4
-電影劇場✔原,http://diyp.zxxoo.work/douyu/7575350$LR•IPV4
-國語電影✔原,http://diyp.zxxoo.work/douyu/2436390$LR•IPV4
-豆瓣高分✔原,http://diyp.zxxoo.work/douyu/8770422$LR•IPV4
-花卷陪看✔原,http://diyp.zxxoo.work/douyu/52787$LR•IPV4
-漫威剧情✔原,http://diyp.zxxoo.work/douyu/6140589$LR•IPV4
-霍格沃茨✔原,http://diyp.zxxoo.work/douyu/8814650$LR•IPV4
-鱼宝恐怖✔原,http://diyp.zxxoo.work/douyu/1165374$LR•IPV4
-菜园惊险✔原,http://diyp.zxxoo.work/douyu/1735337$LR•IPV4
-吃奶滴虫✔原,http://diyp.zxxoo.work/douyu/263824$LR•IPV4
-变种人片✔原,http://diyp.zxxoo.work/douyu/9651304$LR•IPV4
-喜剧电影✔原,http://diyp.zxxoo.work/douyu/9292492$LR•IPV4
-女神电影✔原,http://diyp.zxxoo.work/douyu/747764$LR•IPV4
-避风影院✔原,http://diyp.zxxoo.work/douyu/9826611$LR•IPV4
-星星影院✔原,http://diyp.zxxoo.work/douyu/315131$LR•IPV4
-欧美大片✔原,http://diyp.zxxoo.work/douyu/2793084$LR•IPV4
-贝爷影厅✔原,http://diyp.zxxoo.work/douyu/252802$LR•IPV4
-邵氏影院代,http://diyp.zxxoo.work/douyu/4246519$LR•IPV4
-4k影院画质,http://diyp.zxxoo.work/douyu/9249162$LR•IPV4
-刘德华,http://diyp.zxxoo.work/douyu/2516864$LR•IPV4
-林正英,http://diyp.zxxoo.work/douyu/7356023$LR•IPV4
-好先生,http://diyp.zxxoo.work/douyu/9650792$LR•IPV4
-庆余年,http://diyp.zxxoo.work/douyu/5908256$LR•IPV4
-欢乐综艺,http://diyp.zxxoo.work/douyu/131977$LR•IPV4
-万合出品,http://diyp.zxxoo.work/douyu/9220456$LR•IPV4
-高分电影,http://diyp.zxxoo.work/douyu/7254536$LR•IPV4
-精彩电影,http://diyp.zxxoo.work/douyu/9650887$LR•IPV4
-恐怖电影,http://diyp.zxxoo.work/douyu/218859$LR•IPV4
-神乐影视,http://diyp.zxxoo.work/douyu/85894$LR•IPV4
-周末影院,http://diyp.zxxoo.work/douyu/3637765$LR•IPV4
-周末电影,http://diyp.zxxoo.work/douyu/3637726$LR•IPV4
-兔子影厅,http://diyp.zxxoo.work/douyu/8985415$LR•IPV4
-贝爷贰厅,http://diyp.zxxoo.work/douyu/4332$LR•IPV4
-贝爷叁厅,http://diyp.zxxoo.work/douyu/36337$LR•IPV4
-云宝影院,http://diyp.zxxoo.work/douyu/7305938$LR•IPV4
-米娅影院,http://diyp.zxxoo.work/douyu/6537888$LR•IPV4
-橙記港剧,http://diyp.zxxoo.work/douyu/4549169$LR•IPV4
-大宝影视,http://diyp.zxxoo.work/douyu/805235$LR•IPV4
-蚂蚱影视,http://diyp.zxxoo.work/douyu/6079455$LR•IPV4
-圆子影视,http://diyp.zxxoo.work/douyu/6566658$LR•IPV4
-贝贝影视,http://diyp.zxxoo.work/douyu/431460$LR•IPV4
-萌牛影视,http://diyp.zxxoo.work/douyu/7494871$LR•IPV4
-兔兔影视,http://diyp.zxxoo.work/douyu/1504768$LR•IPV4
-无双影视,http://diyp.zxxoo.work/douyu/4870914$LR•IPV4
-下饭神剧,http://diyp.zxxoo.work/douyu/276200$LR•IPV4
-古装神剧,http://diyp.zxxoo.work/douyu/338759$LR•IPV4
-晚湾影视,http://diyp.zxxoo.work/douyu/9461178$LR•IPV4
-酒染影视,http://diyp.zxxoo.work/douyu/7550220$LR•IPV4
-热门港剧,http://diyp.zxxoo.work/douyu/5522351$LR•IPV4
-盗墓剧集,http://diyp.zxxoo.work/douyu/9292503$LR•IPV4
-金庸武侠,http://diyp.zxxoo.work/douyu/7644931$LR•IPV4
-国产剧集,http://diyp.zxxoo.work/douyu/8157860$LR•IPV4
-国产剧场,http://diyp.zxxoo.work/douyu/308752$LR•IPV4
-爱情公寓,http://diyp.zxxoo.work/douyu/2838296$LR•IPV4
-经典剧集,http://diyp.zxxoo.work/douyu/6863367$LR•IPV4
-李卫当官,http://diyp.zxxoo.work/douyu/7473576$LR•IPV4
-龙门镖局,http://diyp.zxxoo.work/douyu/9650860$LR•IPV4
-雍正王朝,http://diyp.zxxoo.work/douyu/4944033$LR•IPV4
-雍正帝王,http://diyp.zxxoo.work/douyu/9650836$LR•IPV4
-隋唐演义,http://diyp.zxxoo.work/douyu/7552568$LR•IPV4
-大宋神探,http://diyp.zxxoo.work/douyu/7784862$LR•IPV4
-音乐欣赏,http://diyp.zxxoo.work/douyu/3186217$LR•IPV4
-舌尖美食,http://diyp.zxxoo.work/douyu/9650849$LR•IPV4
-篮球人物,http://diyp.zxxoo.work/douyu/8434598$LR•IPV4
-史君说剧,http://diyp.zxxoo.work/douyu/9419771$LR•IPV4
-史剧解说,http://diyp.zxxoo.work/douyu/297689$LR•IPV4
-老秦说剧,http://diyp.zxxoo.work/douyu/9650131$LR•IPV4
-老蔡解说,http://diyp.zxxoo.work/douyu/8869614$LR•IPV4
-长片短解,http://diyp.zxxoo.work/douyu/9410946$LR•IPV4
-宇哥解说,http://diyp.zxxoo.work/douyu/8651489$LR•IPV4
-夜魔人老王,http://diyp.zxxoo.work/douyu/610972$LR•IPV4
-皮皮看动漫,http://diyp.zxxoo.work/douyu/9837291$LR•IPV4
-开心锤动漫,http://diyp.zxxoo.work/douyu/9018297$LR•IPV4
-拳叔二次元,http://diyp.zxxoo.work/douyu/9484105$LR•IPV4
-老邪说电影,http://diyp.zxxoo.work/douyu/9222870$LR•IPV4
-洗碗君解说,http://diyp.zxxoo.work/douyu/9446706$LR•IPV4
-百晓生说剧,http://diyp.zxxoo.work/douyu/9649681$LR•IPV4
-百晓生解说,http://diyp.zxxoo.work/douyu/9653063$LR•IPV4
-小司马说剧,http://diyp.zxxoo.work/douyu/4808115$LR•IPV4
-小司马解说,http://diyp.zxxoo.work/douyu/9660127$LR•IPV4
-星君说电影,http://diyp.zxxoo.work/douyu/8014467$LR•IPV4
-刘哔讲电影,http://diyp.zxxoo.work/douyu/2632223$LR•IPV4
-老王说电影,http://diyp.zxxoo.work/douyu/9687733$LR•IPV4
-贤于说电影,http://diyp.zxxoo.work/douyu/9461990$LR•IPV4
-牛叔说电影,http://diyp.zxxoo.work/douyu/2758565$LR•IPV4
-侃片大师兄,http://diyp.zxxoo.work/douyu/9338839$LR•IPV4
-虫哥说电影,http://diyp.zxxoo.work/douyu/8915074$LR•IPV4
-电影迷小雅,http://diyp.zxxoo.work/douyu/9639225$LR•IPV4
-1900影剧室,http://diyp.zxxoo.work/douyu/7796193$LR•IPV4
-刘老师说电影,http://diyp.zxxoo.work/douyu/8317926$LR•IPV4
-来呀官人解说,http://diyp.zxxoo.work/douyu/9986305$LR•IPV4
-科幻Fans布玛,http://diyp.zxxoo.work/douyu/3508304$LR•IPV4
-小片片说大片,http://diyp.zxxoo.work/douyu/4258555$LR•IPV4
-大片片说小片,http://diyp.zxxoo.work/douyu/7489563$LR•IPV4
-火龙果说电影,http://diyp.zxxoo.work/douyu/9559158$LR•IPV4
+风味人间,http://diyp.zxxoo.work/douyu/9650849#http://diyp.zxxoo.work/douyu/9650849 
+吃米滴虫(粤语）,http://diyp.zxxoo.work/douyu/5033502 
+粤语电影,http://diyp.zxxoo.work/douyu/1226741#http://diyp.zxxoo.work/douyu/1226741 
+神乐电影（粤语）,http://diyp.zxxoo.work/douyu/6566671 
+粤语电影极清,https://pullhw.zhaoyangyang.cn/live/8720112.flv?auth_info=AHN0ohZXKIkpHfaJ0Jxo6AooWEsiEl2NEhvmMZGHXvg%3D.5747436c766c78616933686f624f334e#https://pullhw.zhaoyangyang.cn/live/8720112.flv?auth_info=AHN0ohZXKIkpHfaJ0Jxo6AooWEsiEl2NEhvmMZGHXvg%3D.5747436c766c78616933686f624f334e 
+周星驰电影,http://diyp.zxxoo.work/douyu/3637778 
+麓山迷踪㊣版,http://diyp.zxxoo.work/douyu/4505431 
+瑶瑶恐怖㊣版,http://diyp.zxxoo.work/douyu/2935323 
+怡寶影院㊣版,http://diyp.zxxoo.work/douyu/434971 
+小黛兮影㊣版,http://diyp.zxxoo.work/douyu/11553944 
+萌小鬼片✔原,http://diyp.zxxoo.work/douyu/3928 
+凌儿影院㊣版,http://diyp.zxxoo.work/douyu/1377142 
+国产影院代,http://diyp.zxxoo.work/douyu/5423 
+吃米滴虫代,http://diyp.zxxoo.work/douyu/315457 
+冰冰经典代,http://diyp.zxxoo.work/douyu/74374 
+星爷影院代,http://diyp.zxxoo.work/douyu/508118 
+神乐影院✔原,http://diyp.zxxoo.work/douyu/122402 
+可乐影院✔原,http://diyp.zxxoo.work/douyu/20415 
+小宇60帧✔原,http://diyp.zxxoo.work/douyu/323876 
+恐怖惊悚✔原,http://diyp.zxxoo.work/douyu/96577 
+電影劇場✔原,http://diyp.zxxoo.work/douyu/7575350 
+國語電影✔原,http://diyp.zxxoo.work/douyu/2436390 
+豆瓣高分✔原,http://diyp.zxxoo.work/douyu/8770422 
+花卷陪看✔原,http://diyp.zxxoo.work/douyu/52787 
+漫威剧情✔原,http://diyp.zxxoo.work/douyu/6140589 
+霍格沃茨✔原,http://diyp.zxxoo.work/douyu/8814650 
+鱼宝恐怖✔原,http://diyp.zxxoo.work/douyu/1165374 
+菜园惊险✔原,http://diyp.zxxoo.work/douyu/1735337 
+吃奶滴虫✔原,http://diyp.zxxoo.work/douyu/263824 
+变种人片✔原,http://diyp.zxxoo.work/douyu/9651304 
+喜剧电影✔原,http://diyp.zxxoo.work/douyu/9292492 
+女神电影✔原,http://diyp.zxxoo.work/douyu/747764 
+避风影院✔原,http://diyp.zxxoo.work/douyu/9826611 
+星星影院✔原,http://diyp.zxxoo.work/douyu/315131 
+欧美大片✔原,http://diyp.zxxoo.work/douyu/2793084 
+贝爷影厅✔原,http://diyp.zxxoo.work/douyu/252802 
+邵氏影院代,http://diyp.zxxoo.work/douyu/4246519 
+4k影院画质,http://diyp.zxxoo.work/douyu/9249162 
+刘德华,http://diyp.zxxoo.work/douyu/2516864 
+林正英,http://diyp.zxxoo.work/douyu/7356023 
+好先生,http://diyp.zxxoo.work/douyu/9650792 
+庆余年,http://diyp.zxxoo.work/douyu/5908256 
+欢乐综艺,http://diyp.zxxoo.work/douyu/131977 
+万合出品,http://diyp.zxxoo.work/douyu/9220456 
+高分电影,http://diyp.zxxoo.work/douyu/7254536 
+精彩电影,http://diyp.zxxoo.work/douyu/9650887 
+恐怖电影,http://diyp.zxxoo.work/douyu/218859 
+神乐影视,http://diyp.zxxoo.work/douyu/85894 
+周末影院,http://diyp.zxxoo.work/douyu/3637765 
+周末电影,http://diyp.zxxoo.work/douyu/3637726 
+兔子影厅,http://diyp.zxxoo.work/douyu/8985415 
+贝爷贰厅,http://diyp.zxxoo.work/douyu/4332 
+贝爷叁厅,http://diyp.zxxoo.work/douyu/36337 
+云宝影院,http://diyp.zxxoo.work/douyu/7305938 
+米娅影院,http://diyp.zxxoo.work/douyu/6537888 
+橙記港剧,http://diyp.zxxoo.work/douyu/4549169 
+大宝影视,http://diyp.zxxoo.work/douyu/805235 
+蚂蚱影视,http://diyp.zxxoo.work/douyu/6079455 
+圆子影视,http://diyp.zxxoo.work/douyu/6566658 
+贝贝影视,http://diyp.zxxoo.work/douyu/431460 
+萌牛影视,http://diyp.zxxoo.work/douyu/7494871 
+兔兔影视,http://diyp.zxxoo.work/douyu/1504768 
+无双影视,http://diyp.zxxoo.work/douyu/4870914 
+下饭神剧,http://diyp.zxxoo.work/douyu/276200 
+古装神剧,http://diyp.zxxoo.work/douyu/338759 
+晚湾影视,http://diyp.zxxoo.work/douyu/9461178 
+酒染影视,http://diyp.zxxoo.work/douyu/7550220 
+热门港剧,http://diyp.zxxoo.work/douyu/5522351 
+盗墓剧集,http://diyp.zxxoo.work/douyu/9292503 
+金庸武侠,http://diyp.zxxoo.work/douyu/7644931 
+国产剧集,http://diyp.zxxoo.work/douyu/8157860 
+国产剧场,http://diyp.zxxoo.work/douyu/308752 
+爱情公寓,http://diyp.zxxoo.work/douyu/2838296 
+经典剧集,http://diyp.zxxoo.work/douyu/6863367 
+李卫当官,http://diyp.zxxoo.work/douyu/7473576 
+龙门镖局,http://diyp.zxxoo.work/douyu/9650860 
+雍正王朝,http://diyp.zxxoo.work/douyu/4944033 
+雍正帝王,http://diyp.zxxoo.work/douyu/9650836 
+隋唐演义,http://diyp.zxxoo.work/douyu/7552568 
+大宋神探,http://diyp.zxxoo.work/douyu/7784862 
+音乐欣赏,http://diyp.zxxoo.work/douyu/3186217 
+舌尖美食,http://diyp.zxxoo.work/douyu/9650849 
+篮球人物,http://diyp.zxxoo.work/douyu/8434598 
+史君说剧,http://diyp.zxxoo.work/douyu/9419771 
+史剧解说,http://diyp.zxxoo.work/douyu/297689 
+老秦说剧,http://diyp.zxxoo.work/douyu/9650131 
+老蔡解说,http://diyp.zxxoo.work/douyu/8869614 
+长片短解,http://diyp.zxxoo.work/douyu/9410946 
+宇哥解说,http://diyp.zxxoo.work/douyu/8651489 
+夜魔人老王,http://diyp.zxxoo.work/douyu/610972 
+皮皮看动漫,http://diyp.zxxoo.work/douyu/9837291 
+开心锤动漫,http://diyp.zxxoo.work/douyu/9018297 
+拳叔二次元,http://diyp.zxxoo.work/douyu/9484105 
+老邪说电影,http://diyp.zxxoo.work/douyu/9222870 
+洗碗君解说,http://diyp.zxxoo.work/douyu/9446706 
+百晓生说剧,http://diyp.zxxoo.work/douyu/9649681 
+百晓生解说,http://diyp.zxxoo.work/douyu/9653063 
+小司马说剧,http://diyp.zxxoo.work/douyu/4808115 
+小司马解说,http://diyp.zxxoo.work/douyu/9660127 
+星君说电影,http://diyp.zxxoo.work/douyu/8014467 
+刘哔讲电影,http://diyp.zxxoo.work/douyu/2632223 
+老王说电影,http://diyp.zxxoo.work/douyu/9687733 
+贤于说电影,http://diyp.zxxoo.work/douyu/9461990 
+牛叔说电影,http://diyp.zxxoo.work/douyu/2758565 
+侃片大师兄,http://diyp.zxxoo.work/douyu/9338839 
+虫哥说电影,http://diyp.zxxoo.work/douyu/8915074 
+电影迷小雅,http://diyp.zxxoo.work/douyu/9639225 
+1900影剧室,http://diyp.zxxoo.work/douyu/7796193 
+刘老师说电影,http://diyp.zxxoo.work/douyu/8317926 
+来呀官人解说,http://diyp.zxxoo.work/douyu/9986305 
+科幻Fans布玛,http://diyp.zxxoo.work/douyu/3508304 
+小片片说大片,http://diyp.zxxoo.work/douyu/4258555 
+大片片说小片,http://diyp.zxxoo.work/douyu/7489563 
+火龙果说电影,http://diyp.zxxoo.work/douyu/9559158 
 虎牙-精选,#genre#
-电影_星爷,http://diyp.zxxoo.work/huya/11342412#http://diyp.zxxoo.work/huya/11342412$LR•IPV4
-电影_星爷粤语,http://diyp.zxxoo.work/huya/11336587#http://diyp.zxxoo.work/huya/11336587$LR•IPV4
-电影_英叔,http://diyp.zxxoo.work/huya/11342421$LR•IPV4
-电影_英叔2,http://diyp.zxxoo.work/huya/27586442$LR•IPV4
-电影_发哥,http://diyp.zxxoo.work/huya/11342387$LR•IPV4
-电影_成龙,http://diyp.zxxoo.work/huya/11342386$LR•IPV4
-电影_王晶,http://diyp.zxxoo.work/huya/11602058$LR•IPV4
-电影_沈腾,http://diyp.zxxoo.work/huya/11601968$LR•IPV4
-电影_黄渤,http://diyp.zxxoo.work/huya/11352876$LR•IPV4
-电影_强森,http://diyp.zxxoo.work/huya/21059581$LR•IPV4
-电影_漫威,http://diyp.zxxoo.work/huya/11602034$LR•IPV4
-电影_宇宙,http://diyp.zxxoo.work/huya/11342428$LR•IPV4
-电影_怪兽,http://diyp.zxxoo.work/huya/21059577$LR•IPV4
-电影_武侠,http://diyp.zxxoo.work/huya/11342427$LR•IPV4
-电影_警匪,http://diyp.zxxoo.work/huya/11352886$LR•IPV4
-电影_罪犯,http://diyp.zxxoo.work/huya/11352962$LR•IPV4
-电影_枪战,http://diyp.zxxoo.work/huya/21059579$LR•IPV4
-电影_海盗,http://diyp.zxxoo.work/huya/21059595$LR•IPV4
-摸鱼快乐,http://diyp.zxxoo.work/huya/19491676$LR•IPV4
-电影_赛车,http://diyp.zxxoo.work/huya/11279247$LR•IPV4
-电影_推荐,http://diyp.zxxoo.work/huya/11602041$LR•IPV4
-电影_救援,http://diyp.zxxoo.work/huya/21059594$LR•IPV4
-电影_热血,http://diyp.zxxoo.work/huya/11352934$LR•IPV4
-电影_盗墓,http://diyp.zxxoo.work/huya/21059552$LR•IPV4
-电影_贺岁,http://diyp.zxxoo.work/huya/11601971$LR•IPV4
-电影_玄幻,http://diyp.zxxoo.work/huya/11342414$LR•IPV4
-电影_谍战,http://diyp.zxxoo.work/huya/21059585$LR•IPV4
-电影_战争,http://diyp.zxxoo.work/huya/21059592$LR•IPV4
-电影_喜剧,http://diyp.zxxoo.work/huya/11352877$LR•IPV4
-电影_港片,http://diyp.zxxoo.work/huya/11602043$LR•IPV4
-电影_国产,http://diyp.zxxoo.work/huya/11352973$LR•IPV4
-电影_周星星,http://diyp.zxxoo.work/huya/11336587$LR•IPV4
-电影_李连杰,http://diyp.zxxoo.work/huya/11342390$LR•IPV4
-电影_洪金宝,http://diyp.zxxoo.work/huya/11279251$LR•IPV4
-电影_梁家辉,http://diyp.zxxoo.work/huya/11342429$LR•IPV4
-电影_许冠英,http://diyp.zxxoo.work/huya/11601972$LR•IPV4
-电影_刘德华,http://diyp.zxxoo.work/huya/11342424$LR•IPV4
-电影_斯坦森,http://diyp.zxxoo.work/huya/21059588$LR•IPV4
-电影_小鬼头,http://diyp.zxxoo.work/huya/11352963$LR•IPV4
-电影_八点档,http://diyp.zxxoo.work/huya/880261$LR•IPV4
-电影_蜘蛛侠,http://diyp.zxxoo.work/huya/21059599$LR•IPV4
-电影_贺岁片,http://diyp.zxxoo.work/huya/11601986$LR•IPV4
-电影_功夫片,http://diyp.zxxoo.work/huya/11352941$LR•IPV4
-电影_黑帮片,http://diyp.zxxoo.work/huya/11336719$LR•IPV4
-电影_丧尸片,http://diyp.zxxoo.work/huya/21059578$LR•IPV4
-电影_灾难片,http://diyp.zxxoo.work/huya/11602075$LR•IPV4
-电影_谍战片,http://diyp.zxxoo.work/huya/21059587$LR•IPV4
-电影_战争片,http://diyp.zxxoo.work/huya/21059574$LR•IPV4
-电影_犯罪片,http://diyp.zxxoo.work/huya/11352974$LR•IPV4
-电影_古装片,http://diyp.zxxoo.work/huya/11336590$LR•IPV4
-电影_高分动作,http://diyp.zxxoo.work/huya/11352884$LR•IPV4
-电影_动作电影,http://diyp.zxxoo.work/huya/11602077$LR•IPV4
-电影_搞笑喜剧,http://diyp.zxxoo.work/huya/11342423$LR•IPV4
-电影_喜剧专场,http://diyp.zxxoo.work/huya/11602044$LR•IPV4
-电影_欢笑影院,http://diyp.zxxoo.work/huya/11352894$LR•IPV4
-电影_不挤影院,http://diyp.zxxoo.work/huya/11352897$LR•IPV4
-电影_国产悬疑,http://diyp.zxxoo.work/huya/11342395$LR•IPV4
-电影_快意江湖,http://diyp.zxxoo.work/huya/11342435$LR•IPV4
-电影_黑帮斗争,http://diyp.zxxoo.work/huya/11342419$LR•IPV4
-电影_古墓系列,http://diyp.zxxoo.work/huya/11352913$LR•IPV4
-电影_嫣然影厅,http://diyp.zxxoo.work/huya/11601977$LR•IPV4
-电影_女神系列,http://diyp.zxxoo.work/huya/11336571$LR•IPV4
-电影_经典女神,http://diyp.zxxoo.work/huya/11352909$LR•IPV4
-电影_许氏三杰,http://diyp.zxxoo.work/huya/11602033$LR•IPV4
-电影_经典港片,http://diyp.zxxoo.work/huya/11352965$LR•IPV4
-电影_镖行天下,http://diyp.zxxoo.work/huya/11352969$LR•IPV4
-电影_高能反转,http://diyp.zxxoo.work/huya/11352887$LR•IPV4
-电影_喜乐影院,http://diyp.zxxoo.work/huya/21059580$LR•IPV4
-电影_蘑菇影厅,http://diyp.zxxoo.work/huya/11601981$LR•IPV4
-电影_搞笑恐怖,http://diyp.zxxoo.work/huya/11601960$LR•IPV4
-电影_死神来了,http://diyp.zxxoo.work/huya/11352903$LR•IPV4
-电影_变形金刚,http://diyp.zxxoo.work/huya/21059596$LR•IPV4
-电影_怪兽系列,http://diyp.zxxoo.work/huya/21059554$LR•IPV4
-搞笑_陈翔六点半,http://diyp.zxxoo.work/huya/11274154$LR•IPV4
-解说_电影狂人,http://diyp.zxxoo.work/huya/18715610$LR•IPV4
-解说_鹿哥电影,http://diyp.zxxoo.work/huya/24396360$LR•IPV4
-解说_斌哥漫说,http://diyp.zxxoo.work/huya/18632116$LR•IPV4
-解说_续哥说电影,http://diyp.zxxoo.work/huya/24396472$LR•IPV4
-解说_小川侃电影,http://diyp.zxxoo.work/huya/15870999$LR•IPV4
-解说_阿钙扒瞎,http://diyp.zxxoo.work/huya/15978172$LR•IPV4
-解说_阿良说剧,http://diyp.zxxoo.work/huya/20488841$LR•IPV4
-解说_鱼丸电影,http://diyp.zxxoo.work/huya/16615910$LR•IPV4
-解说_阿斗说电影,http://diyp.zxxoo.work/huya/13303478$LR•IPV4
-解说_扁豆看电影,http://diyp.zxxoo.work/huya/16028551$LR•IPV4
-解说_乌贼说电影,http://diyp.zxxoo.work/huya/16604522$LR•IPV4
-解说_大象放映室,http://diyp.zxxoo.work/huya/21277391$LR•IPV4
-解说_科幻梦工场,http://diyp.zxxoo.work/huya/15152155$LR•IPV4
-解说_亮哥讲电影,http://diyp.zxxoo.work/huya/16144175$LR•IPV4
-解说_越哥说电影,http://diyp.zxxoo.work/huya/15894162$LR•IPV4
-解说_小冉看电影,http://diyp.zxxoo.work/huya/17341907$LR•IPV4
-解说_嫦娥撩电影,http://diyp.zxxoo.work/huya/18201106$LR•IPV4
-解说_阿翔说电影,http://diyp.zxxoo.work/huya/16868935$LR•IPV4
-解说_疯狂解说家,http://diyp.zxxoo.work/huya/18366196$LR•IPV4
-解说_虎妞说电影,http://diyp.zxxoo.work/huya/20343144$LR•IPV4
-解说_顾久撩电影,http://diyp.zxxoo.work/huya/16422212$LR•IPV4
-解说_涵哥评电影,http://diyp.zxxoo.work/huya/16865726$LR•IPV4
-解说_俗哥看电影,http://diyp.zxxoo.work/huya/15452736$LR•IPV4
-解说_老皮讲电影,http://diyp.zxxoo.work/huya/16968572$LR•IPV4
-解说_默爷侃电影,http://diyp.zxxoo.work/huya/17204307$LR•IPV4
-解说_冷君说电影,http://diyp.zxxoo.work/huya/16739452$LR•IPV4
-解说_老炮说电影,http://diyp.zxxoo.work/huya/15454716$LR•IPV4
-解说_刘老师说电影,http://diyp.zxxoo.work/huya/20289754$LR•IPV4
-解说_恐怖电影解说,http://diyp.zxxoo.work/huya/16741179$LR•IPV4
-剧集_老三国,http://diyp.zxxoo.work/huya/11602081$LR•IPV4
-剧集_新三国,http://diyp.zxxoo.work/huya/11352944$LR•IPV4
-剧集_新水浒,http://diyp.zxxoo.work/huya/11342384$LR•IPV4
-剧集_纪晓岚,http://diyp.zxxoo.work/huya/11342396$LR•IPV4
-剧集_庆余年,http://diyp.zxxoo.work/huya/11352960$LR•IPV4
-剧集_雍正王朝,http://diyp.zxxoo.work/huya/11342439$LR•IPV4
-剧集_士兵突击,http://diyp.zxxoo.work/huya/11342430$LR•IPV4
-剧集_爱情公寓,http://diyp.zxxoo.work/huya/11336726$LR•IPV4
-剧集_家有儿女,http://diyp.zxxoo.work/huya/11352872$LR•IPV4
-剧集_武林外传,http://diyp.zxxoo.work/huya/21059598$LR•IPV4
-剧集_地下交通站,http://diyp.zxxoo.work/huya/11342433$LR•IPV4
-剧集_邻里一家亲,http://diyp.zxxoo.work/huya/11342426$LR•IPV4
+电影_星爷,http://diyp.zxxoo.work/huya/11342412#http://diyp.zxxoo.work/huya/11342412 
+电影_星爷粤语,http://diyp.zxxoo.work/huya/11336587#http://diyp.zxxoo.work/huya/11336587 
+电影_英叔,http://diyp.zxxoo.work/huya/11342421 
+电影_英叔2,http://diyp.zxxoo.work/huya/27586442 
+电影_发哥,http://diyp.zxxoo.work/huya/11342387 
+电影_成龙,http://diyp.zxxoo.work/huya/11342386 
+电影_王晶,http://diyp.zxxoo.work/huya/11602058 
+电影_沈腾,http://diyp.zxxoo.work/huya/11601968 
+电影_黄渤,http://diyp.zxxoo.work/huya/11352876 
+电影_强森,http://diyp.zxxoo.work/huya/21059581 
+电影_漫威,http://diyp.zxxoo.work/huya/11602034 
+电影_宇宙,http://diyp.zxxoo.work/huya/11342428 
+电影_怪兽,http://diyp.zxxoo.work/huya/21059577 
+电影_武侠,http://diyp.zxxoo.work/huya/11342427 
+电影_警匪,http://diyp.zxxoo.work/huya/11352886 
+电影_罪犯,http://diyp.zxxoo.work/huya/11352962 
+电影_枪战,http://diyp.zxxoo.work/huya/21059579 
+电影_海盗,http://diyp.zxxoo.work/huya/21059595 
+摸鱼快乐,http://diyp.zxxoo.work/huya/19491676 
+电影_赛车,http://diyp.zxxoo.work/huya/11279247 
+电影_推荐,http://diyp.zxxoo.work/huya/11602041 
+电影_救援,http://diyp.zxxoo.work/huya/21059594 
+电影_热血,http://diyp.zxxoo.work/huya/11352934 
+电影_盗墓,http://diyp.zxxoo.work/huya/21059552 
+电影_贺岁,http://diyp.zxxoo.work/huya/11601971 
+电影_玄幻,http://diyp.zxxoo.work/huya/11342414 
+电影_谍战,http://diyp.zxxoo.work/huya/21059585 
+电影_战争,http://diyp.zxxoo.work/huya/21059592 
+电影_喜剧,http://diyp.zxxoo.work/huya/11352877 
+电影_港片,http://diyp.zxxoo.work/huya/11602043 
+电影_国产,http://diyp.zxxoo.work/huya/11352973 
+电影_周星星,http://diyp.zxxoo.work/huya/11336587 
+电影_李连杰,http://diyp.zxxoo.work/huya/11342390 
+电影_洪金宝,http://diyp.zxxoo.work/huya/11279251 
+电影_梁家辉,http://diyp.zxxoo.work/huya/11342429 
+电影_许冠英,http://diyp.zxxoo.work/huya/11601972 
+电影_刘德华,http://diyp.zxxoo.work/huya/11342424 
+电影_斯坦森,http://diyp.zxxoo.work/huya/21059588 
+电影_小鬼头,http://diyp.zxxoo.work/huya/11352963 
+电影_八点档,http://diyp.zxxoo.work/huya/880261 
+电影_蜘蛛侠,http://diyp.zxxoo.work/huya/21059599 
+电影_贺岁片,http://diyp.zxxoo.work/huya/11601986 
+电影_功夫片,http://diyp.zxxoo.work/huya/11352941 
+电影_黑帮片,http://diyp.zxxoo.work/huya/11336719 
+电影_丧尸片,http://diyp.zxxoo.work/huya/21059578 
+电影_灾难片,http://diyp.zxxoo.work/huya/11602075 
+电影_谍战片,http://diyp.zxxoo.work/huya/21059587 
+电影_战争片,http://diyp.zxxoo.work/huya/21059574 
+电影_犯罪片,http://diyp.zxxoo.work/huya/11352974 
+电影_古装片,http://diyp.zxxoo.work/huya/11336590 
+电影_高分动作,http://diyp.zxxoo.work/huya/11352884 
+电影_动作电影,http://diyp.zxxoo.work/huya/11602077 
+电影_搞笑喜剧,http://diyp.zxxoo.work/huya/11342423 
+电影_喜剧专场,http://diyp.zxxoo.work/huya/11602044 
+电影_欢笑影院,http://diyp.zxxoo.work/huya/11352894 
+电影_不挤影院,http://diyp.zxxoo.work/huya/11352897 
+电影_国产悬疑,http://diyp.zxxoo.work/huya/11342395 
+电影_快意江湖,http://diyp.zxxoo.work/huya/11342435 
+电影_黑帮斗争,http://diyp.zxxoo.work/huya/11342419 
+电影_古墓系列,http://diyp.zxxoo.work/huya/11352913 
+电影_嫣然影厅,http://diyp.zxxoo.work/huya/11601977 
+电影_女神系列,http://diyp.zxxoo.work/huya/11336571 
+电影_经典女神,http://diyp.zxxoo.work/huya/11352909 
+电影_许氏三杰,http://diyp.zxxoo.work/huya/11602033 
+电影_经典港片,http://diyp.zxxoo.work/huya/11352965 
+电影_镖行天下,http://diyp.zxxoo.work/huya/11352969 
+电影_高能反转,http://diyp.zxxoo.work/huya/11352887 
+电影_喜乐影院,http://diyp.zxxoo.work/huya/21059580 
+电影_蘑菇影厅,http://diyp.zxxoo.work/huya/11601981 
+电影_搞笑恐怖,http://diyp.zxxoo.work/huya/11601960 
+电影_死神来了,http://diyp.zxxoo.work/huya/11352903 
+电影_变形金刚,http://diyp.zxxoo.work/huya/21059596 
+电影_怪兽系列,http://diyp.zxxoo.work/huya/21059554 
+搞笑_陈翔六点半,http://diyp.zxxoo.work/huya/11274154 
+解说_电影狂人,http://diyp.zxxoo.work/huya/18715610 
+解说_鹿哥电影,http://diyp.zxxoo.work/huya/24396360 
+解说_斌哥漫说,http://diyp.zxxoo.work/huya/18632116 
+解说_续哥说电影,http://diyp.zxxoo.work/huya/24396472 
+解说_小川侃电影,http://diyp.zxxoo.work/huya/15870999 
+解说_阿钙扒瞎,http://diyp.zxxoo.work/huya/15978172 
+解说_阿良说剧,http://diyp.zxxoo.work/huya/20488841 
+解说_鱼丸电影,http://diyp.zxxoo.work/huya/16615910 
+解说_阿斗说电影,http://diyp.zxxoo.work/huya/13303478 
+解说_扁豆看电影,http://diyp.zxxoo.work/huya/16028551 
+解说_乌贼说电影,http://diyp.zxxoo.work/huya/16604522 
+解说_大象放映室,http://diyp.zxxoo.work/huya/21277391 
+解说_科幻梦工场,http://diyp.zxxoo.work/huya/15152155 
+解说_亮哥讲电影,http://diyp.zxxoo.work/huya/16144175 
+解说_越哥说电影,http://diyp.zxxoo.work/huya/15894162 
+解说_小冉看电影,http://diyp.zxxoo.work/huya/17341907 
+解说_嫦娥撩电影,http://diyp.zxxoo.work/huya/18201106 
+解说_阿翔说电影,http://diyp.zxxoo.work/huya/16868935 
+解说_疯狂解说家,http://diyp.zxxoo.work/huya/18366196 
+解说_虎妞说电影,http://diyp.zxxoo.work/huya/20343144 
+解说_顾久撩电影,http://diyp.zxxoo.work/huya/16422212 
+解说_涵哥评电影,http://diyp.zxxoo.work/huya/16865726 
+解说_俗哥看电影,http://diyp.zxxoo.work/huya/15452736 
+解说_老皮讲电影,http://diyp.zxxoo.work/huya/16968572 
+解说_默爷侃电影,http://diyp.zxxoo.work/huya/17204307 
+解说_冷君说电影,http://diyp.zxxoo.work/huya/16739452 
+解说_老炮说电影,http://diyp.zxxoo.work/huya/15454716 
+解说_刘老师说电影,http://diyp.zxxoo.work/huya/20289754 
+解说_恐怖电影解说,http://diyp.zxxoo.work/huya/16741179 
+剧集_老三国,http://diyp.zxxoo.work/huya/11602081 
+剧集_新三国,http://diyp.zxxoo.work/huya/11352944 
+剧集_新水浒,http://diyp.zxxoo.work/huya/11342384 
+剧集_纪晓岚,http://diyp.zxxoo.work/huya/11342396 
+剧集_庆余年,http://diyp.zxxoo.work/huya/11352960 
+剧集_雍正王朝,http://diyp.zxxoo.work/huya/11342439 
+剧集_士兵突击,http://diyp.zxxoo.work/huya/11342430 
+剧集_爱情公寓,http://diyp.zxxoo.work/huya/11336726 
+剧集_家有儿女,http://diyp.zxxoo.work/huya/11352872 
+剧集_武林外传,http://diyp.zxxoo.work/huya/21059598 
+剧集_地下交通站,http://diyp.zxxoo.work/huya/11342433 
+剧集_邻里一家亲,http://diyp.zxxoo.work/huya/11342426 
 
