@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,https://liuliuliu.tv/api/channels/1997/stream
-2024-09-13,https://liuliuliu.tv/api/channels/233/stream
+2024-09-14,https://liuliuliu.tv/api/channels/233/stream
 广东频道,#genre#
 广东卫视,http://222.141.133.29:888/rtp/225.1.4.166:1207 
 广东卫视,http://114.243.98.187:8822/rtp/239.3.1.142:8048 
@@ -325,8 +325,7 @@
 翡翠台,https://judy.567852.xyz/live/bf67f424cb2ee1205cc421f51b0efbec6935956ec1fdaf6b65988f2369239bf1.m3u8?token=549293861986921 
 翡翠台,http://ali.hlspull.yximgs.com/live/640278a2f2a784fe35216c752242fd65.flv 
 翡翠台,http://ali.hlspull.yximgs.com/live/125e0c26313f260e74531a0b08458258.flv 
-翡翠台,https://ali.hlspull.yximgs.com/live/0631909409cb74bb2ea8b74b2914cdf3.flv 
-翡翠台,http://ali.hlspull.yximgs.com/live/67b91de7881f5eac3e15ad984e25a7d2.flv 
+翡翠台,https://ali.hlspull.yximgs.com/live/b2bff0b59a8270f8e6a672de6be3473f.flv 
 翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65 
 翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd 
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
@@ -2032,13 +2031,12 @@ iHOT频道,#genre#
 香港频道,#genre#
 翡翠台 4K,https://judy.567852.xyz/live/ed5530edc450aea9b1af2619666cc9225e541dd0331f1858f81d9d085625a333.m3u8?token=549293861986921 
 POP C,http://ali.hlspull.yximgs.com/live/8abba273ab2ad313d9693b0645a3991d.flv 
-Now爆谷台,http://ali.hlspull.yximgs.com/live/685455e005daf5f814f1098aa2f4081e.flv 
-Now爆谷台,http://ali.hlspull.yximgs.com/live/a4d6c0f027f15a5b240644ed37d29270.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/36205fe5958d2c0e04f3370f97631b53.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/7aec3a9f0fc7d10adfa01a55d8147813.flv 
 TVB Plus,https://judy.567852.xyz/live/f50dcac048b74194371870935b9e6bb75d5dab06108d101f22d0e88805dc45e1.m3u8?token=549293861986921 
 TVB Plus,http://ali.hlspull.yximgs.com/live/cb0609082230c19a99726792441ec219.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/47f687f845888b206d139845b5c80fc5.flv 
-TVB Plus,https://ali.hlspull.yximgs.com/live/58905a4f53f10ef662faa1e03dba6437.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/556f28ef54977c371e65b767840587df.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/cfcbb4ef53103aa98c7609b7b4d57624.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/d6b1c957049b84da927543704151ab18.flv 
 TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6 
 TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d 
 無線新聞台,https://judy.567852.xyz/live/f14f0c476b05b65c0f36ed2f0635518320fc6be7bc2f937a948dd5da8f598aa5.m3u8?token=549293861986921 
