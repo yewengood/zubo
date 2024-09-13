@@ -325,7 +325,6 @@
 翡翠台,http://ali.hlspull.yximgs.com/live/86404431b3e7d36d17c08fa431b5ff93.flv 
 翡翠台,http://ali.hlspull.yximgs.com/live/c5dd585e41862b5893992fd9ae57228a.flv 
 翡翠台,http://ali.hlspull.yximgs.com/live/999e73f2bfede409c2449815a2a94981.flv 
-翡翠台,https://ali.hlspull.yximgs.com/live/42b079c0ce7dfcf0b11742017eabcdef.flv 
 翡翠台,http://ali.hlspull.yximgs.com/live/6b041eeae2ee3a2578cbf8bc0bfb4a0d.flv 
 翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65 
 翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd 
@@ -2034,9 +2033,13 @@ iHOT频道,#genre#
 爱院线,http://171.213.129.134:66/udp/239.93.42.11:5140 
 香港频道,#genre#
 翡翠台 4K,https://judy.567852.xyz/live/ed5530edc450aea9b1af2619666cc9225e541dd0331f1858f81d9d085625a333.m3u8?token=549293861986921 
+POP C,http://ali.hlspull.yximgs.com/live/3336af69ea4926d4d35a3777b1fb9342.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/d42b857441cd81e75a822d7e1d7398eb.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/b5dd402696f9faf52a0edb2821a7cbfa.flv 
 TVB Plus,https://judy.567852.xyz/live/f50dcac048b74194371870935b9e6bb75d5dab06108d101f22d0e88805dc45e1.m3u8?token=549293861986921 
 TVB Plus,http://ali.hlspull.yximgs.com/live/ea9069d76367d0e34d5e12a0c8193ff9.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/b116e94486fa4e1302e04cfb9b6063da.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/4bd00e6b3676339dd9bc0db49b476e1c.flv 
+TVB Plus,https://ali.hlspull.yximgs.com/live/d83c1d138305b5f131e4f5083b360bb0.flv 
 TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6 
 TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d 
 無線新聞台,https://judy.567852.xyz/live/f14f0c476b05b65c0f36ed2f0635518320fc6be7bc2f937a948dd5da8f598aa5.m3u8?token=549293861986921 
