@@ -531,47 +531,274 @@ TVBS HD,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8575/.m3u8
 凤凰资讯,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8576/.m3u8
 凤凰中文,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8577/.m3u8
 卫视电影台,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8578/.m3u8
-民视,#id=43
-台视,#id=44
-中视新闻,#id=45
-华视新闻,#id=46
-民视台湾台,#id=49
-民视第一台,#id=50
-三立台湾台,#id=52
-靖洋戏剧台,#id=53
-八大综合台,#id=55
-八大第一台,#id=56
-八大戏剧台,#id=57
-爱尔达影剧台,#id=59
-CN卡通,#id=65
-亚洲旅游台,#id=71
-爱尔达体育4台,#id=72
-探索频道,#id=73
-DMAX,#id=74
-东森LIVE,#id=75
-寰宇新闻,#id=76
-TVBS,#id=77
-TVBS新闻,#id=78
 
-中视新闻,#id=80
-台视新闻,#id=81
-民视新闻,#id=84
-龙祥时代,#id=85
-东森电影,#id=86
-东森洋片,#id=87
-好莱坞电影,#id=88
-龙华戏剧,#id=90
-龙华偶像,#id=91
-龙华洋片,#id=92
-龙华电影,#id=93
-美亚电影台(国),#id=94
-HBO,#id=95
-HBO HiTS,#id=96
-华纳电影台,#id=100
-MOVIES NOW,#id=101
-卫视电影,#id=102
-天映经典,#id=103
-
+Smartv,#genre#
+RTHK32,#rhk32_twn
+RTHK31,#rhk31_twn
+凤凰卫视,#phoenixtv_hd
+无线财经资讯,#tvbcaijing_twn
+VIUTV1,#viu1_twn
+无线新闻,#inews_twn
+龙华戏剧,#lunghuaxiju_twn
+龙华偶像,#lunghuaidol_twn
+龙华卡通,#jingtiancartoon_twn
+非凡新闻,#feifannews_twn
+美亚电影,#meiyamovie_twn
+Arirang,#arirang_twn
+好莱坞电影,#hollywoodmovies_twn
+爱尔达体育2,#eltasport2_twn
+爱尔达体育1,#eltasport_twn
+民视新闻,#ftvnew_taiwan
+民视台湾,#ftvtaiwan_twn
+民视,#ftvhd_taiwan
+年代新闻,#niandainews_twn
+大爱1,#daai_twn
+博斯高球2,#bosigolf2_twn
+博斯运动2,#bosisport2_twn
+博斯运动1,#bosisport1_twn
+博斯网球,#bositennis_twn
+华视,#ctshd_twn
+公视,#ctv_taiwan
+八大综合,#badazhonghe
+中视新闻,#zhongshinews_twn
+中视,#zhongshihd_twn
+中天娱乐,#ctient
+中天亚洲,#ctiasia_twn
+东森超视,#ettvsuper
+东森戏剧,#ettvdrama
+三立综合,#sanlizhonghe
+三立戏剧,#sanlixiju_twn
+东森电影,#ettvmovie
+东森综合,#ettvzhonghe
+中天综合,#ctizhonghe
+八大综合,#badazhonghe
+八大戏剧,#badadrama
+八大第一,#badafirst
+小太阳,#Xiaotaiyang
+靖天卡通,#jingtiancartoon_twn
+靖天国际,#jingtianintl_twn
+TVBS News,#tvbs_n
+TVBS,#tvbs
+EYETV戏剧,#eyetvxiju_twn
+EYETV旅游,#eyetvtravel_twn
+TVBS欢乐,#tvbshuanle_twn
+Zee TV HD,#Zeetvhd
+Warner TV,#WarnerTV
+Viu6,#viusix_twn
+Vasantham,#Vasantham
+TvN,#TVN
+True Premium 2 HD,#truepre2_pat
+True Premium 1 HD,#truepre1_pat
+Transtv,#Transtv
+Trans 7,#Trans7_eko
+Tnn24,#tnn24_pat
+Thrill,#Thrill
+Tawaf TV,#TawafTV
+TVRI National,#TVRI
+TVMU,#TVMU_eko
+TV9,#TV9
+TV9 Indonesia,#TV9_eko
+TV8,#TV8
+TV3,#TV3
+TV3 backup,#TV3_backup
+TV2,#TV2
+TV1,#TV1
+TPTV,#tptv_pat
+TLC,#Tlc
+Suria,#Suria
+体育3,#Assp3
+体育2,#Assp2
+Sunnah HD,#sunnah_mido
+Sun Music,#sunmusic_raj
+Star Vijay,#Starvijay
+Star Vijay India,#starvijay_raj
+Sony Six HD,#sonysix_raj
+Sony HD,#SetOne
+Skynews,#skynews_antik
+SCTV,#Sctv
+SCM,#Weishimovie
+RTM Sports HD,#Rtmsport
+RCTI,#Rcti
+Quran HD,#quran_mido
+Prima,#Prima
+Pick TV,#picktv_antik
+PPTV Thailand1,#pptv_pat
+One,#One
+Oasis,#Oasis
+Nickelodeon,#Nickelodeon
+Nick Jr,#Nickjr
+News 18 Tamil,#news18tamil_raj
+New,#new_pat
+Net TV,#NetTV
+Nation,#nation_pat
+国家地理,#natgeohd_twn
+地理野生动物,#natgeowildtamil_raj
+野生动物,#natgeowild_twn
+地理野生动物,#Natgeowild
+NatGeo Tamil,#natgeotamil_raj
+国家地理,#Natgeo
+More4,#more4_antik
+Momo TV,#momo1_twn
+MiaoMi,#MiaoMi
+Metro TV,#metrotv_eko
+Makkal TV,#Makkaltv
+AXNTaiwan,#axn_twn
+动物星球,#AnimalPlanet
+动物星球1,#animalplanet_twn
+Asianet,#asianet_raj
+Awani,#Awani
+AxnHD,#Axn
+Cinemax,#cinemax_twn
+CNBC,#cnbc_twn
+CelestialMoviesHD,#Celestialindo
+Channel3Thailand,#ch3_pat
+DiscoveryAsia,#discoverytwn_twn
+DiscoveryHD,#discoveryhd_twn
+DiscoveryKidsTamil,#discoverykidtamil_raj
+DiscoveryTurbo,#discoveryturbo_twn
+DiscoveryWorldTamil,#discoveryworldtam_raj
+BBC1,#bbc1_antik
+BBC2,#bbc2_antik
+BBCEarthHD,#bbcearth_twn
+BBCEarthTamil,#bbcearthtam_raj
+BBCWorldNews,#bbcnews_twn
+BTESPN,#btespn
+BTSports1,#beeone
+BTSports3,#beethree
+BloombergNews,#bloomberg_twn
+Boomerang,#Boomerang
+CBBC,#cbbc_antik
+CBSHD,#cbshd_glo
+CBSNHD,#cbsn_glo
+Muslim TV,#MuslimTV
+itv1,#itv1_antik
+tvNMovie,#Tvnmovie
+TVN,#TVN
+RTHK32,#rhk32_twn
+RTHK31,#rhk31_twn
+J2,#j2_twn
+无线财经资讯,#tvbcaijing_twn
+民视第一,#lunghuajingdian_twn
+龙华偶像,#lunghuaidol_twn
+龙华卡通,#jingtiancartoon_twn
+非凡新闻,#feifannews_twn
+美食星球,#foodplanet_twn
+Arirang,#arirang_twn
+爱尔达体育2,#eltasport2_twn
+爱尔达体育1,#eltasport_twn
+民视新闻,#ftvnew_taiwan
+民视台湾,#ftvtaiwan_twn
+民视,#ftvhd_taiwan
+年代新闻,#niandainews_twn
+好消息 2,#good2_twn
+大爱1台,#daai_twn
+博斯高球2,#bosigolf2_twn
+博斯运动 2,#bosisport2_twn
+博斯运动 1,#bosisport1_twn
+博斯网球,#bositennis_twn
+华视,#ctshd_twn
+公视,#ctv_taiwan
+八大综合,#badazhonghe
+中视新闻,#zhongshinews_twn
+中视,#zhongshihd_twn
+中天新闻,#ctinews
+中天娱乐,#ctient
+中天亚洲,#ctiasia_twn
+东森超视,#ettvsuper
+东森财经新闻,#ettvcaijing_twn
+东森戏剧,#ettvdrama
+三立综合,#sanlizhonghe
+三立戏剧,#sanlixiju_twn
+东森电影,#ettvmovie
+东森综合,#ettvzhonghe
+中天综合,#ctizhonghe
+八大综合,#badazhonghe
+八大戏剧,#badadrama
+八大第一,#badafirst
+八大第一,#badafirst
+小太阳,#Xiaotaiyang
+靖天卡通,#jingtiancartoon_twn
+靖天国际,#jingtianintl_twn
+TVBS News,#tvbs_n
+TVBS,#tvbs
+EYETV戏剧,#eyetvxiju_twn
+EYETV旅游,#eyetvtravel_twn
+TVBS欢乐,#tvbshuanle_twn
+Viu6,#viusix_twn
+国家地理,#natgeohd_twn
+野生动物,#natgeowild_twn
+Momo TV,#momo1_twn
+亚洲旅游,#asiatravel_twn
+AXNTaiwan,#axn_twn
+动物星球1,#animalplanet_twn
+CINEMAX,#cinemax_twn
+CNBC,#cnbc_twn
+DiscoveryAsia,#discoverytwn_twn
+DiscoveryHD,#discoveryhd_twn
+DiscoveryTurbo,#discoveryturbo_twn
+BBCEarthHD,#bbcearth_twn
+BBCWorldNews,#bbcnews_twn
+BloombergNews,#bloomberg_twn
+CBSHD,#cbshd_glo
+CBSNHD,#cbsn_glo
+ABCNews,#abcnews_glo
+BabyTV,#babytv_twn
+CBSNews,#cbsn_glo
+CNN,#cnn_twn
+DiscoveryAsia,#discoverytwn_twn
+ELEVEN体育1,#golfchannel_twn
+EYETV戏剧,#eyetvxiju_twn
+FoxNews,#foxnews_twn
+GOODTV真理,#good2_twn
+HBO家庭,#fyi_twn
+RTHK32,#rhk32_twn
+TVBS新闻,#tvbs_n
+TVBS欢乐,#tvbshuanle_twn
+WWE,#wwe_twn
+三立台湾,#sanlitaiwan
+三立戏剧,#sanlixiju_twn
+三立综合,#sanlizhonghe
+中天亚洲,#ctiasia_twn
+中天娱乐,#ctient
+中视新闻,#zhongshinews_twn
+中视新闻,#zhongshinews_twn
+中视经典,#zhongshi_twn
+亚洲旅游,#asiatravel_twn
+八大戏剧,#badadrama
+八大第一,#badafirst
+八大综合,#badazhonghe
+公视,#ctv_taiwan
+动物星球,#animalplanet_twn
+博斯网球,#bositennis_twn
+博斯运动2,#bosisport2_twn
+博斯高球1,#bosigolf1_twn
+博斯高球1,#bosigolf1_twn
+好莱坞电影,#hollywoodmovies_twn
+爱尔达体育1,#eltasport2_twn
+爱尔达体育2,#eltasport2_twn
+探索亚洲,#discoverytwn_twn
+探索动力,#discoveryturbo_twn
+星卫电影,#xingwei_movie
+时尚,#fashiontv_twn
+东森财经,#ettvcaijing_twn
+东森超视,#ettvsuper
+民视新闻,#ftvnew_taiwan
+美亚电影,#meiyamovie_twn
+靖天卡通,#jingtiancartoon_twn
+非凡新闻,#feifannews_twn
+龙华戏剧,#lunghuaxiju_twn
+Awani,#Awani
+BBC,#bbc1_antik
+BBC1,#bbc1_antik
+BBC2,#bbc2_antik
+BBC WORLD NEWS,#bbcnews_twn
+BTSports4,#btespn
+CNA亚洲新闻,#cna
+Euronews,#euronews_antik
+TLC旅游生活,#tlc_twn
+新加坡8,#TV8
+翡翠,#jade_twn
+翡翠,#Wlt
 
 YY精选,#genre#
 老广的味道,#43.136.119.99/yy.php?id=1382735565
