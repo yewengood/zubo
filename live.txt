@@ -322,10 +322,10 @@
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn 
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct 
 翡翠台,https://judy.567852.xyz/live/bf67f424cb2ee1205cc421f51b0efbec6935956ec1fdaf6b65988f2369239bf1.m3u8?token=549293861986921 
-翡翠台,http://ali.hlspull.yximgs.com/live/86404431b3e7d36d17c08fa431b5ff93.flv 
-翡翠台,http://ali.hlspull.yximgs.com/live/c5dd585e41862b5893992fd9ae57228a.flv 
-翡翠台,http://ali.hlspull.yximgs.com/live/999e73f2bfede409c2449815a2a94981.flv 
-翡翠台,http://ali.hlspull.yximgs.com/live/6b041eeae2ee3a2578cbf8bc0bfb4a0d.flv 
+翡翠台,http://ali.hlspull.yximgs.com/live/af89a827453d1842b6690f73730cc1b7.flv 
+翡翠台,http://ali.hlspull.yximgs.com/live/1691845e5c362e678ecc83926a2640df.flv 
+翡翠台,https://ali.hlspull.yximgs.com/live/1826eaab94f7a2f182d75e6ac399ab65.flv 
+翡翠台,http://ali.hlspull.yximgs.com/live/100c5d5e51da96ffdef1b34761a018e5.flv 
 翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65 
 翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd 
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
@@ -2033,13 +2033,14 @@ iHOT频道,#genre#
 爱院线,http://171.213.129.134:66/udp/239.93.42.11:5140 
 香港频道,#genre#
 翡翠台 4K,https://judy.567852.xyz/live/ed5530edc450aea9b1af2619666cc9225e541dd0331f1858f81d9d085625a333.m3u8?token=549293861986921 
-POP C,http://ali.hlspull.yximgs.com/live/3336af69ea4926d4d35a3777b1fb9342.flv 
-Now爆谷台,http://ali.hlspull.yximgs.com/live/d42b857441cd81e75a822d7e1d7398eb.flv 
-Now爆谷台,http://ali.hlspull.yximgs.com/live/b5dd402696f9faf52a0edb2821a7cbfa.flv 
+POP C,http://ali.hlspull.yximgs.com/live/0dc4460fc518fd970b045ff53e4be029.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/cebe72879e0900f5562f3cab7710349e.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/5248ca758365be279f067d3482fd7a2e.flv 
 TVB Plus,https://judy.567852.xyz/live/f50dcac048b74194371870935b9e6bb75d5dab06108d101f22d0e88805dc45e1.m3u8?token=549293861986921 
-TVB Plus,http://ali.hlspull.yximgs.com/live/ea9069d76367d0e34d5e12a0c8193ff9.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/4bd00e6b3676339dd9bc0db49b476e1c.flv 
-TVB Plus,https://ali.hlspull.yximgs.com/live/d83c1d138305b5f131e4f5083b360bb0.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/0d4ba7286d94d0bb3a0affc0e7a9d135.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/9f9ba11829521a18361707df8df8f828.flv 
+TVB Plus,https://ali.hlspull.yximgs.com/live/266818e61f3002b99c1d166812c806a3.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/30323d30cb6c54c5a02f17673b5cec04.flv 
 TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6 
 TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d 
 無線新聞台,https://judy.567852.xyz/live/f14f0c476b05b65c0f36ed2f0635518320fc6be7bc2f937a948dd5da8f598aa5.m3u8?token=549293861986921 
@@ -2075,7 +2076,6 @@ CGTN (中國環球電視網)記錄頻道,https://judy.567852.xyz/live/4a567f08bc
 NHK World-Japan,https://judy.567852.xyz/live/2245e248bac7f4c4a55730eb8b465e8c2a6c92025c1bbf92b51d96984a52cc67.m3u8?token=549293861986921 
 Nick Jr.,https://judy.567852.xyz/live/e64e28aabd302eee6664cbe61dfaba0eae6e46a114a06e6b331732635c145eec.m3u8?token=549293861986921 
 Nick Jr.,mitv://135.148.104.228:19806/0fdb4f78ab6f498f88c12ca5a34fffc2 
-Nickelodeon,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickelodeon 
 Nickelodeon,https://judy.567852.xyz/live/a448cd701af6fb74eec10e334247001e2a6c3f9900f67be6abfd41015f10cc65.m3u8?token=549293861986921 
 PopC,https://judy.567852.xyz/live/dbdd4699ca52bde8de46b45f861c7cd851f80ea51a47f021484bef00ec32fd2e.m3u8?token=549293861986921 
 PopC,mitv://135.148.104.228:19806/3ae0f859370b4f17baec42495be6f043 
@@ -2083,7 +2083,6 @@ PopC,mitv://135.148.104.228:19806/63cdb28090d949ed824376fab51fdd12
 ROCK Action,https://judy.567852.xyz/live/6a210dcae4407ad6a81c52cd3cc5829559a4c9f05109b3f8a87663d3438dd8df.m3u8?token=549293861986921 
 ROCK 綜藝娛樂,https://judy.567852.xyz/live/fc044762e56956c1bfbf2ae0ca1001b8897e1393d90ce94f69260f120aebe14f.m3u8?token=549293861986921 
 SUPER Kids,https://judy.567852.xyz/live/186b7d332041919323f99bf7573fff8e83c6d95c4216111dbbf3abc0de9c104b.m3u8?token=549293861986921 
-Thrill,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Thrill 
 Thrill,https://judy.567852.xyz/live/59457d032a2dc739957f18a2e8b5d3841dccf051114a09d4cfb61c80392c5422.m3u8?token=549293861986921 
 Thrill,mitv://135.148.104.228:19806/d20fff7aa7d64ab19d2a39da2970734a 
 tvN,https://judy.567852.xyz/live/ced3a778963c08fa456d1e42dd4f049cd3c6f514ad88353cbe32096364804f18.m3u8?token=549293861986921 
@@ -2106,16 +2105,28 @@ myTV SUPER FREE,https://judy.567852.xyz/live/03de0535a912c72ef4c0c7b98be72657b08
 港台电视32,mitv://135.148.104.228:19806/8ef4a2b7bac54aba8b17dfd2071df91f 
 台湾频道,#genre#
 民视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8 
-民视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan 
+民视,https://gat.zhoujie218.top/litv/4gtv-4gtv002 
+民视,https://gat.zhoujie218.top/litv/4gtv-4gtv155 
 民视,mitv://135.148.104.228:19806/e85920ffa4de4c2cbab08ad68fd1d5ae 
 台视,mitv://135.148.104.228:19806/333435199f804b03aad4410d4674aaeb 
-中视新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn 
+中视新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv074 
+华视新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv052 
+华视新闻,http://95.179.139.113:5566/4gtv/256 
 华视新闻,mitv://135.148.104.228:19806/ad4759ce4ff244efaa766154165e5d39 
+民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv001 
+民视台湾台,https://litv.zapi.us.kg/?id=4gtv-4gtv156 
+民视台湾台,https://gat.zhoujie218.top/litv/4gtv-4gtv001 
+民视台湾台,https://gat.zhoujie218.top/litv/4gtv-4gtv156 
 民视台湾台,mitv://135.148.104.228:19806/38f827cbd65f4fd8af9c173dc13f6cc7 
+民视第一台,https://litv.zapi.us.kg/?id=4gtv-4gtv003 
+民视第一台,https://gat.zhoujie218.top/litv/4gtv-4gtv003 
+民视第一台,http://95.179.139.113:5566/4gtv/1 
 民视第一台,mitv://135.148.104.228:19806/c29c4ad3a69749f4908e9ae4cab91032 
 民视第一台,mitv://135.148.104.228:19806/3a4000096c084c79af219586be8ed979 
 三立台湾台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8 
 三立台湾台,mitv://135.148.104.228:19806/82c3325594cc42bcb28b18426623428e 
+靖洋戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv045 
+靖洋戏剧台,https://gat.zhoujie218.top/litv/4gtv-4gtv045 
 靖洋戏剧台,mitv://135.148.104.228:19806/0089fb08f1b448b99c18ce438a9f7fc5 
 八大综合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8520/.m3u8 
 八大综合台,mitv://135.148.104.228:19806/5bc105affae344648b1b19d46233e6e6 
@@ -2125,6 +2136,10 @@ myTV SUPER FREE,https://judy.567852.xyz/live/03de0535a912c72ef4c0c7b98be72657b08
 八大戏剧台,mitv://135.148.104.228:19806/a5393bab3516410fb2bd81ea2329f7b3 
 爱尔达影剧台,mitv://135.148.104.228:19806/d2fc333d45044f419b16748a28ac19c5 
 亚洲旅游台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8 
+亚洲旅游台,https://litv.zapi.us.kg/?id=litv-longturn17 
+亚洲旅游台,https://gat.zhoujie218.top/litv/litv-longturn17 
+亚洲旅游台,http://95.179.139.113:5566/4gtv/250 
+亚洲旅游台,http://95.179.139.113:5566/4gtv/261 
 亚洲旅游台,mitv://135.148.104.228:19806/409459f958a04a5fa3609250df421445 
 亚洲旅游台,mitv://135.148.104.228:19806/bc0c6c9782004039b1220b4faa8a3abf 
 爱尔达体育4台,mitv://135.148.104.228:19806/4c4be1e474784fdbbfb565b5046238f4 
@@ -2133,87 +2148,87 @@ myTV SUPER FREE,https://judy.567852.xyz/live/03de0535a912c72ef4c0c7b98be72657b08
 探索频道,mitv://135.148.104.228:19806/c7afe2fe39a04c1dada51462430dce8a 
 探索频道,mitv://135.148.104.228:19806/03803dbb35eb4e78a332b2b421b770c8 
 DMAX,mitv://135.148.104.228:19806/9fcdb313900f49c4b0236628fd939870 
-TVBS,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs 
+TVBS,https://gat.zhoujie218.top/litv/4gtv-4gtv073 
 TVBS,mitv://135.148.104.228:19806/5fe15c41a5ed4d5f9262ee28464c45c0 
 TVBS,mitv://135.148.104.228:19806/9e185dd6c7dd46edb5a7d675e4fca701 
-TVBS新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n 
 TVBS新闻,http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8 
-民视新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvnew_taiwan 
-东森电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie 
-好莱坞电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hollywoodmovies_twn 
+台视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv051 
+台视新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv051 
 龙华戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8549/.m3u8 
-龙华戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaxiju_twn 
+龙华戏剧,https://gat.zhoujie218.top/litv/litv-longturn18 
 龙华戏剧,mitv://135.148.104.228:19806/b3526dee03424c8090e6d4d5e787c56b 
 龙华偶像,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8555/.m3u8 
-龙华偶像,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaidol_twn 
+龙华偶像,https://gat.zhoujie218.top/litv/litv-longturn12 
 龙华偶像,mitv://135.148.104.228:19806/a7b822eb3c86487b960d27a273d5e0b6 
 龙华电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8556/.m3u8 
+龙华电影,https://gat.zhoujie218.top/litv/litv-longturn03 
 龙华电影,mitv://135.148.104.228:19806/40368423d7dc44baaac3fbfc644ee9bf 
 HBO,mitv://135.148.104.228:19806/ccabaebf243e4385a8f39a6abf31f8bb 
 天映经典,mitv://135.148.104.228:19806/3496dc2c5dc1421c8c403eb9c475753e 
 AIWAN+,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8538/.m3u8 
 TVBS新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8 
+TVBS新闻台,https://gat.zhoujie218.top/litv/4gtv-4gtv072 
 TVBS新闻台,mitv://135.148.104.228:19806/53f80a10fb054d5ab0649a59980025a9 
 TVBS新闻台,mitv://135.148.104.228:19806/bb6082c57bae466b9e6c64ba43f2c1e1 
 年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8 
-年代新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=niandainews_twn 
 年代新闻,mitv://135.148.104.228:19806/f8c807d770a8429da9d058b516902907 
 年代新闻,mitv://135.148.104.228:19806/cd32e0feca2244288f8a878d7aacf0fc 
 东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8 
+东森新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv152 
 中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8 
-中天新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews 
+中天新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv009 
 民视新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8 
+民视新闻台,https://gat.zhoujie218.top/litv/litv-ftv13 
 民视新闻台,mitv://135.148.104.228:19806/96f9b2974a86449f9a6f881b4e23ca03 
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8 
+三立新闻,https://gat.zhoujie218.top/4gtv/229 
 非凡商业,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8 
 东森财经新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8 
-东森财经新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvcaijing_twn 
+东森财经新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv153 
 寰宇新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8 
+寰宇新闻台,https://gat.zhoujie218.top/litv/litv-longturn14 
+寰宇新闻台,http://95.179.139.113:5566/4gtv/36 
 寰宇新闻台,mitv://135.148.104.228:19806/33c00ed7adda475f9afe8adbd600bd9a 
 壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8 
 龙华日韩,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8550/.m3u8 
+龙华日韩,https://gat.zhoujie218.top/litv/litv-longturn11 
 Bloomberg,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8551/.m3u8 
 NHK,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8552/.m3u8 
 momo综合台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8553/.m3u8 
 好莱坞电影台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8 
 好莱坞电影台,mitv://135.148.104.228:19806/c4810d15af404015859a5fc5059e4716 
 CINEMAX,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8559/.m3u8 
-CINEMAX,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cinemax_twn 
 CINEMAX,mitv://135.148.104.228:19806/a7ef892dc3d54789b8a29e5b8b06882e 
 CINEMAX,mitv://135.148.104.228:19806/d559fe6e91584b87bff1eaeb0660c6ef 
 卫视合家欢,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8561/.m3u8 
 博斯运动1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8557/.m3u8 
-博斯运动1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport1_twn 
 ELEVEN1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8566/.m3u8 
 ELEVEN2,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8567/.m3u8 
 中视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8 
-中视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn 
+中视,https://gat.zhoujie218.top/litv/4gtv-4gtv040 
 中视,mitv://135.148.104.228:19806/695746eb4c094292a862a53216d54dac 
 华视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8503/.m3u8 
-华视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctshd_twn 
+华视,https://gat.zhoujie218.top/litv/4gtv-4gtv041 
+华视,http://95.179.139.113:5566/4gtv/6 
 华视,mitv://135.148.104.228:19806/2ebe6c2c5cfd454ebdc30acc44e683d7 
 公视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8 
-公视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctv_taiwan 
 公视,mitv://135.148.104.228:19806/345c7e0b5a7545cfacafed5319da0351 
 人间卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8506/.m3u8 
+人间卫视,https://gat.zhoujie218.top/4gtv/210 
+人间卫视,http://95.179.139.113:5566/4gtv/210 
 人间卫视,mitv://135.148.104.228:19806/6c97041f5da4437597c4f045b19b28c0 
 大爱,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8507/.m3u8 
 大爱,mitv://135.148.104.228:19806/3a1fb2af7f384a148c57899bb1b50dfb 
 好消息,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8508/.m3u8 
 好消息,mitv://135.148.104.228:19806/4d0ca895f6d94917a6d24019ab13bd5a 
 国家地理,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8509/.m3u8 
-国家地理,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeohd_twn 
-国家地理,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Natgeo 
 TLC,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8511/.m3u8 
-TLC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tlc 
 动物星球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8512/.m3u8 
-动物星球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=AnimalPlanet 
-动物星球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=animalplanet_twn 
 动物星球,mitv://135.148.104.228:19806/b165132a770741bcac023d15750067d3 
 动物星球,mitv://135.148.104.228:19806/e2f475dd35c74f20b7dc33c3204beb23 
 东森幼幼,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8515/.m3u8 
 龙华卡通,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8516/.m3u8 
-龙华卡通,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn 
+龙华卡通,https://gat.zhoujie218.top/litv/litv-longturn01 
 纬来综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8 
 纬来戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8533/.m3u8 
 纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8 
@@ -2222,175 +2237,155 @@ TLC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tlc
 三立都会台,mitv://135.148.104.228:19806/d246662584364ea6aad39cb2c7767eec 
 卫视中文台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8523/.m3u8 
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8 
-东森综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvzhonghe 
 东森戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8 
-东森戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvdrama 
 东森超视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8 
-东森超视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvsuper 
 中天综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8 
-中天综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe 
 中天娱乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8527/.m3u8 
-中天娱乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctient 
 东风37,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8528/.m3u8 
 年代MUCH,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8 
 TVBS欢乐台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8 
+TVBS欢乐台,https://gat.zhoujie218.top/litv/4gtv-4gtv068 
+TVBS欢乐台,http://95.179.139.113:5566/4gtv/184 
 TVBS欢乐台,mitv://135.148.104.228:19806/115a1e134813400abd3e49bad3af517c 
 TVBS欢乐台,mitv://135.148.104.228:19806/2f5899dbb41e4f798ef5d21862533392 
 TVBS HD,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8 
 卫视电影台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8578/.m3u8 
-Smartv,#genre#
-RTHK32,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn 
-RTHK31,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn 
-凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd 
-无线财经资讯,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbcaijing_twn 
-VIUTV1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn 
-无线新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=inews_twn 
-非凡新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn 
-美亚电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=meiyamovie_twn 
-Arirang,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=arirang_twn 
-Arirang,mitv://135.148.104.228:19806/5260ebd503c84b62bb0c9cd0d1e33223 
-爱尔达体育2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport2_twn 
-爱尔达体育1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport_twn 
-民视台湾,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvtaiwan_twn 
-大爱1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=daai_twn 
-博斯高球2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf2_twn 
-博斯运动2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport2_twn 
-博斯网球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bositennis_twn 
-八大综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badazhonghe 
-中天亚洲,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctiasia_twn 
-三立综合,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlizhonghe 
-三立戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlixiju_twn 
-八大戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badadrama 
-八大第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst 
-小太阳,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xiaotaiyang 
-靖天国际,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtianintl_twn 
-EYETV戏剧,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvxiju_twn 
-EYETV旅游,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvtravel_twn 
-TVBS欢乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbshuanle_twn 
-TVBS欢乐,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8 
-Zee TV HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Zeetvhd 
-Warner TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=WarnerTV 
-Viu6,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn 
-Vasantham,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Vasantham 
-Vasantham,mitv://135.148.104.228:19806/cc7a8a329a9f4c2cac0bf4df02cb6b6e 
-TvN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVN 
-True Premium 2 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=truepre2_pat 
-True Premium 1 HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=truepre1_pat 
-Transtv,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Transtv 
-Trans 7,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Trans7_eko 
-Tnn24,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tnn24_pat 
-Tawaf TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TawafTV 
-TVRI National,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVRI 
-TVMU,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TVMU_eko 
-TV9,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV9 
-TV9,mitv://135.148.104.228:19806/ad929cc96e0e4461aa03d7a0a8e1e8c8 
-TV9,mitv://135.148.104.228:19806/2ded50bc29c04480aaad42823d1fc0f2 
-TV9 Indonesia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV9_eko 
-TV8,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV8 
-TV3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV3 
-TV3,mitv://135.148.104.228:19806/5d3a3f2fec3c413d87d0b349ef79951e 
-TV3,mitv://135.148.104.228:19806/b0236f1ba51f4a70814d5806671dc028 
-TV3 backup,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV3_backup 
-TV2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV2 
-TV2,mitv://135.148.104.228:19806/265c61c5d7ad468e8e0e437d23797171 
-TV1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=TV1 
-TV1,mitv://135.148.104.228:19806/d7229d76e8624e8d872d94d081e9524e 
-TPTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tptv_pat 
-Suria,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Suria 
-Suria,mitv://135.148.104.228:19806/ba543c5c308c44ad9cde7fbf4bc72171 
-体育3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp3 
-体育2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Assp2 
-Sunnah HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sunnah_mido 
-Sun Music,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sunmusic_raj 
-Star Vijay,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Starvijay 
-Star Vijay,mitv://135.148.104.228:19806/b2b5e74aad414e70934ac1a2f3e576ca 
-Star Vijay India,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=starvijay_raj 
-Sony Six HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sonysix_raj 
-Sony HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=SetOne 
-Skynews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=skynews_antik 
-SCTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Sctv 
-SCM,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Weishimovie 
-RTM Sports HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rtmsport 
-RCTI,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Rcti 
-Quran HD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=quran_mido 
-Prima,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Prima 
-Pick TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=picktv_antik 
-PPTV Thailand1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pptv_pat 
-One,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=One 
-Oasis,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Oasis 
-Nick Jr,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Nickjr 
-News 18 Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=news18tamil_raj 
-New,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=new_pat 
-Net TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=NetTV 
-Nation,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=nation_pat 
-地理野生动物,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowildtamil_raj 
-地理野生动物,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Natgeowild 
-野生动物,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowild_twn 
-NatGeo Tamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeotamil_raj 
-More4,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=more4_antik 
-Momo TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=momo1_twn 
-MiaoMi,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=MiaoMi 
-Metro TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=metrotv_eko 
-Makkal TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Makkaltv 
-AXNTaiwan,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn 
-Asianet,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asianet_raj 
-Awani,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Awani 
-AxnHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Axn 
-CNBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnbc_twn 
-CNBC,mitv://135.148.104.228:19806/0c7b37b4c3254709945af2916fe4848b 
-CelestialMoviesHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Celestialindo 
-Channel3Thailand,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ch3_pat 
-DiscoveryAsia,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverytwn_twn 
-DiscoveryHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryhd_twn 
-DiscoveryKidsTamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoverykidtamil_raj 
-DiscoveryTurbo,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryturbo_twn 
-DiscoveryWorldTamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryworldtam_raj 
-BBC1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbc1_antik 
-BBC2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbc2_antik 
-BBCEarthHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcearth_twn 
-BBCEarthTamil,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcearthtam_raj 
-BBCWorldNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn 
-BTESPN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=btespn 
-BTSports1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=beeone 
-BTSports3,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=beethree 
-BloombergNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn 
-Boomerang,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Boomerang 
-Boomerang,mitv://135.148.104.228:19806/60a0b85c79af4aee89ca0d605cdfd7a3 
-Boomerang,mitv://135.148.104.228:19806/16af5143b3544fba92d3ea5e7539ee44 
-CBBC,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbbc_antik 
-CBSHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbshd_glo 
-CBSNHD,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cbsn_glo 
-Muslim TV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=MuslimTV 
-itv1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=itv1_antik 
-tvNMovie,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Tvnmovie 
-J2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_twn 
-民视第一,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn 
-美食星球,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foodplanet_twn 
-美食星球,mitv://135.148.104.228:19806/02a89e372e1344d0b74c5b288d4d1cea 
-美食星球,mitv://135.148.104.228:19806/603ff2b4a3b34834bbe7bbc04b6b8d78 
-好消息 2,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=good2_twn 
-亚洲旅游,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=asiatravel_twn 
-ABCNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=abcnews_glo 
-BabyTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=babytv_twn 
-CNN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cnn_twn 
-CNN,mitv://135.148.104.228:19806/88e503d015b54c75866ce86732601017 
-ELEVEN体育1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=golfchannel_twn 
-FoxNews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foxnews_twn 
-HBO家庭,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fyi_twn 
-WWE,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=wwe_twn 
-WWE,mitv://135.148.104.228:19806/e3ac5937983b467197d0355d0bfaf53b 
-三立台湾,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlitaiwan 
-中视经典,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshi_twn 
-博斯高球1,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf1_twn 
-星卫电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie 
-时尚,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fashiontv_twn 
-CNA亚洲新闻,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cna 
-Euronews,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=euronews_antik 
-Euronews,mitv://135.148.104.228:19806/43dedaf8037e43ceb06f46baa4391692 
-TLC旅游生活,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tlc_twn 
-TLC旅游生活,mitv://135.148.104.228:19806/32000d7eec2049c6b1de2eb8cd3c9348 
-翡翠,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn 
-翡翠,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Wlt 
+4GTV,#genre#
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8 
+AMC电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017 
+AMC电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv017 
+CAT电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076 
+八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034 
+八大精彩台,https://gat.zhoujie218.top/litv/4gtv-4gtv034 
+八大综艺台,https://litv.zapi.us.kg/?id=4gtv-4gtv039 
+八大综艺台,https://gat.zhoujie218.top/litv/4gtv-4gtv039 
+八大综艺台,http://95.179.139.113:5566/4gtv/114 
+采昌影剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv049 
+采昌影剧台,mitv://135.148.104.228:19806/2f739a4b287f479bbd28c962f1eb6367 
+非凡新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv010 
+非凡新闻台,mitv://135.148.104.228:19806/3d7f2e1d0e04407ba29c656092041b09 
+非凡新闻台,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3 
+公视戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv042 
+华视闽南台,https://litv.zapi.us.kg/?id=4gtv-4gtv041 
+华视新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv052 
+寰宇闽南台,https://litv.zapi.us.kg/?id=litv-longturn15 
+靖天电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061 
+靖天电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv061 
+靖天电影台,http://95.179.139.113:5566/4gtv/82 
+靖天电影台,mitv://135.148.104.228:19806/37bdc9a3001d4081a0f0885b317d7221 
+靖天国际台,https://litv.zapi.us.kg/?id=4gtv-4gtv063 
+靖天国际台,https://gat.zhoujie218.top/litv/4gtv-4gtv063 
+靖天欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv054 
+靖天欢乐台,https://gat.zhoujie218.top/litv/4gtv-4gtv054 
+靖天欢乐台,mitv://135.148.104.228:19806/292ac060fb694ab6bab52a705abd0444 
+靖天卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv044 
+靖天卡通台,https://gat.zhoujie218.top/litv/4gtv-4gtv044 
+靖天卡通台,mitv://135.148.104.228:19806/f55c325d0f8b4cac938804f090c50b5c 
+靖天日本台,https://litv.zapi.us.kg/?id=4gtv-4gtv047 
+靖天日本台,https://gat.zhoujie218.top/litv/4gtv-4gtv047 
+靖天日本台,mitv://135.148.104.228:19806/a3d3573d8c2543bd81a38c0cf885f56d 
+靖天戏剧台,https://litv.zapi.us.kg/?id=4gtv-4gtv058 
+靖天戏剧台,https://gat.zhoujie218.top/litv/4gtv-4gtv058 
+靖天戏剧台,mitv://135.148.104.228:19806/08786346511f4fbbbbfe0c4e72ad9409 
+靖天映画台,https://litv.zapi.us.kg/?id=4gtv-4gtv055 
+靖天育乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv062 
+靖天育乐台,https://gat.zhoujie218.top/litv/4gtv-4gtv062 
+靖天育乐台,mitv://135.148.104.228:19806/056c144c71cc4b58be94ec2b1bc6409d 
+靖天资讯台,https://litv.zapi.us.kg/?id=4gtv-4gtv065 
+靖天资讯台,https://gat.zhoujie218.top/litv/4gtv-4gtv065 
+靖天资讯台,http://95.179.139.113:5566/4gtv/88 
+靖天资讯台,mitv://135.148.104.228:19806/f412c238a0594d74a72da81118a27f98 
+靖天综合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046 
+靖天综合台,https://gat.zhoujie218.top/litv/4gtv-4gtv046 
+靖天综合台,http://95.179.139.113:5566/4gtv/21 
+靖天综合台,mitv://135.148.104.228:19806/9617767eac9b4ce792a24a442e821b13 
+靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057 
+靖洋卡通台,https://gat.zhoujie218.top/litv/4gtv-4gtv057 
+龙华电影台,https://litv.zapi.us.kg/?id=litv-longturn03 
+龙华电影台,http://95.179.139.113:5566/4gtv/121 
+龙华经典台,https://litv.zapi.us.kg/?id=litv-longturn21 
+龙华卡通台,https://litv.zapi.us.kg/?id=litv-longturn01 
+龙华偶像台,https://litv.zapi.us.kg/?id=litv-longturn12 
+龙华日韩台,https://litv.zapi.us.kg/?id=litv-longturn11 
+龙华日韩台,http://95.179.139.113:5566/4gtv/28 
+龙华戏剧台,https://litv.zapi.us.kg/?id=litv-longturn18 
+闽镜新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv075 
+民视闽南台,https://litv.zapi.us.kg/?id=4gtv-4gtv002 
+民视综艺台,https://litv.zapi.us.kg/?id=4gtv-4gtv004 
+台湾戏剧台,https://litv.zapi.us.kg/?id=litv-longturn22 
+台湾戏剧台,https://gat.zhoujie218.top/litv/litv-longturn22 
+tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072 
+影迷数位台,https://litv.zapi.us.kg/?id=4gtv-4gtv011 
+中视菁采台,https://litv.zapi.us.kg/?id=4gtv-4gtv064 
+中视菁采台,mitv://135.148.104.228:19806/abf4b02e6c7d408ebc9947ae5b2e11c3 
+中视闽南台,https://litv.zapi.us.kg/?id=4gtv-4gtv040 
+中视新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv074 
+中视新闻台,mitv://135.148.104.228:19806/75f4ea0339f14b62b1df49ede1723daa 
+中天新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv009 
+中天新闻台,mitv://135.148.104.228:19806/1180a44e6cef425e826c3e798f7f3ea9 
+中天新闻台,mitv://147.135.39.171:9906/668829a300087a07bea90b34300003a6 
+猪哥亮歌厅秀,https://litv.zapi.us.kg/?id=4gtv-4gtv006 
+猪哥亮歌厅秀,https://gat.zhoujie218.top/litv/4gtv-4gtv006 
+猪哥亮歌厅秀,http://95.179.139.113:5566/4gtv/113 
+CATCHPLAY电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv076 
+ELTA生活旅游,https://gat.zhoujie218.top/4gtv/237 
+Fun探索娱乐台,https://gat.zhoujie218.top/4gtv/274 
+GreatMovies,https://gat.zhoujie218.top/beesport/UK_Great_Movies_Live_TV 
+MTVLive音乐,https://gat.zhoujie218.top/4gtv/213 
+TVBS精采台,https://gat.zhoujie218.top/litv/4gtv-4gtv067 
+TVBS精采台,mitv://135.148.104.228:19806/0af9c12ec2a347b9b626002b0d10f37c 
+TVBS台剧台,https://gat.zhoujie218.top/4gtv/285 
+TVBS综艺台,https://gat.zhoujie218.top/4gtv/284 
+TVBS综艺台,http://95.179.139.113:5566/4gtv/284 
+半岛新闻,https://gat.zhoujie218.top/litv/litv-ftv10 
+采昌影剧,https://gat.zhoujie218.top/litv/4gtv-4gtv049 
+大爱电视,https://gat.zhoujie218.top/4gtv/209 
+大爱电视,http://95.179.139.113:5566/4gtv/209 
+大爱电视2,https://gat.zhoujie218.top/4gtv/230 
+非凡新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv010 
+公视戏剧,https://gat.zhoujie218.top/litv/4gtv-4gtv042 
+公视戏剧,http://95.179.139.113:5566/4gtv/7 
+寰宇财经台,https://gat.zhoujie218.top/litv/litv-longturn23 
+寰宇新闻台湾台,https://gat.zhoujie218.top/litv/litv-longturn15 
+寰宇新闻台湾台,mitv://135.148.104.228:19806/eca259193814499a8bea04411ffceb1e 
+经典电影台,https://gat.zhoujie218.top/4gtv/201 
+靖天映画,https://gat.zhoujie218.top/litv/4gtv-4gtv055 
+靖天映画,mitv://135.148.104.228:19806/02870872a71c4d2296b35dd02d5a9973 
+镜新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv075 
+镜新闻,mitv://135.148.104.228:19806/65372d81bcb84ef4b76dd34a6f0e32bc 
+龙华经典,https://gat.zhoujie218.top/litv/litv-longturn21 
+民视旅游,https://gat.zhoujie218.top/litv/litv-ftv07 
+民视影剧,https://gat.zhoujie218.top/litv/litv-ftv09 
+民视综艺,https://gat.zhoujie218.top/litv/4gtv-4gtv004 
+三立综合台,https://gat.zhoujie218.top/4gtv/169 
+三立综合台,http://95.179.139.113:5566/4gtv/169 
+三立综合台,mitv://135.148.104.228:19806/a29710ab6188439f8cfaf83e5268ac06 
+戏剧免费看1台,https://gat.zhoujie218.top/4gtv/270 
+戏剧免费看2台,https://gat.zhoujie218.top/4gtv/244 
+戏剧免费看2台,http://95.179.139.113:5566/4gtv/244 
+影迷数位电影台,https://gat.zhoujie218.top/litv/4gtv-4gtv011 
+影迷数位电影台,http://95.179.139.113:5566/4gtv/40 
+影迷数位电影台,mitv://135.148.104.228:19806/68111c16e7bc42d3bc27791997d39a4b 
+影迷数位电影台,mitv://135.148.104.228:19806/953af90f5a014c74b239928d831a1480 
+影迷数位纪实台,https://gat.zhoujie218.top/4gtv/212 
+影迷数位纪实台,http://95.179.139.113:5566/4gtv/212 
+中视菁采,https://gat.zhoujie218.top/litv/4gtv-4gtv064 
+中视经典,https://gat.zhoujie218.top/litv/4gtv-4gtv080 
+KLT-靖天台,http://95.179.139.113:5566/4gtv/84 
+半岛新闻台,http://95.179.139.113:5566/4gtv/85 
+大爱二台,http://95.179.139.113:5566/4gtv/230 
+东森财经新闻台,http://95.179.139.113:5566/4gtv/293 
+东森财经新闻台,mitv://135.148.104.228:19806/5634f613b7f84f81a5c56a6af4311d57 
+东森新闻台,http://95.179.139.113:5566/4gtv/292 
+东森新闻台,mitv://135.148.104.228:19806/311e31668d704df7ade8a4d5e745d49b 
+东森新闻台,mitv://135.148.104.228:19806/e9f96143b31a4e869309a60c27c66bc4 
+fun探索娱乐台,http://95.179.139.113:5566/4gtv/274 
+镜电视新闻台,http://95.179.139.113:5566/4gtv/268 
+靖洋卡通NiceBingo,http://95.179.139.113:5566/4gtv/59 
+民视旅游台,http://95.179.139.113:5566/4gtv/61 
+民视影剧台,http://95.179.139.113:5566/4gtv/24 
+香蕉直击台,http://95.179.139.113:5566/4gtv/94 
+天良,http://60.248.91.20:8000/main 
 YY精选,#genre#
 老广的味道,http://43.136.119.99/yy.php?id=1382735565 
 探秘中华美食,http://43.136.119.99/yy.php?id=1354930954 
