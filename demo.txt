@@ -379,7 +379,8 @@ iHOT频道,#genre#
 明珠台,#://judy.567852.xyz/live/06630af00a526d740e75406697de781f52b1639996838c5a4a00a22745c3b0d7.m3u8?token=549293861986921
 POP C,
 Now爆谷台,
-NOW爆谷星影台,
+Now星影台,
+Now爆谷星影台,
 TVB Plus,#://judy.567852.xyz/live/f50dcac048b74194371870935b9e6bb75d5dab06108d101f22d0e88805dc45e1.m3u8?token=549293861986921
 無線新聞台,#://judy.567852.xyz/live/f14f0c476b05b65c0f36ed2f0635518320fc6be7bc2f937a948dd5da8f598aa5.m3u8?token=549293861986921
 華語劇台,#://judy.567852.xyz/live/25e814ebb917605573fae126f4b41ee35f0b67a94e72fe19bf47f5c46cbd9c2f.m3u8?token=549293861986921
@@ -540,6 +541,7 @@ TVBS HD,#tianhewan.top/ZIPP.php?url=#211.72.65.236:8575/.m3u8
 YY精选,#genre#
 老广的味道,#43.136.119.99/yy.php?id=1382735565
 探秘中华美食,#43.136.119.99/yy.php?id=1354930954
+YY粤语电影,
 野外生存,#43.136.119.99/yy.php?id=1355244168
 德爷单挑荒野,#43.136.119.99/yy.php?id=27772604
 荒野求生,#43.136.119.99/yy.php?id=1355244170
