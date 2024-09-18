@@ -1,8 +1,8 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
     "https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt",
+    "https://raw.githubusercontent.com/yewengood/-/main/888.txt",
     "http://我不是.摸鱼儿.top/live.php",
     "https://judy.567852.xyz/live/playlist.m3u?token=549293861986921",
     "http://free.xiptv.x10.bz/p3p.php"
