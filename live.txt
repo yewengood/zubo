@@ -339,9 +339,9 @@
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct 
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn 
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct 
-翡翠台,http://ali.hlspull.yximgs.com/live/20ee0c8d7dec081a0e350d263d37e626.flv 
-翡翠台,http://ali.hlspull.yximgs.com/live/626fccff259a66f47fdd5b7aedea3435.flv 
-翡翠台,http://ali.hlspull.yximgs.com/live/332cb92e43d4955b9d5d6550e5816239.flv 
+翡翠台,http://ali.hlspull.yximgs.com/live/7c9f5a1803d2443bb9e349df66d6ac74.flv 
+翡翠台,http://ali.hlspull.yximgs.com/live/fa8ecdd6d796f376f7c6cc7968777e8b.flv 
+翡翠台,http://ali.hlspull.yximgs.com/live/e99c5906c2e4855e1edf34970477971d.flv 
 翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65 
 翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd 
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
@@ -2157,13 +2157,11 @@ iHOT频道,#genre#
 爱院线,http://1.14.19.228:35455/itv/6000000006000030630.m3u8?cdn=wasusyt 
 爱院线,http://wouu.net:9977/udp/239.93.42.11:5140 
 香港频道,#genre#
-POP C,http://ali.hlspull.yximgs.com/live/851b3f94ead98e3a757441a710f4ac55.flv 
-Now爆谷台,http://ali.hlspull.yximgs.com/live/e9a02a0810fe87b576c94e8be048c6f3.flv 
-Now爆谷星影台,http://ali.hlspull.yximgs.com/live/3ee9c7fbbf3160cd20a4f14cf5593a74.flv 
-Now爆谷星影台,http://ali.hlspull.yximgs.com/live/97bd15be6efe04b6b5cd90110307a295.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/94925d317178462f78a578b2cdeaa1d9.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/97c5780c3941311ea10de44282da2baf.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/2c6b2ea33e2adc29c777235afc326e4a.flv 
+POP C,http://ali.hlspull.yximgs.com/live/e7168c153135545ffd3df05747f6d9f9.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/571621c7aaf4fa990dab8ea85bf31f47.flv 
+Now爆谷星影台,http://ali.hlspull.yximgs.com/live/d2e7816ef6a69927df6b082547f595fa.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/adcd3eeb757a524d6a70bf52e3b00835.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/590cdd57cf0a56543b36a09917de2106.flv 
 TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6 
 TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d 
 Animax,mitv://135.148.104.228:19806/7c6f8a583fc24b298779528c07b8c66d 
