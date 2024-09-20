@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,https://liuliuliu.tv/api/channels/1997/stream
-2024-09-20,https://liuliuliu.tv/api/channels/233/stream
+2024-09-21,https://liuliuliu.tv/api/channels/233/stream
 广东频道,#genre#
 广东卫视高清,http://183.30.200.87:10250/udp/239.0.1.1:5001 
 广东卫视高清,http://183.30.200.45:10250/udp/239.0.1.1:5001 
@@ -346,7 +346,6 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct 
 翡翠台,http://ali.hlspull.yximgs.com/live/79dcd8bed7b94cd62e928d0c76a39764.flv 
 翡翠台,http://ali.hlspull.yximgs.com/live/54f562031d9db9f71d53816fbb6ac798.flv 
-翡翠台,http://ali.hlspull.yximgs.com/live/5edfb548ea8628d98b1a756e08c9eb26.flv 
 翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65 
 翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd 
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
@@ -2535,12 +2534,12 @@ iHOT频道,#genre#
 爱院线,http://1.14.19.228:35455/itv/6000000006000030630.m3u8?cdn=wasusyt 
 爱院线,http://wouu.net:9977/udp/239.93.42.11:5140 
 香港频道,#genre#
-POP C,http://ali.hlspull.yximgs.com/live/9b0ba1aa3e531c05488f2651a8eaeb2b.flv 
-Now爆谷台,http://ali.hlspull.yximgs.com/live/fa74491e3b8017716175d4ccf9b8a703.flv 
-Now爆谷星影台,http://ali.hlspull.yximgs.com/live/36323b8b8d7e2f7535644d9f7fd24849.flv 
-Now爆谷星影台,http://ali.hlspull.yximgs.com/live/a075e9303794ec9c5f0a63fd0c54deb0.flv 
+POP C,http://ali.hlspull.yximgs.com/live/2cc9cb95608098d06b631eed90a0ab23.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/61cb839b75b17dbcc6663b2c98509186.flv 
+Now爆谷星影台,http://ali.hlspull.yximgs.com/live/4eebecddf8ab0c7aee417893a708acd6.flv 
+Now爆谷星影台,http://ali.hlspull.yximgs.com/live/2c13b97a55d21de316317a2e29969c7e.flv 
 TVB Plus,http://ali.hlspull.yximgs.com/live/da81d3f3195029a7ba307a371fb70142.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/35d2322f846f258be95dea525fc09272.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/8433460d8860d05f7230e64c6de9766c.flv 
 TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6 
 TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d 
 Animax,mitv://135.148.104.228:19806/7c6f8a583fc24b298779528c07b8c66d 
