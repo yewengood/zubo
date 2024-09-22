@@ -1,9 +1,9 @@
-2024-09-22 06:36:28,563 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2024-09-22 06:36:28,570 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  联通, 📡  电信频道, 📡  广州频道, 📡  广东频道, 📡  深圳频道, 📡  四川频道, 📡  北京联通
-2024-09-22 06:36:28,800 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
-2024-09-22 06:36:28,803 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 广东移动, 阳江移动组播#genre#
-2024-09-22 06:36:29,500 - INFO - url: http://我不是.摸鱼儿.top/live.php 获取成功，判断为txt格式
-2024-09-22 06:36:29,502 - INFO - url: http://我不是.摸鱼儿.top/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视频道, 卫视频道, 其他频道, 广东频道, 港·澳·台
-2024-09-22 06:36:30,097 - ERROR - url: https://judy.567852.xyz/live/playlist.m3u?token=549293861986921 爬取失败❌, Error: 401 Client Error: Unauthorized for url: https://judy.567852.xyz/live/playlist.m3u?token=549293861986921
-2024-09-22 06:36:30,351 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
-2024-09-22 06:36:30,353 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, 特别说明, ﻿港台频道, 港澳, 台湾, 马来, 新加, 日本, 韩国, 北美, 新闻, 音乐, 体育, 知识, 少儿, 电影, 戏剧, 18+Chinese
+2024-09-22 12:40:53,950 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2024-09-22 12:40:53,957 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  联通, 📡  电信频道, 📡  广州频道, 📡  广东频道, 📡  深圳频道, 📡  四川频道, 📡  北京联通
+2024-09-22 12:40:54,121 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
+2024-09-22 12:40:54,124 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, YY精选, 斗鱼精选, 虎牙-精选, 四川电信, 广东移动, 阳江移动组播#genre#
+2024-09-22 12:40:55,060 - INFO - url: http://我不是.摸鱼儿.top/live.php 获取成功，判断为txt格式
+2024-09-22 12:40:55,062 - INFO - url: http://我不是.摸鱼儿.top/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视频道, 卫视频道, 其他频道, 广东频道, 港·澳·台
+2024-09-22 12:40:56,186 - ERROR - url: https://judy.567852.xyz/live/playlist.m3u?token=549293861986921 爬取失败❌, Error: 401 Client Error: Unauthorized for url: https://judy.567852.xyz/live/playlist.m3u?token=549293861986921
+2024-09-22 12:40:56,556 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
+2024-09-22 12:40:56,558 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, 特别说明, ﻿港台频道, 港澳, 台湾, 马来, 新加, 日本, 韩国, 北美, 新闻, 音乐, 体育, 知识, 少儿, 电影, 戏剧, 18+Chinese
