@@ -369,7 +369,7 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct 
 翡翠台,http://ali.hlspull.yximgs.com/live/2db2f6d62d05c6103377aef46845ab09.flv 
 翡翠台,http://ali.hlspull.yximgs.com/live/c77391f20cc44a704a285bc9a6462e66.flv 
-翡翠台,http://ali.hlspull.yximgs.com/live/8B635TOe5aPkq8XgqJ0GuQVvhlUnPV36.flv 
+翡翠台,http://ali.hlspull.yximgs.com/live/pPL25yZPoMHRjg0WW7Xk0VIP2oAFwTBV.flv 
 翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65 
 翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd 
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
@@ -2466,13 +2466,13 @@ iHOT频道,#genre#
 爱院线,http://1.14.19.228:35455/itv/6000000006000030630.m3u8?cdn=wasusyt 
 爱院线,http://wouu.net:9977/udp/239.93.42.11:5140 
 香港频道,#genre#
-POP C,http://ali.hlspull.yximgs.com/live/e1d764b729c5915b475e0b4f79a65631.flv 
-Now爆谷台,http://ali.hlspull.yximgs.com/live/13208a756f0cb797a91bfe62245c0060.flv 
-Now爆谷台,http://ali.hlspull.yximgs.com/live/13991ef9f0ba722f1a4b9dcb3a75095f.flv 
-Now爆谷星影台,http://ali.hlspull.yximgs.com/live/f630fbc096fc0bb051c1a9462864adc7.flv 
+POP C,http://ali.hlspull.yximgs.com/live/12e97db3d89bda214f9f5f3a19e2598e.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/1b7e22d3d360de07f7339462c0de3cc1.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/34e7815cd20f4fa6b66a1f2ac3cecf93.flv 
+Now爆谷星影台,http://ali.hlspull.yximgs.com/live/739a94ca838db911388465d8f36625cf.flv 
 TVB Plus,http://ali.hlspull.yximgs.com/live/74fc6af477daf53e59be0466e474d7de.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/83f956c40af053baeb3fcaa15893ff9d.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/X9MRCNpf4yLozRuhMzkodIf3KUZw7lbB.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/kFuSN8Pm8FVRVi7m2RfoQ1UTq1MXezf8.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/c24bb1c85872704eeded4ad8d66e44de.flv 
 TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6 
 TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d 
 Animax,mitv://135.148.104.228:19806/7c6f8a583fc24b298779528c07b8c66d 
