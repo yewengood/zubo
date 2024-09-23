@@ -4,11 +4,11 @@ https://liuliuliu.tv/api/channels/1997/stream
 #EXTINF:-1 tvg-id="1" tvg-name="2024-09-23" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2024-09-23
 https://liuliuliu.tv/api/channels/233/stream
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东卫视高清.png" group-title="广东频道",广东卫视高清
-http://183.30.200.133:10250/udp/239.0.1.1:5001 
+http://183.30.200.115:10250/udp/239.0.1.1:5001 
 #EXTINF:-1 tvg-id="2" tvg-name="广东卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东卫视高清.png" group-title="广东频道",广东卫视高清
-http://183.30.200.62:10250/udp/239.0.1.1:5001 
+http://183.30.200.133:10250/udp/239.0.1.1:5001 
 #EXTINF:-1 tvg-id="3" tvg-name="广东卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东卫视高清.png" group-title="广东频道",广东卫视高清
-http://183.30.200.230:10250/udp/239.0.1.1:5001 
+http://183.30.200.46:10250/udp/239.0.1.1:5001 
 #EXTINF:-1 tvg-id="4" tvg-name="广东卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东卫视高清.png" group-title="广东频道",广东卫视高清
 http://27.42.153.105:8188/udp/239.77.1.19:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="广东卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东卫视高清.png" group-title="广东频道",广东卫视高清
@@ -70,11 +70,11 @@ http://mryx.fun:1025/udp/239.10.0.111:1025
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东卫视高清.png" group-title="广东频道",广东卫视高清
 http://mryx.fun:1025/udp/239.10.0.141:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="广东珠江高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江高清.png" group-title="广东频道",广东珠江高清
-http://183.30.200.133:10250/udp/239.0.1.133:5172 
+http://183.30.200.115:10250/udp/239.0.1.133:5172 
 #EXTINF:-1 tvg-id="2" tvg-name="广东珠江高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江高清.png" group-title="广东频道",广东珠江高清
-http://183.30.200.62:10250/udp/239.0.1.133:5172 
+http://183.30.200.133:10250/udp/239.0.1.133:5172 
 #EXTINF:-1 tvg-id="3" tvg-name="广东珠江高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江高清.png" group-title="广东频道",广东珠江高清
-http://183.30.200.230:10250/udp/239.0.1.133:5172 
+http://183.30.200.46:10250/udp/239.0.1.133:5172 
 #EXTINF:-1 tvg-id="4" tvg-name="广东珠江高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江高清.png" group-title="广东频道",广东珠江高清
 http://27.42.153.105:8188/udp/239.77.0.1:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="广东珠江高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江高清.png" group-title="广东频道",广东珠江高清
@@ -102,11 +102,11 @@ http://lzjzyh.xyz:8888/rtp/239.20.0.64:3144
 #EXTINF:-1 tvg-id="16" tvg-name="广东珠江高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江高清.png" group-title="广东频道",广东珠江高清
 http://mryx.fun:1025/udp/239.10.0.62:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="广东珠江超清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江超清.png" group-title="广东频道",广东珠江超清
-http://183.30.200.133:10250/udp/239.0.1.134:5173 
+http://183.30.200.115:10250/udp/239.0.1.134:5173 
 #EXTINF:-1 tvg-id="2" tvg-name="广东珠江超清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江超清.png" group-title="广东频道",广东珠江超清
-http://183.30.200.62:10250/udp/239.0.1.134:5173 
+http://183.30.200.133:10250/udp/239.0.1.134:5173 
 #EXTINF:-1 tvg-id="3" tvg-name="广东珠江超清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江超清.png" group-title="广东频道",广东珠江超清
-http://183.30.200.230:10250/udp/239.0.1.134:5173 
+http://183.30.200.46:10250/udp/239.0.1.134:5173 
 #EXTINF:-1 tvg-id="4" tvg-name="广东珠江超清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江超清.png" group-title="广东频道",广东珠江超清
 http://27.42.153.105:8188/udp/239.77.0.114:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="广东珠江超清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江超清.png" group-title="广东频道",广东珠江超清
@@ -134,17 +134,17 @@ http://lzjzyh.xyz:8888/rtp/239.20.0.63:3148
 #EXTINF:-1 tvg-id="16" tvg-name="广东珠江超清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东珠江超清.png" group-title="广东频道",广东珠江超清
 http://mryx.fun:1025/udp/239.10.0.63:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="广东经济高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东经济高清.png" group-title="广东频道",广东经济高清
-http://183.30.200.133:10250/udp/239.0.1.94:5013 
+http://183.30.200.115:10250/udp/239.0.1.94:5013 
 #EXTINF:-1 tvg-id="2" tvg-name="广东经济高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东经济高清.png" group-title="广东频道",广东经济高清
-http://183.30.200.62:10250/udp/239.0.1.94:5013 
+http://183.30.200.133:10250/udp/239.0.1.94:5013 
 #EXTINF:-1 tvg-id="3" tvg-name="广东经济高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东经济高清.png" group-title="广东频道",广东经济高清
-http://183.30.200.230:10250/udp/239.0.1.94:5013 
+http://183.30.200.46:10250/udp/239.0.1.94:5013 
 #EXTINF:-1 tvg-id="1" tvg-name="广东体育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东体育高清.png" group-title="广东频道",广东体育高清
-http://183.30.200.133:10250/udp/239.0.1.95:5057 
+http://183.30.200.115:10250/udp/239.0.1.95:5057 
 #EXTINF:-1 tvg-id="2" tvg-name="广东体育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东体育高清.png" group-title="广东频道",广东体育高清
-http://183.30.200.62:10250/udp/239.0.1.95:5057 
+http://183.30.200.133:10250/udp/239.0.1.95:5057 
 #EXTINF:-1 tvg-id="3" tvg-name="广东体育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东体育高清.png" group-title="广东频道",广东体育高清
-http://183.30.200.230:10250/udp/239.0.1.95:5057 
+http://183.30.200.46:10250/udp/239.0.1.95:5057 
 #EXTINF:-1 tvg-id="4" tvg-name="广东体育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东体育高清.png" group-title="广东频道",广东体育高清
 http://120.234.49.38:7000/udp/239.20.0.103:2004 
 #EXTINF:-1 tvg-id="5" tvg-name="广东体育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东体育高清.png" group-title="广东频道",广东体育高清
@@ -158,11 +158,11 @@ http://mryx.fun:1025/udp/239.10.0.113:1025
 #EXTINF:-1 tvg-id="9" tvg-name="广东体育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东体育高清.png" group-title="广东频道",广东体育高清
 http://mryx.fun:1025/udp/239.10.0.124:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="广东影视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东影视高清.png" group-title="广东频道",广东影视高清
-http://183.30.200.133:10250/udp/239.0.1.135:5076 
+http://183.30.200.115:10250/udp/239.0.1.135:5076 
 #EXTINF:-1 tvg-id="2" tvg-name="广东影视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东影视高清.png" group-title="广东频道",广东影视高清
-http://183.30.200.62:10250/udp/239.0.1.135:5076 
+http://183.30.200.133:10250/udp/239.0.1.135:5076 
 #EXTINF:-1 tvg-id="3" tvg-name="广东影视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东影视高清.png" group-title="广东频道",广东影视高清
-http://183.30.200.230:10250/udp/239.0.1.135:5076 
+http://183.30.200.46:10250/udp/239.0.1.135:5076 
 #EXTINF:-1 tvg-id="4" tvg-name="广东影视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东影视高清.png" group-title="广东频道",广东影视高清
 http://27.42.153.105:8188/udp/239.77.0.217:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="广东影视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东影视高清.png" group-title="广东频道",广东影视高清
@@ -192,11 +192,11 @@ http://mryx.fun:1025/udp/239.10.0.127:1025
 #EXTINF:-1 tvg-id="17" tvg-name="广东影视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东影视高清.png" group-title="广东频道",广东影视高清
 http://mryx.fun:1025/udp/239.11.0.79:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="大湾区卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/大湾区卫视高清.png" group-title="广东频道",大湾区卫视高清
-http://183.30.200.133:10250/udp/239.0.1.77:5075 
+http://183.30.200.115:10250/udp/239.0.1.77:5075 
 #EXTINF:-1 tvg-id="2" tvg-name="大湾区卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/大湾区卫视高清.png" group-title="广东频道",大湾区卫视高清
-http://183.30.200.62:10250/udp/239.0.1.77:5075 
+http://183.30.200.133:10250/udp/239.0.1.77:5075 
 #EXTINF:-1 tvg-id="3" tvg-name="大湾区卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/大湾区卫视高清.png" group-title="广东频道",大湾区卫视高清
-http://183.30.200.230:10250/udp/239.0.1.77:5075 
+http://183.30.200.46:10250/udp/239.0.1.77:5075 
 #EXTINF:-1 tvg-id="4" tvg-name="大湾区卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/大湾区卫视高清.png" group-title="广东频道",大湾区卫视高清
 http://27.42.153.105:8188/udp/239.77.0.215:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="大湾区卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/大湾区卫视高清.png" group-title="广东频道",大湾区卫视高清
@@ -226,11 +226,11 @@ http://mryx.fun:1025/udp/239.10.0.135:1025
 #EXTINF:-1 tvg-id="17" tvg-name="大湾区卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/大湾区卫视高清.png" group-title="广东频道",大湾区卫视高清
 http://mryx.fun:1025/udp/239.11.0.78:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="广东民生高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东民生高清.png" group-title="广东频道",广东民生高清
-http://183.30.200.133:10250/udp/239.0.1.58:5073 
+http://183.30.200.115:10250/udp/239.0.1.58:5073 
 #EXTINF:-1 tvg-id="2" tvg-name="广东民生高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东民生高清.png" group-title="广东频道",广东民生高清
-http://183.30.200.62:10250/udp/239.0.1.58:5073 
+http://183.30.200.133:10250/udp/239.0.1.58:5073 
 #EXTINF:-1 tvg-id="3" tvg-name="广东民生高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东民生高清.png" group-title="广东频道",广东民生高清
-http://183.30.200.230:10250/udp/239.0.1.58:5073 
+http://183.30.200.46:10250/udp/239.0.1.58:5073 
 #EXTINF:-1 tvg-id="4" tvg-name="广东民生高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东民生高清.png" group-title="广东频道",广东民生高清
 http://27.42.153.105:8188/udp/239.77.0.225:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="广东民生高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东民生高清.png" group-title="广东频道",广东民生高清
@@ -260,11 +260,11 @@ http://mryx.fun:1025/udp/239.10.0.123:1025
 #EXTINF:-1 tvg-id="17" tvg-name="广东民生高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东民生高清.png" group-title="广东频道",广东民生高清
 http://mryx.fun:1025/udp/239.11.0.80:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="广东少儿高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东少儿高清.png" group-title="广东频道",广东少儿高清
-http://183.30.200.133:10250/udp/239.0.1.93:5077 
+http://183.30.200.115:10250/udp/239.0.1.93:5077 
 #EXTINF:-1 tvg-id="2" tvg-name="广东少儿高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东少儿高清.png" group-title="广东频道",广东少儿高清
-http://183.30.200.62:10250/udp/239.0.1.93:5077 
+http://183.30.200.133:10250/udp/239.0.1.93:5077 
 #EXTINF:-1 tvg-id="3" tvg-name="广东少儿高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东少儿高清.png" group-title="广东频道",广东少儿高清
-http://183.30.200.230:10250/udp/239.0.1.93:5077 
+http://183.30.200.46:10250/udp/239.0.1.93:5077 
 #EXTINF:-1 tvg-id="4" tvg-name="广东少儿高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东少儿高清.png" group-title="广东频道",广东少儿高清
 http://27.42.153.105:8188/udp/239.77.0.250:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="广东少儿高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东少儿高清.png" group-title="广东频道",广东少儿高清
@@ -294,11 +294,11 @@ http://mryx.fun:1025/udp/239.10.0.128:1025
 #EXTINF:-1 tvg-id="17" tvg-name="广东少儿高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东少儿高清.png" group-title="广东频道",广东少儿高清
 http://mryx.fun:1025/udp/239.11.0.81:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="广东新闻高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东新闻高清.png" group-title="广东频道",广东新闻高清
-http://183.30.200.133:10250/udp/239.0.1.146:5072 
+http://183.30.200.115:10250/udp/239.0.1.146:5072 
 #EXTINF:-1 tvg-id="2" tvg-name="广东新闻高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东新闻高清.png" group-title="广东频道",广东新闻高清
-http://183.30.200.62:10250/udp/239.0.1.146:5072 
+http://183.30.200.133:10250/udp/239.0.1.146:5072 
 #EXTINF:-1 tvg-id="3" tvg-name="广东新闻高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东新闻高清.png" group-title="广东频道",广东新闻高清
-http://183.30.200.230:10250/udp/239.0.1.146:5072 
+http://183.30.200.46:10250/udp/239.0.1.146:5072 
 #EXTINF:-1 tvg-id="4" tvg-name="广东新闻高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东新闻高清.png" group-title="广东频道",广东新闻高清
 http://27.42.153.105:8188/udp/239.77.0.173:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="广东新闻高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东新闻高清.png" group-title="广东频道",广东新闻高清
@@ -328,11 +328,11 @@ http://mryx.fun:1025/udp/239.10.0.122:1025
 #EXTINF:-1 tvg-id="17" tvg-name="广东新闻高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东新闻高清.png" group-title="广东频道",广东新闻高清
 http://mryx.fun:1025/udp/239.10.0.199:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="嘉佳卡通高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/嘉佳卡通高清.png" group-title="广东频道",嘉佳卡通高清
-http://183.30.200.133:10250/udp/239.0.1.64:5078 
+http://183.30.200.115:10250/udp/239.0.1.64:5078 
 #EXTINF:-1 tvg-id="2" tvg-name="嘉佳卡通高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/嘉佳卡通高清.png" group-title="广东频道",嘉佳卡通高清
-http://183.30.200.62:10250/udp/239.0.1.64:5078 
+http://183.30.200.133:10250/udp/239.0.1.64:5078 
 #EXTINF:-1 tvg-id="3" tvg-name="嘉佳卡通高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/嘉佳卡通高清.png" group-title="广东频道",嘉佳卡通高清
-http://183.30.200.230:10250/udp/239.0.1.64:5078 
+http://183.30.200.46:10250/udp/239.0.1.64:5078 
 #EXTINF:-1 tvg-id="4" tvg-name="嘉佳卡通高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/嘉佳卡通高清.png" group-title="广东频道",嘉佳卡通高清
 http://27.42.153.105:8188/udp/239.77.0.179:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="嘉佳卡通高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/嘉佳卡通高清.png" group-title="广东频道",嘉佳卡通高清
@@ -362,11 +362,11 @@ http://mryx.fun:1025/udp/239.10.0.130:1025
 #EXTINF:-1 tvg-id="17" tvg-name="嘉佳卡通高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/嘉佳卡通高清.png" group-title="广东频道",嘉佳卡通高清
 http://mryx.fun:1025/udp/239.10.0.200:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="岭南戏曲高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/岭南戏曲高清.png" group-title="广东频道",岭南戏曲高清
-http://183.30.200.133:10250/udp/239.0.1.60:5080 
+http://183.30.200.115:10250/udp/239.0.1.60:5080 
 #EXTINF:-1 tvg-id="2" tvg-name="岭南戏曲高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/岭南戏曲高清.png" group-title="广东频道",岭南戏曲高清
-http://183.30.200.62:10250/udp/239.0.1.60:5080 
+http://183.30.200.133:10250/udp/239.0.1.60:5080 
 #EXTINF:-1 tvg-id="3" tvg-name="岭南戏曲高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/岭南戏曲高清.png" group-title="广东频道",岭南戏曲高清
-http://183.30.200.230:10250/udp/239.0.1.60:5080 
+http://183.30.200.46:10250/udp/239.0.1.60:5080 
 #EXTINF:-1 tvg-id="4" tvg-name="岭南戏曲高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/岭南戏曲高清.png" group-title="广东频道",岭南戏曲高清
 http://120.234.49.38:7000/udp/239.21.0.147:3932 
 #EXTINF:-1 tvg-id="5" tvg-name="岭南戏曲高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/岭南戏曲高清.png" group-title="广东频道",岭南戏曲高清
@@ -380,11 +380,11 @@ http://mryx.fun:1025/udp/239.10.0.125:1025
 #EXTINF:-1 tvg-id="9" tvg-name="岭南戏曲高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/岭南戏曲高清.png" group-title="广东频道",岭南戏曲高清
 http://mryx.fun:1025/udp/239.11.0.180:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="现代教育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/现代教育高清.png" group-title="广东频道",现代教育高清
-http://183.30.200.133:10250/udp/239.0.1.62:5103 
+http://183.30.200.115:10250/udp/239.0.1.62:5103 
 #EXTINF:-1 tvg-id="2" tvg-name="现代教育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/现代教育高清.png" group-title="广东频道",现代教育高清
-http://183.30.200.62:10250/udp/239.0.1.62:5103 
+http://183.30.200.133:10250/udp/239.0.1.62:5103 
 #EXTINF:-1 tvg-id="3" tvg-name="现代教育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/现代教育高清.png" group-title="广东频道",现代教育高清
-http://183.30.200.230:10250/udp/239.0.1.62:5103 
+http://183.30.200.46:10250/udp/239.0.1.62:5103 
 #EXTINF:-1 tvg-id="4" tvg-name="现代教育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/现代教育高清.png" group-title="广东频道",现代教育高清
 http://120.234.49.38:7000/udp/239.21.0.148:3936 
 #EXTINF:-1 tvg-id="5" tvg-name="现代教育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/现代教育高清.png" group-title="广东频道",现代教育高清
@@ -396,11 +396,11 @@ http://lzjzyh.xyz:8888/rtp/239.21.0.148:3936
 #EXTINF:-1 tvg-id="8" tvg-name="现代教育高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/现代教育高清.png" group-title="广东频道",现代教育高清
 http://mryx.fun:1025/udp/239.11.0.181:1025 
 #EXTINF:-1 tvg-id="1" tvg-name="广东综艺-4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东综艺-4K.png" group-title="广东频道",广东综艺-4K
-http://183.30.200.133:10250/udp/239.0.1.169:6030 
+http://183.30.200.115:10250/udp/239.0.1.169:6030 
 #EXTINF:-1 tvg-id="2" tvg-name="广东综艺-4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东综艺-4K.png" group-title="广东频道",广东综艺-4K
-http://183.30.200.62:10250/udp/239.0.1.169:6030 
+http://183.30.200.133:10250/udp/239.0.1.169:6030 
 #EXTINF:-1 tvg-id="3" tvg-name="广东综艺-4K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东综艺-4K.png" group-title="广东频道",广东综艺-4K
-http://183.30.200.230:10250/udp/239.0.1.169:6030 
+http://183.30.200.46:10250/udp/239.0.1.169:6030 
 #EXTINF:-1 tvg-id="1" tvg-name="广东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东卫视.png" group-title="广东频道",广东卫视
 http://114.253.253.97:4001/rtp/239.3.1.142:8048 
 #EXTINF:-1 tvg-id="2" tvg-name="广东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广东卫视.png" group-title="广东频道",广东卫视
@@ -748,7 +748,7 @@ http://ali.hlspull.yximgs.com/live/6c88efabb9cce964ca70d4a41ba95949.flv
 #EXTINF:-1 tvg-id="5" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
 http://ali.hlspull.yximgs.com/live/c862f5968b65c090833a3d16958e37c0.flv 
 #EXTINF:-1 tvg-id="6" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
-http://ali.hlspull.yximgs.com/live/4MxTmYIpY4Z929qwafjeJLNWUNnFzA56.flv 
+http://ali.hlspull.yximgs.com/live/65CXDQlkMEsZMYMgmfLo3dmWbUn7cgJu.flv 
 #EXTINF:-1 tvg-id="7" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
 mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65 
 #EXTINF:-1 tvg-id="8" tvg-name="翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/翡翠台.png" group-title="广东频道",翡翠台
@@ -1140,11 +1140,11 @@ http://49.234.186.50:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV17-HEVC" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV17-HEVC.png" group-title="央视频道",CCTV17-HEVC
 http://1.14.19.228:35455/itv/1000000005000265015.m3u8?cdn=ystenlive 
 #EXTINF:-1 tvg-id="1" tvg-name="CGTN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CGTN.png" group-title="央视频道",CGTN
-http://183.30.200.133:10250/udp/239.0.1.76:8056 
+http://183.30.200.115:10250/udp/239.0.1.76:8056 
 #EXTINF:-1 tvg-id="2" tvg-name="CGTN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CGTN.png" group-title="央视频道",CGTN
-http://183.30.200.62:10250/udp/239.0.1.76:8056 
+http://183.30.200.133:10250/udp/239.0.1.76:8056 
 #EXTINF:-1 tvg-id="3" tvg-name="CGTN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CGTN.png" group-title="央视频道",CGTN
-http://183.30.200.230:10250/udp/239.0.1.76:8056 
+http://183.30.200.46:10250/udp/239.0.1.76:8056 
 #EXTINF:-1 tvg-id="4" tvg-name="CGTN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CGTN.png" group-title="央视频道",CGTN
 http://27.42.153.105:8188/udp/239.77.0.45:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="CGTN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CGTN.png" group-title="央视频道",CGTN
@@ -1232,11 +1232,11 @@ http://49.234.186.50:35455/itv/5000000011000031126.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="2" tvg-name="中国教育电视台-4" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/中国教育电视台-4.png" group-title="央视频道",中国教育电视台-4
 http://1.14.19.228:35455/itv/5000000011000031126.m3u8?cdn=bestzb 
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://183.30.200.133:10250/udp/239.0.1.78:8012 
+http://183.30.200.115:10250/udp/239.0.1.78:8012 
 #EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://183.30.200.62:10250/udp/239.0.1.78:8012 
+http://183.30.200.133:10250/udp/239.0.1.78:8012 
 #EXTINF:-1 tvg-id="3" tvg-name="湖南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://183.30.200.230:10250/udp/239.0.1.78:8012 
+http://183.30.200.46:10250/udp/239.0.1.78:8012 
 #EXTINF:-1 tvg-id="4" tvg-name="湖南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://27.42.153.105:8188/udp/239.77.0.46:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="湖南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -1348,11 +1348,11 @@ http://183.185.222.245:8084/rtp/226.0.2.33:8176
 #EXTINF:-1 tvg-id="58" tvg-name="湖南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://101.27.106.176:8888/rtp/239.253.92.84:8015 
 #EXTINF:-1 tvg-id="1" tvg-name="浙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://183.30.200.133:10250/udp/239.0.1.79:1234 
+http://183.30.200.115:10250/udp/239.0.1.79:1234 
 #EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://183.30.200.62:10250/udp/239.0.1.79:1234 
+http://183.30.200.133:10250/udp/239.0.1.79:1234 
 #EXTINF:-1 tvg-id="3" tvg-name="浙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://183.30.200.230:10250/udp/239.0.1.79:1234 
+http://183.30.200.46:10250/udp/239.0.1.79:1234 
 #EXTINF:-1 tvg-id="4" tvg-name="浙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://27.42.153.105:8188/udp/239.77.0.47:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="浙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -1464,11 +1464,11 @@ http://118.81.48.104:8084/rtp/226.0.2.36:8200
 #EXTINF:-1 tvg-id="58" tvg-name="浙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://211.158.152.88:8007/rtp/225.0.4.81:7980 
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://183.30.200.133:10250/udp/239.0.1.82:8032 
+http://183.30.200.115:10250/udp/239.0.1.82:8032 
 #EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://183.30.200.62:10250/udp/239.0.1.82:8032 
+http://183.30.200.133:10250/udp/239.0.1.82:8032 
 #EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://183.30.200.230:10250/udp/239.0.1.82:8032 
+http://183.30.200.46:10250/udp/239.0.1.82:8032 
 #EXTINF:-1 tvg-id="4" tvg-name="东方卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://27.42.153.105:8188/udp/239.77.0.49:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="东方卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
@@ -1576,11 +1576,11 @@ http://118.81.48.104:8084/rtp/226.0.2.175:9312
 #EXTINF:-1 tvg-id="56" tvg-name="东方卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://118.81.48.104:8084/rtp/226.0.2.34:8184 
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://183.30.200.133:10250/udp/239.0.1.83:8024 
+http://183.30.200.115:10250/udp/239.0.1.83:8024 
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://183.30.200.62:10250/udp/239.0.1.83:8024 
+http://183.30.200.133:10250/udp/239.0.1.83:8024 
 #EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://183.30.200.230:10250/udp/239.0.1.83:8024 
+http://183.30.200.46:10250/udp/239.0.1.83:8024 
 #EXTINF:-1 tvg-id="4" tvg-name="北京卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://27.42.153.105:8188/udp/239.77.0.51:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="北京卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -1686,11 +1686,11 @@ http://101.27.106.176:8888/rtp/239.253.92.87:8014
 #EXTINF:-1 tvg-id="55" tvg-name="北京卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://118.81.48.104:8084/rtp/226.0.2.177:9328 
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://183.30.200.133:10250/udp/239.0.1.80:8028 
+http://183.30.200.115:10250/udp/239.0.1.80:8028 
 #EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://183.30.200.62:10250/udp/239.0.1.80:8028 
+http://183.30.200.133:10250/udp/239.0.1.80:8028 
 #EXTINF:-1 tvg-id="3" tvg-name="江苏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://183.30.200.230:10250/udp/239.0.1.80:8028 
+http://183.30.200.46:10250/udp/239.0.1.80:8028 
 #EXTINF:-1 tvg-id="4" tvg-name="江苏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://27.42.153.105:8188/udp/239.77.0.48:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="江苏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
@@ -1802,11 +1802,11 @@ http://183.185.222.245:8084/rtp/226.0.2.38:8216
 #EXTINF:-1 tvg-id="58" tvg-name="江苏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://101.27.106.176:8888/rtp/239.253.92.88:8018 
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://183.30.200.133:10250/udp/239.0.1.244:5166 
+http://183.30.200.115:10250/udp/239.0.1.244:5166 
 #EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://183.30.200.62:10250/udp/239.0.1.244:5166 
+http://183.30.200.133:10250/udp/239.0.1.244:5166 
 #EXTINF:-1 tvg-id="3" tvg-name="江西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://183.30.200.230:10250/udp/239.0.1.244:5166 
+http://183.30.200.46:10250/udp/239.0.1.244:5166 
 #EXTINF:-1 tvg-id="4" tvg-name="江西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://27.42.153.105:8188/udp/239.77.0.54:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="江西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
@@ -1904,11 +1904,11 @@ http://118.81.48.104:8084/rtp/226.0.2.198:9496
 #EXTINF:-1 tvg-id="51" tvg-name="江西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://211.158.152.88:8007/rtp/225.0.4.203:7980 
 #EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://183.30.200.133:10250/udp/239.0.1.81:8064 
+http://183.30.200.115:10250/udp/239.0.1.81:8064 
 #EXTINF:-1 tvg-id="2" tvg-name="安徽卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://183.30.200.62:10250/udp/239.0.1.81:8064 
+http://183.30.200.133:10250/udp/239.0.1.81:8064 
 #EXTINF:-1 tvg-id="3" tvg-name="安徽卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://183.30.200.230:10250/udp/239.0.1.81:8064 
+http://183.30.200.46:10250/udp/239.0.1.81:8064 
 #EXTINF:-1 tvg-id="4" tvg-name="安徽卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://27.42.153.105:8188/udp/239.77.0.50:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="安徽卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
@@ -2020,11 +2020,11 @@ http://183.185.222.245:8084/rtp/226.0.2.37:8208
 #EXTINF:-1 tvg-id="58" tvg-name="安徽卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://101.27.106.176:8888/rtp/239.253.92.209:6566 
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://183.30.200.133:10250/udp/239.0.1.91:5097 
+http://183.30.200.115:10250/udp/239.0.1.91:5097 
 #EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://183.30.200.62:10250/udp/239.0.1.91:5097 
+http://183.30.200.133:10250/udp/239.0.1.91:5097 
 #EXTINF:-1 tvg-id="3" tvg-name="重庆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://183.30.200.230:10250/udp/239.0.1.91:5097 
+http://183.30.200.46:10250/udp/239.0.1.91:5097 
 #EXTINF:-1 tvg-id="4" tvg-name="重庆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://27.42.153.105:8188/udp/239.77.0.63:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="重庆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
@@ -2136,11 +2136,11 @@ http://183.185.222.245:8084/rtp/226.0.2.50:8312
 #EXTINF:-1 tvg-id="58" tvg-name="重庆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://101.27.106.176:8888/rtp/239.253.92.10:6053 
 #EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://183.30.200.133:10250/udp/239.0.1.87:5095 
+http://183.30.200.115:10250/udp/239.0.1.87:5095 
 #EXTINF:-1 tvg-id="2" tvg-name="四川卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://183.30.200.62:10250/udp/239.0.1.87:5095 
+http://183.30.200.133:10250/udp/239.0.1.87:5095 
 #EXTINF:-1 tvg-id="3" tvg-name="四川卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://183.30.200.230:10250/udp/239.0.1.87:5095 
+http://183.30.200.46:10250/udp/239.0.1.87:5095 
 #EXTINF:-1 tvg-id="4" tvg-name="四川卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://27.42.153.105:8188/udp/239.77.0.60:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="四川卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
@@ -2238,11 +2238,11 @@ http://183.185.222.245:8084/rtp/226.0.2.42:8248
 #EXTINF:-1 tvg-id="51" tvg-name="四川卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://101.27.106.176:8888/rtp/239.253.92.16:6043 
 #EXTINF:-1 tvg-id="1" tvg-name="东南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://183.30.200.133:10250/udp/239.0.1.241:5109 
+http://183.30.200.115:10250/udp/239.0.1.241:5109 
 #EXTINF:-1 tvg-id="2" tvg-name="东南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://183.30.200.62:10250/udp/239.0.1.241:5109 
+http://183.30.200.133:10250/udp/239.0.1.241:5109 
 #EXTINF:-1 tvg-id="3" tvg-name="东南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://183.30.200.230:10250/udp/239.0.1.241:5109 
+http://183.30.200.46:10250/udp/239.0.1.241:5109 
 #EXTINF:-1 tvg-id="4" tvg-name="东南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://27.42.153.105:8188/udp/239.77.0.65:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="东南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
@@ -2340,11 +2340,11 @@ http://211.158.152.88:8007/rtp/225.0.4.200:7980
 #EXTINF:-1 tvg-id="51" tvg-name="东南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://211.158.152.88:8009/rtp/225.0.4.200:7980 
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://183.30.200.133:10250/udp/239.0.1.84:8020 
+http://183.30.200.115:10250/udp/239.0.1.84:8020 
 #EXTINF:-1 tvg-id="2" tvg-name="深圳卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://183.30.200.62:10250/udp/239.0.1.84:8020 
+http://183.30.200.133:10250/udp/239.0.1.84:8020 
 #EXTINF:-1 tvg-id="3" tvg-name="深圳卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://183.30.200.230:10250/udp/239.0.1.84:8020 
+http://183.30.200.46:10250/udp/239.0.1.84:8020 
 #EXTINF:-1 tvg-id="4" tvg-name="深圳卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://27.42.153.105:8188/udp/239.77.0.55:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="深圳卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -2486,11 +2486,11 @@ http://101.27.106.176:8888/rtp/239.253.92.86:8017
 #EXTINF:-1 tvg-id="73" tvg-name="深圳卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://118.81.48.104:8084/rtp/226.0.2.147:9088 
 #EXTINF:-1 tvg-id="1" tvg-name="广西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://183.30.200.133:10250/udp/239.0.1.181:6041 
+http://183.30.200.115:10250/udp/239.0.1.181:6041 
 #EXTINF:-1 tvg-id="2" tvg-name="广西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://183.30.200.62:10250/udp/239.0.1.181:6041 
+http://183.30.200.133:10250/udp/239.0.1.181:6041 
 #EXTINF:-1 tvg-id="3" tvg-name="广西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://183.30.200.230:10250/udp/239.0.1.181:6041 
+http://183.30.200.46:10250/udp/239.0.1.181:6041 
 #EXTINF:-1 tvg-id="4" tvg-name="广西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://114.253.253.97:4001/rtp/239.3.1.39:8300 
 #EXTINF:-1 tvg-id="5" tvg-name="广西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
@@ -2532,11 +2532,11 @@ http://183.185.222.245:8084/rtp/226.0.2.231:9760
 #EXTINF:-1 tvg-id="23" tvg-name="广西卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://101.27.106.176:8888/rtp/239.253.92.76:8043 
 #EXTINF:-1 tvg-id="1" tvg-name="厦门卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://183.30.200.133:10250/udp/239.0.1.46:4120 
+http://183.30.200.115:10250/udp/239.0.1.46:4120 
 #EXTINF:-1 tvg-id="2" tvg-name="厦门卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://183.30.200.62:10250/udp/239.0.1.46:4120 
+http://183.30.200.133:10250/udp/239.0.1.46:4120 
 #EXTINF:-1 tvg-id="3" tvg-name="厦门卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://183.30.200.230:10250/udp/239.0.1.46:4120 
+http://183.30.200.46:10250/udp/239.0.1.46:4120 
 #EXTINF:-1 tvg-id="4" tvg-name="厦门卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://114.253.253.97:4001/rtp/239.3.1.143:4120 
 #EXTINF:-1 tvg-id="5" tvg-name="厦门卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
@@ -2550,11 +2550,11 @@ http://123.113.236.116:8888/rtp/239.3.1.161:8001
 #EXTINF:-1 tvg-id="3" tvg-name="南方卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/南方卫视.png" group-title="卫视频道",南方卫视
 http://123.117.35.126:4001/rtp/239.3.1.161:8001 
 #EXTINF:-1 tvg-id="1" tvg-name="甘肃卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://183.30.200.133:10250/udp/239.0.1.144:8180 
+http://183.30.200.115:10250/udp/239.0.1.144:8180 
 #EXTINF:-1 tvg-id="2" tvg-name="甘肃卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://183.30.200.62:10250/udp/239.0.1.144:8180 
+http://183.30.200.133:10250/udp/239.0.1.144:8180 
 #EXTINF:-1 tvg-id="3" tvg-name="甘肃卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://183.30.200.230:10250/udp/239.0.1.144:8180 
+http://183.30.200.46:10250/udp/239.0.1.144:8180 
 #EXTINF:-1 tvg-id="4" tvg-name="甘肃卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://114.253.253.97:4001/rtp/239.3.1.49:8188 
 #EXTINF:-1 tvg-id="5" tvg-name="甘肃卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
@@ -2596,11 +2596,11 @@ http://118.81.48.104:8084/rtp/226.0.2.55:8352
 #EXTINF:-1 tvg-id="23" tvg-name="甘肃卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://183.185.222.245:8085/rtp/226.0.2.55:8352 
 #EXTINF:-1 tvg-id="1" tvg-name="贵州卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://183.30.200.133:10250/udp/239.0.1.129:5212 
+http://183.30.200.115:10250/udp/239.0.1.129:5212 
 #EXTINF:-1 tvg-id="2" tvg-name="贵州卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://183.30.200.62:10250/udp/239.0.1.129:5212 
+http://183.30.200.133:10250/udp/239.0.1.129:5212 
 #EXTINF:-1 tvg-id="3" tvg-name="贵州卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://183.30.200.230:10250/udp/239.0.1.129:5212 
+http://183.30.200.46:10250/udp/239.0.1.129:5212 
 #EXTINF:-1 tvg-id="4" tvg-name="贵州卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://27.42.153.105:8188/udp/239.77.0.59:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="贵州卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
@@ -2698,11 +2698,11 @@ http://101.27.106.176:8888/rtp/239.253.92.105:6055
 #EXTINF:-1 tvg-id="51" tvg-name="贵州卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://118.81.48.104:8084/rtp/226.0.2.180:9352 
 #EXTINF:-1 tvg-id="1" tvg-name="河北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://183.30.200.133:10250/udp/239.0.1.243:8072 
+http://183.30.200.115:10250/udp/239.0.1.243:8072 
 #EXTINF:-1 tvg-id="2" tvg-name="河北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://183.30.200.62:10250/udp/239.0.1.243:8072 
+http://183.30.200.133:10250/udp/239.0.1.243:8072 
 #EXTINF:-1 tvg-id="3" tvg-name="河北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://183.30.200.230:10250/udp/239.0.1.243:8072 
+http://183.30.200.46:10250/udp/239.0.1.243:8072 
 #EXTINF:-1 tvg-id="4" tvg-name="河北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://27.42.153.105:8188/udp/239.77.0.64:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="河北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
@@ -2800,11 +2800,11 @@ http://183.185.222.245:8084/rtp/226.0.2.65:8432
 #EXTINF:-1 tvg-id="51" tvg-name="河北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://101.27.106.176:8888/rtp/239.253.92.154:6011 
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://183.30.200.133:10250/udp/239.0.1.140:5191 
+http://183.30.200.115:10250/udp/239.0.1.140:5191 
 #EXTINF:-1 tvg-id="2" tvg-name="河南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://183.30.200.62:10250/udp/239.0.1.140:5191 
+http://183.30.200.133:10250/udp/239.0.1.140:5191 
 #EXTINF:-1 tvg-id="3" tvg-name="河南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://183.30.200.230:10250/udp/239.0.1.140:5191 
+http://183.30.200.46:10250/udp/239.0.1.140:5191 
 #EXTINF:-1 tvg-id="4" tvg-name="河南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://27.42.153.105:8188/udp/239.77.0.61:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="河南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
@@ -2902,11 +2902,11 @@ http://101.27.106.176:8888/rtp/239.253.92.137:6144
 #EXTINF:-1 tvg-id="51" tvg-name="河南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://118.81.48.104:8084/rtp/226.0.2.52:8328 
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://183.30.200.133:10250/udp/239.0.1.86:8016 
+http://183.30.200.115:10250/udp/239.0.1.86:8016 
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://183.30.200.62:10250/udp/239.0.1.86:8016 
+http://183.30.200.133:10250/udp/239.0.1.86:8016 
 #EXTINF:-1 tvg-id="3" tvg-name="黑龙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://183.30.200.230:10250/udp/239.0.1.86:8016 
+http://183.30.200.46:10250/udp/239.0.1.86:8016 
 #EXTINF:-1 tvg-id="4" tvg-name="黑龙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://27.42.153.105:8188/udp/239.77.0.58:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="黑龙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
@@ -3018,11 +3018,11 @@ http://211.158.152.88:8007/rtp/225.0.4.201:7980
 #EXTINF:-1 tvg-id="58" tvg-name="黑龙江卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://211.158.152.88:8009/rtp/225.0.4.201:7980 
 #EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://183.30.200.133:10250/udp/239.0.1.88:1234 
+http://183.30.200.115:10250/udp/239.0.1.88:1234 
 #EXTINF:-1 tvg-id="2" tvg-name="湖北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://183.30.200.62:10250/udp/239.0.1.88:1234 
+http://183.30.200.133:10250/udp/239.0.1.88:1234 
 #EXTINF:-1 tvg-id="3" tvg-name="湖北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://183.30.200.230:10250/udp/239.0.1.88:1234 
+http://183.30.200.46:10250/udp/239.0.1.88:1234 
 #EXTINF:-1 tvg-id="4" tvg-name="湖北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://27.42.153.105:8188/udp/239.77.0.56:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="湖北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
@@ -3134,11 +3134,11 @@ http://183.185.222.245:8084/rtp/226.0.2.150:9112
 #EXTINF:-1 tvg-id="58" tvg-name="湖北卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://183.185.222.245:8084/rtp/226.0.2.49:8304 
 #EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://183.30.200.133:10250/udp/239.0.1.245:5183 
+http://183.30.200.115:10250/udp/239.0.1.245:5183 
 #EXTINF:-1 tvg-id="2" tvg-name="吉林卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://183.30.200.62:10250/udp/239.0.1.245:5183 
+http://183.30.200.133:10250/udp/239.0.1.245:5183 
 #EXTINF:-1 tvg-id="3" tvg-name="吉林卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://183.30.200.230:10250/udp/239.0.1.245:5183 
+http://183.30.200.46:10250/udp/239.0.1.245:5183 
 #EXTINF:-1 tvg-id="4" tvg-name="吉林卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://114.253.253.97:4001/rtp/239.3.1.240:8172 
 #EXTINF:-1 tvg-id="5" tvg-name="吉林卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
@@ -3180,11 +3180,11 @@ http://183.185.222.245:8084/rtp/226.0.2.58:8376
 #EXTINF:-1 tvg-id="23" tvg-name="吉林卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://183.185.222.245:8084/rtp/226.0.2.199:9504 
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://183.30.200.133:10250/udp/239.0.1.31:8176 
+http://183.30.200.115:10250/udp/239.0.1.31:8176 
 #EXTINF:-1 tvg-id="2" tvg-name="内蒙古卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://183.30.200.62:10250/udp/239.0.1.31:8176 
+http://183.30.200.133:10250/udp/239.0.1.31:8176 
 #EXTINF:-1 tvg-id="3" tvg-name="内蒙古卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://183.30.200.230:10250/udp/239.0.1.31:8176 
+http://183.30.200.46:10250/udp/239.0.1.31:8176 
 #EXTINF:-1 tvg-id="4" tvg-name="内蒙古卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://114.253.253.97:4001/rtp/239.3.1.43:8176 
 #EXTINF:-1 tvg-id="5" tvg-name="内蒙古卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
@@ -3222,11 +3222,11 @@ http://118.81.48.104:8084/rtp/226.0.2.63:8416
 #EXTINF:-1 tvg-id="21" tvg-name="内蒙古卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://183.185.222.245:8085/rtp/226.0.2.63:8416 
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://183.30.200.133:10250/udp/239.0.1.85:8056 
+http://183.30.200.115:10250/udp/239.0.1.85:8056 
 #EXTINF:-1 tvg-id="2" tvg-name="辽宁卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://183.30.200.62:10250/udp/239.0.1.85:8056 
+http://183.30.200.133:10250/udp/239.0.1.85:8056 
 #EXTINF:-1 tvg-id="3" tvg-name="辽宁卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://183.30.200.230:10250/udp/239.0.1.85:8056 
+http://183.30.200.46:10250/udp/239.0.1.85:8056 
 #EXTINF:-1 tvg-id="4" tvg-name="辽宁卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://27.42.153.105:8188/udp/239.77.0.57:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="辽宁卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
@@ -3324,11 +3324,11 @@ http://183.185.222.245:8084/rtp/226.0.2.35:8192
 #EXTINF:-1 tvg-id="51" tvg-name="辽宁卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://101.27.106.176:8888/rtp/239.253.92.115:6056 
 #EXTINF:-1 tvg-id="1" tvg-name="宁夏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://183.30.200.133:10250/udp/239.0.1.34:8124 
+http://183.30.200.115:10250/udp/239.0.1.34:8124 
 #EXTINF:-1 tvg-id="2" tvg-name="宁夏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://183.30.200.62:10250/udp/239.0.1.34:8124 
+http://183.30.200.133:10250/udp/239.0.1.34:8124 
 #EXTINF:-1 tvg-id="3" tvg-name="宁夏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://183.30.200.230:10250/udp/239.0.1.34:8124 
+http://183.30.200.46:10250/udp/239.0.1.34:8124 
 #EXTINF:-1 tvg-id="4" tvg-name="宁夏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://114.253.253.97:4001/rtp/239.3.1.46:8124 
 #EXTINF:-1 tvg-id="5" tvg-name="宁夏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -3366,11 +3366,11 @@ http://118.81.48.104:8084/rtp/226.0.2.64:8424
 #EXTINF:-1 tvg-id="21" tvg-name="宁夏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://183.185.222.245:8085/rtp/226.0.2.64:8424 
 #EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://183.30.200.133:10250/udp/239.0.1.50:5174 
+http://183.30.200.115:10250/udp/239.0.1.50:5174 
 #EXTINF:-1 tvg-id="2" tvg-name="青海卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://183.30.200.62:10250/udp/239.0.1.50:5174 
+http://183.30.200.133:10250/udp/239.0.1.50:5174 
 #EXTINF:-1 tvg-id="3" tvg-name="青海卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://183.30.200.230:10250/udp/239.0.1.50:5174 
+http://183.30.200.46:10250/udp/239.0.1.50:5174 
 #EXTINF:-1 tvg-id="4" tvg-name="青海卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://114.253.253.97:4001/rtp/239.3.1.44:8184 
 #EXTINF:-1 tvg-id="5" tvg-name="青海卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
@@ -3412,11 +3412,11 @@ http://183.185.222.245:8085/rtp/226.0.2.59:8384
 #EXTINF:-1 tvg-id="23" tvg-name="青海卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://222.141.134.181:888/rtp/225.1.4.44:1073 
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://183.30.200.133:10250/udp/239.0.1.90:8052 
+http://183.30.200.115:10250/udp/239.0.1.90:8052 
 #EXTINF:-1 tvg-id="2" tvg-name="山东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://183.30.200.62:10250/udp/239.0.1.90:8052 
+http://183.30.200.133:10250/udp/239.0.1.90:8052 
 #EXTINF:-1 tvg-id="3" tvg-name="山东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://183.30.200.230:10250/udp/239.0.1.90:8052 
+http://183.30.200.46:10250/udp/239.0.1.90:8052 
 #EXTINF:-1 tvg-id="4" tvg-name="山东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://27.42.153.105:8188/udp/239.77.0.53:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="山东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
@@ -3528,11 +3528,11 @@ http://118.81.48.104:8084/rtp/226.0.2.149:9104
 #EXTINF:-1 tvg-id="58" tvg-name="山东卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://118.81.48.104:8084/rtp/226.0.2.51:8320 
 #EXTINF:-1 tvg-id="1" tvg-name="天津卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://183.30.200.133:10250/udp/239.0.1.89:1234 
+http://183.30.200.115:10250/udp/239.0.1.89:1234 
 #EXTINF:-1 tvg-id="2" tvg-name="天津卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://183.30.200.62:10250/udp/239.0.1.89:1234 
+http://183.30.200.133:10250/udp/239.0.1.89:1234 
 #EXTINF:-1 tvg-id="3" tvg-name="天津卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://183.30.200.230:10250/udp/239.0.1.89:1234 
+http://183.30.200.46:10250/udp/239.0.1.89:1234 
 #EXTINF:-1 tvg-id="4" tvg-name="天津卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://27.42.153.105:8188/udp/239.77.0.52:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="天津卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
@@ -3644,11 +3644,11 @@ http://183.185.222.245:8084/rtp/226.0.2.56:8360
 #EXTINF:-1 tvg-id="58" tvg-name="天津卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://101.27.106.176:8888/rtp/239.253.92.91:8021 
 #EXTINF:-1 tvg-id="1" tvg-name="海南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://183.30.200.133:10250/udp/239.0.1.142:5239 
+http://183.30.200.115:10250/udp/239.0.1.142:5239 
 #EXTINF:-1 tvg-id="2" tvg-name="海南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://183.30.200.62:10250/udp/239.0.1.142:5239 
+http://183.30.200.133:10250/udp/239.0.1.142:5239 
 #EXTINF:-1 tvg-id="3" tvg-name="海南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://183.30.200.230:10250/udp/239.0.1.142:5239 
+http://183.30.200.46:10250/udp/239.0.1.142:5239 
 #EXTINF:-1 tvg-id="4" tvg-name="海南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://114.253.253.97:4001/rtp/239.3.1.45:8304 
 #EXTINF:-1 tvg-id="5" tvg-name="海南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
@@ -3690,11 +3690,11 @@ http://183.185.222.245:8084/rtp/226.0.2.212:9608
 #EXTINF:-1 tvg-id="23" tvg-name="海南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://101.27.106.176:8888/rtp/239.253.93.155:6323 
 #EXTINF:-1 tvg-id="1" tvg-name="新疆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://183.30.200.133:10250/udp/239.0.1.36:8160 
+http://183.30.200.115:10250/udp/239.0.1.36:8160 
 #EXTINF:-1 tvg-id="2" tvg-name="新疆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://183.30.200.62:10250/udp/239.0.1.36:8160 
+http://183.30.200.133:10250/udp/239.0.1.36:8160 
 #EXTINF:-1 tvg-id="3" tvg-name="新疆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://183.30.200.230:10250/udp/239.0.1.36:8160 
+http://183.30.200.46:10250/udp/239.0.1.36:8160 
 #EXTINF:-1 tvg-id="4" tvg-name="新疆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://114.253.253.97:4001/rtp/239.3.1.48:8160 
 #EXTINF:-1 tvg-id="5" tvg-name="新疆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
@@ -3732,11 +3732,11 @@ http://183.185.222.245:8084/rtp/226.0.2.67:8448
 #EXTINF:-1 tvg-id="21" tvg-name="新疆卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://118.81.48.104:8084/rtp/226.0.2.67:8448 
 #EXTINF:-1 tvg-id="1" tvg-name="云南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://183.30.200.133:10250/udp/239.0.1.141:5192 
+http://183.30.200.115:10250/udp/239.0.1.141:5192 
 #EXTINF:-1 tvg-id="2" tvg-name="云南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://183.30.200.62:10250/udp/239.0.1.141:5192 
+http://183.30.200.133:10250/udp/239.0.1.141:5192 
 #EXTINF:-1 tvg-id="3" tvg-name="云南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://183.30.200.230:10250/udp/239.0.1.141:5192 
+http://183.30.200.46:10250/udp/239.0.1.141:5192 
 #EXTINF:-1 tvg-id="4" tvg-name="云南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://27.42.153.105:8188/udp/239.77.0.62:5146 
 #EXTINF:-1 tvg-id="5" tvg-name="云南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
@@ -3834,11 +3834,11 @@ http://171.213.206.59:8000/rtp/239.93.1.174:5140
 #EXTINF:-1 tvg-id="51" tvg-name="云南卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://171.213.206.59:8000/rtp/239.93.0.174:5140 
 #EXTINF:-1 tvg-id="1" tvg-name="西藏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://183.30.200.133:10250/udp/239.0.1.35:8164 
+http://183.30.200.115:10250/udp/239.0.1.35:8164 
 #EXTINF:-1 tvg-id="2" tvg-name="西藏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://183.30.200.62:10250/udp/239.0.1.35:8164 
+http://183.30.200.133:10250/udp/239.0.1.35:8164 
 #EXTINF:-1 tvg-id="3" tvg-name="西藏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://183.30.200.230:10250/udp/239.0.1.35:8164 
+http://183.30.200.46:10250/udp/239.0.1.35:8164 
 #EXTINF:-1 tvg-id="4" tvg-name="西藏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://114.253.253.97:4001/rtp/239.3.1.47:8164 
 #EXTINF:-1 tvg-id="5" tvg-name="西藏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
@@ -3876,11 +3876,11 @@ http://183.185.222.245:8084/rtp/226.0.2.66:8440
 #EXTINF:-1 tvg-id="21" tvg-name="西藏卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://118.81.48.104:8084/rtp/226.0.2.66:8440 
 #EXTINF:-1 tvg-id="1" tvg-name="兵团卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://183.30.200.133:10250/udp/239.0.1.38:4120 
+http://183.30.200.115:10250/udp/239.0.1.38:4120 
 #EXTINF:-1 tvg-id="2" tvg-name="兵团卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://183.30.200.62:10250/udp/239.0.1.38:4120 
+http://183.30.200.133:10250/udp/239.0.1.38:4120 
 #EXTINF:-1 tvg-id="3" tvg-name="兵团卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://183.30.200.230:10250/udp/239.0.1.38:4120 
+http://183.30.200.46:10250/udp/239.0.1.38:4120 
 #EXTINF:-1 tvg-id="4" tvg-name="兵团卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://114.253.253.97:4001/rtp/239.3.1.144:4120 
 #EXTINF:-1 tvg-id="5" tvg-name="兵团卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
@@ -3888,11 +3888,11 @@ http://123.113.236.116:8888/rtp/239.3.1.144:4120
 #EXTINF:-1 tvg-id="6" tvg-name="兵团卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://123.117.35.126:4001/rtp/239.3.1.144:4120 
 #EXTINF:-1 tvg-id="1" tvg-name="三沙卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://183.30.200.133:10250/udp/239.0.1.148:5157 
+http://183.30.200.115:10250/udp/239.0.1.148:5157 
 #EXTINF:-1 tvg-id="2" tvg-name="三沙卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://183.30.200.62:10250/udp/239.0.1.148:5157 
+http://183.30.200.133:10250/udp/239.0.1.148:5157 
 #EXTINF:-1 tvg-id="3" tvg-name="三沙卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://183.30.200.230:10250/udp/239.0.1.148:5157 
+http://183.30.200.46:10250/udp/239.0.1.148:5157 
 #EXTINF:-1 tvg-id="4" tvg-name="三沙卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://114.253.253.97:4001/rtp/239.3.1.155:4120 
 #EXTINF:-1 tvg-id="5" tvg-name="三沙卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
@@ -4358,11 +4358,11 @@ http://123.113.236.116:8888/rtp/239.3.1.72:4120
 #EXTINF:-1 tvg-id="3" tvg-name="美妆" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/美妆.png" group-title="数字频道",美妆
 http://123.117.35.126:4001/rtp/239.3.1.72:4120 
 #EXTINF:-1 tvg-id="1" tvg-name="财富天下" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/财富天下.png" group-title="数字频道",财富天下
-http://183.30.200.133:10250/udp/239.0.1.45:9136 
+http://183.30.200.115:10250/udp/239.0.1.45:9136 
 #EXTINF:-1 tvg-id="2" tvg-name="财富天下" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/财富天下.png" group-title="数字频道",财富天下
-http://183.30.200.62:10250/udp/239.0.1.45:9136 
+http://183.30.200.133:10250/udp/239.0.1.45:9136 
 #EXTINF:-1 tvg-id="3" tvg-name="财富天下" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/财富天下.png" group-title="数字频道",财富天下
-http://183.30.200.230:10250/udp/239.0.1.45:9136 
+http://183.30.200.46:10250/udp/239.0.1.45:9136 
 #EXTINF:-1 tvg-id="4" tvg-name="财富天下" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/财富天下.png" group-title="数字频道",财富天下
 http://182.136.211.152:8888/udp/239.93.0.116:9136 
 #EXTINF:-1 tvg-id="5" tvg-name="财富天下" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/财富天下.png" group-title="数字频道",财富天下
@@ -4392,11 +4392,11 @@ http://123.117.35.126:4001/rtp/239.3.1.89:4120
 #EXTINF:-1 tvg-id="7" tvg-name="足球" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/足球.png" group-title="数字频道",足球
 http://wouu.net:9977/udp/239.93.0.197:9040 
 #EXTINF:-1 tvg-id="1" tvg-name="金鹰卡通" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://183.30.200.133:10250/udp/239.0.1.143:5152 
+http://183.30.200.115:10250/udp/239.0.1.143:5152 
 #EXTINF:-1 tvg-id="2" tvg-name="金鹰卡通" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://183.30.200.62:10250/udp/239.0.1.143:5152 
+http://183.30.200.133:10250/udp/239.0.1.143:5152 
 #EXTINF:-1 tvg-id="3" tvg-name="金鹰卡通" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://183.30.200.230:10250/udp/239.0.1.143:5152 
+http://183.30.200.46:10250/udp/239.0.1.143:5152 
 #EXTINF:-1 tvg-id="4" tvg-name="金鹰卡通" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
 http://182.136.211.152:8888/udp/239.93.0.108:5140 
 #EXTINF:-1 tvg-id="5" tvg-name="金鹰卡通" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
@@ -4684,11 +4684,11 @@ http://wouu.net:9977/udp/239.93.0.106:5140
 #EXTINF:-1 tvg-id="8" tvg-name="生活时尚" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/生活时尚.png" group-title="数字频道",生活时尚
 http://wouu.net:9977/udp/239.93.42.29:5140 
 #EXTINF:-1 tvg-id="1" tvg-name="汽摩" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/汽摩.png" group-title="数字频道",汽摩
-http://183.30.200.133:10250/udp/239.0.1.147:6008 
+http://183.30.200.115:10250/udp/239.0.1.147:6008 
 #EXTINF:-1 tvg-id="2" tvg-name="汽摩" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/汽摩.png" group-title="数字频道",汽摩
-http://183.30.200.62:10250/udp/239.0.1.147:6008 
+http://183.30.200.133:10250/udp/239.0.1.147:6008 
 #EXTINF:-1 tvg-id="3" tvg-name="汽摩" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/汽摩.png" group-title="数字频道",汽摩
-http://183.30.200.230:10250/udp/239.0.1.147:6008 
+http://183.30.200.46:10250/udp/239.0.1.147:6008 
 #EXTINF:-1 tvg-id="4" tvg-name="汽摩" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/汽摩.png" group-title="数字频道",汽摩
 http://182.136.211.152:8888/udp/239.93.0.62:5140 
 #EXTINF:-1 tvg-id="5" tvg-name="汽摩" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/汽摩.png" group-title="数字频道",汽摩
@@ -4742,11 +4742,11 @@ http://182.138.120.226:8888/udp/239.93.0.117:1292
 #EXTINF:-1 tvg-id="4" tvg-name="汽车频道" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/汽车频道.png" group-title="数字频道",汽车频道
 http://wouu.net:9977/udp/239.93.0.117:1292 
 #EXTINF:-1 tvg-id="1" tvg-name="纪实人文" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/纪实人文.png" group-title="数字频道",纪实人文
-http://183.30.200.133:10250/udp/239.0.1.242:5111 
+http://183.30.200.115:10250/udp/239.0.1.242:5111 
 #EXTINF:-1 tvg-id="2" tvg-name="纪实人文" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/纪实人文.png" group-title="数字频道",纪实人文
-http://183.30.200.62:10250/udp/239.0.1.242:5111 
+http://183.30.200.133:10250/udp/239.0.1.242:5111 
 #EXTINF:-1 tvg-id="3" tvg-name="纪实人文" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/纪实人文.png" group-title="数字频道",纪实人文
-http://183.30.200.230:10250/udp/239.0.1.242:5111 
+http://183.30.200.46:10250/udp/239.0.1.242:5111 
 #EXTINF:-1 tvg-id="4" tvg-name="纪实人文" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/纪实人文.png" group-title="数字频道",纪实人文
 http://182.136.211.152:8888/udp/239.93.1.154:5140 
 #EXTINF:-1 tvg-id="5" tvg-name="纪实人文" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/纪实人文.png" group-title="数字频道",纪实人文
@@ -5154,15 +5154,17 @@ http://1.14.19.228:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="6" tvg-name="爱院线" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/爱院线.png" group-title="iHOT频道",爱院线
 http://wouu.net:9977/udp/239.93.42.11:5140 
 #EXTINF:-1 tvg-id="1" tvg-name="POP C" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/POP C.png" group-title="香港频道",POP C
-http://ali.hlspull.yximgs.com/live/05513ebc8b5f90ce0b2ab8d17e5b7b96.flv 
+http://ali.hlspull.yximgs.com/live/94500173e88938ea9abb352525be0260.flv 
 #EXTINF:-1 tvg-id="1" tvg-name="Now爆谷台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Now爆谷台.png" group-title="香港频道",Now爆谷台
-http://ali.hlspull.yximgs.com/live/b6079a5b76a487ee0246237546a463e9.flv 
+http://ali.hlspull.yximgs.com/live/758dcad026fdcb4c7461985c53cd89b8.flv 
 #EXTINF:-1 tvg-id="1" tvg-name="Now爆谷星影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Now爆谷星影台.png" group-title="香港频道",Now爆谷星影台
-http://ali.hlspull.yximgs.com/live/41c91759e3198943c238f3aca5221202.flv 
+http://ali.hlspull.yximgs.com/live/79f838a2f319ce9e78d12843736ff274.flv 
+#EXTINF:-1 tvg-id="2" tvg-name="Now爆谷星影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Now爆谷星影台.png" group-title="香港频道",Now爆谷星影台
+http://ali.hlspull.yximgs.com/live/1ee57685126e071d379620346e33f844.flv 
 #EXTINF:-1 tvg-id="1" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
 http://ali.hlspull.yximgs.com/live/be2c04e111ecde682e0fae8a0f35a004.flv 
 #EXTINF:-1 tvg-id="2" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-http://ali.hlspull.yximgs.com/live/Q3V9kigZ2v0uhvvoEY9lDw89e08YK6MX.flv 
+http://ali.hlspull.yximgs.com/live/80f6fc63418460b7129e6e68af0afd6b.flv 
 #EXTINF:-1 tvg-id="3" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
 mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6 
 #EXTINF:-1 tvg-id="4" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
