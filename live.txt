@@ -374,8 +374,7 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct 
 翡翠台,http://ali.hlspull.yximgs.com/live/0d55a524773fc6e959638839e9208b3c.flv 
 翡翠台,http://ali.hlspull.yximgs.com/live/806d30d67bc954f55c9d9d5e967501cc.flv 
-翡翠台,http://ali.hlspull.yximgs.com/live/5604e7a200b4e052308bf36ef34f3e03.flv 
-翡翠台,http://ali.hlspull.yximgs.com/live/ds76emVDRIA9jhjQZCTHpZUC4aCzMU4z.flv 
+翡翠台,http://ali.hlspull.yximgs.com/live/4GsPTc4Z25QjZ94YfM6D2ogE2GbLNQql.flv 
 翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65 
 翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd 
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
@@ -2474,12 +2473,14 @@ iHOT频道,#genre#
 爱院线,http://1.14.19.228:35455/itv/6000000006000030630.m3u8?cdn=wasusyt 
 爱院线,http://wouu.net:9977/udp/239.93.42.11:5140 
 香港频道,#genre#
-Now爆谷台,http://ali.hlspull.yximgs.com/live/6013bb0fdf792c48651435d5c32141e1.flv 
-Now爆谷台,http://ali.hlspull.yximgs.com/live/dfd6f9e619291643390e9a45df4e984b.flv 
-Now爆谷星影台,http://ali.hlspull.yximgs.com/live/e7d714f580e38c17874f6eb4e09a505d.flv 
-Now爆谷星影台,http://ali.hlspull.yximgs.com/live/e640ec354b8dd78e66827a4230f34fdf.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/0ba943798bf8189f810d764c5b91e375.flv 
-TVB Plus,http://ali.hlspull.yximgs.com/live/fe3acdc47e36a34c661144d7883b5616.flv 
+POP C,http://ali.hlspull.yximgs.com/live/e0b340f5366416d2caa9986a998f96ea.flv 
+POP C,http://ali.hlspull.yximgs.com/live/0c69ba623f20528486c6e3c2f2a49ee8.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/807ec0cdcd297052fa5712a9bc8a8fb1.flv 
+Now爆谷台,http://ali.hlspull.yximgs.com/live/399ebac9ef4c0849a46a2056faed31ba.flv 
+Now爆谷星影台,http://ali.hlspull.yximgs.com/live/4d6a02c132de160af4b521c91d865763.flv 
+Now爆谷星影台,http://ali.hlspull.yximgs.com/live/5d311fb19b46750bc0f58c6d4b25e176.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/f0b90e988e4c8e82f2e26adf1f016853.flv 
+TVB Plus,http://ali.hlspull.yximgs.com/live/DTa2PE1K4T0Pa4ZiKGgYVMxgwp0nEY5y.flv 
 TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6 
 TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d 
 Animax,mitv://135.148.104.228:19806/7c6f8a583fc24b298779528c07b8c66d 
