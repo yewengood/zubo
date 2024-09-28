@@ -1,13 +1,13 @@
-2024-09-28 10:31:03,204 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-09-28 10:31:03,205 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
-2024-09-28 10:31:03,352 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2024-09-28 10:31:03,359 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道, 📡  广州频道, 📡  广东频道, 📡  四川频道, 📡  北京联通
-2024-09-28 10:31:03,527 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
-2024-09-28 10:31:03,530 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信
-2024-09-28 10:31:04,704 - INFO - url: http://我不是.摸鱼儿.top/live.php 获取成功，判断为txt格式
-2024-09-28 10:31:04,710 - INFO - url: http://我不是.摸鱼儿.top/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视频道, 卫视频道, 其他频道, 广东频道, 📺央视频道, 央视付费频道, 📡卫视频道, 港·澳·台, 🎬电影频道, 咪咕直播
-2024-09-28 10:31:04,814 - ERROR - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdgd_fofa.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdgd_fofa.txt
-2024-09-28 10:31:06,094 - INFO - url: https://tv543.cc/tvlist02.txt 获取成功，判断为txt格式
-2024-09-28 10:31:06,097 - INFO - url: https://tv543.cc/tvlist02.txt 爬取成功✅，包含频道分类: ﻿台湾, China中国, News新闻, HongKong香港, 电影Mov, Sing新加坡, Malaysia, India印度, Racing跑马, 体育Sport, 儿童Kids, 知识Doc, 印尼ID, 美国USA, 加拿大CA, 日本JP, 韩国KR, 大人台
-2024-09-28 10:31:06,954 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
-2024-09-28 10:31:06,956 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, 特别说明, 港澳, 台湾, 马来, 新加, 日本, 韩国, 北美, 新闻, 音乐, 体育, 知识, 少儿, 电影, 戏剧, 18+Chinese
+2024-09-28 12:37:34,969 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-09-28 12:37:34,971 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
+2024-09-28 12:37:35,109 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2024-09-28 12:37:35,115 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道, 📡  广州频道, 📡  广东频道, 📡  四川频道, 📡  北京联通
+2024-09-28 12:37:35,191 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
+2024-09-28 12:37:35,194 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信
+2024-09-28 12:37:36,308 - INFO - url: http://我不是.摸鱼儿.top/live.php 获取成功，判断为txt格式
+2024-09-28 12:37:36,314 - INFO - url: http://我不是.摸鱼儿.top/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视频道, 卫视频道, 其他频道, 广东频道, 📺央视频道, 央视付费频道, 📡卫视频道, 港·澳·台, 🎬电影频道, 咪咕直播
+2024-09-28 12:37:36,410 - ERROR - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdgd_fofa.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdgd_fofa.txt
+2024-09-28 12:37:37,613 - INFO - url: https://tv543.cc/tvlist02.txt 获取成功，判断为txt格式
+2024-09-28 12:37:37,616 - INFO - url: https://tv543.cc/tvlist02.txt 爬取成功✅，包含频道分类: ﻿台湾, China中国, News新闻, HongKong香港, 电影Mov, Sing新加坡, Malaysia, India印度, Racing跑马, 体育Sport, 儿童Kids, 知识Doc, 印尼ID, 美国USA, 加拿大CA, 日本JP, 韩国KR, 大人台
+2024-09-28 12:37:37,993 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
+2024-09-28 12:37:37,995 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, 特别说明, 港澳, 台湾, 马来, 新加, 日本, 韩国, 北美, 新闻, 音乐, 体育, 知识, 少儿, 电影, 戏剧, 18+Chinese
