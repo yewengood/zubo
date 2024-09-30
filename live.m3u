@@ -1045,6 +1045,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 mitv://135.148.104.228:19806/b3069418cdff4c69bb544e4b1ff04d56 
 #EXTINF:-1 tvg-id="1" tvg-name="Astro-AOD" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Astro-AOD.png" group-title="广东频道",Astro-AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod 
+#EXTINF:-1 tvg-id="1" tvg-name="星光视界" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/星光视界.png" group-title="广东频道",星光视界
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv 
+#EXTINF:-1 tvg-id="1" tvg-name="金马影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/金马影院.png" group-title="广东频道",金马影院
+http://pull.kktv8.com/livekktv/128600025.flv 
 #EXTINF:-1 tvg-id="1" tvg-name="深圳卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/深圳卫视高清.png" group-title="广东地方台",深圳卫视高清
 http://14.19.151.115:8188/udp/239.77.1.3:5146 
 #EXTINF:-1 tvg-id="2" tvg-name="深圳卫视高清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/深圳卫视高清.png" group-title="广东地方台",深圳卫视高清
