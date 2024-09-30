@@ -1029,6 +1029,70 @@ http://1.82.144.44:4022/rtp/239.112.205.207:5140
 mitv://135.148.104.228:19806/ba97d7744f9b4bbaac3d6bb6b9e3798b 
 #EXTINF:-1 tvg-id="38" tvg-name="CHC动作电影" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC动作电影.png" group-title="广东频道",CHC动作电影
 mitv://135.148.104.228:19806/3dd6b903d6c84def8c6d24db55156032 
+#EXTINF:-1 tvg-id="1" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8 
+#EXTINF:-1 tvg-id="2" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://219.145.19.38:5555/rtp/239.112.205.205:5140 
+#EXTINF:-1 tvg-id="3" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000 
+#EXTINF:-1 tvg-id="4" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://60.220.167.66:8085/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="5" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://118.79.7.174:6001/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="6" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://60.223.72.198:8004/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="7" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://60.220.167.12:8085/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="8" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?t=D360byGt%2BpZL3Wo1xiFxAw%3D%3D&u=HNTV01YU00021202&p=8&cid=100000190&pid=&l=1&d=48555E45F7FC&ip=192.168.197.125&n=CHCJTYY_8000&errorcode=0&sid=dc0dvd1mPBtLnOcG8ia8jA%3D%3D&r=20231212111401&e=20231212151401&nc=XOLY5A6gm03W&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422697120&srchost=172.16.22.158:8060&gid=DHldhfgdMMpjpVp6NSOZqw%3D%3D 
+#EXTINF:-1 tvg-id="9" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://218.76.32.193:9901/tsfile/live/1018_1.m3u8 
+#EXTINF:-1 tvg-id="10" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://110.189.102.15:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0 
+#EXTINF:-1 tvg-id="11" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://113.57.109.48:1111/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0 
+#EXTINF:-1 tvg-id="12" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://58.19.244.92:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0 
+#EXTINF:-1 tvg-id="13" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://123.235.152.228:9999/rtp/239.253.254.152:8000 
+#EXTINF:-1 tvg-id="14" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://124.129.78.38:3333/rtp/239.253.254.152:8000 
+#EXTINF:-1 tvg-id="15" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://60.27.20.30:5555/rtp/225.1.1.213:5002 
+#EXTINF:-1 tvg-id="16" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://xuys.top:8888/rtp/225.1.1.213:5002 
+#EXTINF:-1 tvg-id="17" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://221.198.182.240:8888/rtp/225.1.1.213:5002 
+#EXTINF:-1 tvg-id="18" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://171.125.90.130:6000/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="19" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://221.205.180.219:8001/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="20" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://183.185.41.93:8085/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="21" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://183.185.167.58:8082/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="22" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://183.185.167.58:8085/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="23" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://171.119.205.174:6001/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="24" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://60.220.167.72:8085/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="25" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://60.220.167.11:8085/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="26" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://124.163.112.145:6001/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="27" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://183.184.39.139:8085/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="28" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://171.118.171.98:8085/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="29" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://221.205.180.219:8005/rtp/226.0.2.240:9820 
+#EXTINF:-1 tvg-id="30" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+http://220.176.218.175:8888/rtp/239.252.219.84:5140 
+#EXTINF:-1 tvg-id="31" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+mitv://135.148.104.228:19806/9151cec1ea824240b5ee3be1a48ae2c9 
+#EXTINF:-1 tvg-id="32" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="广东频道",CHC家庭影院
+mitv://135.148.104.228:19806/8083b7def9404a41808df7039034cac8 
 #EXTINF:-1 tvg-id="1" tvg-name="华丽翡翠台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/华丽翡翠台.png" group-title="广东频道",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali 
 #EXTINF:-1 tvg-id="1" tvg-name="TVB星河" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB星河.png" group-title="广东频道",TVB星河
@@ -5515,70 +5579,6 @@ http://222.129.33.14:8888/rtp/239.3.1.183:8001
 http://111.196.184.130:5555/rtp/239.3.1.183:8001 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV164K" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV164K.png" group-title="数字频道",CCTV164K
 http://114.240.43.183:8888/rtp/239.3.1.183:8001 
-#EXTINF:-1 tvg-id="1" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8 
-#EXTINF:-1 tvg-id="2" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://219.145.19.38:5555/rtp/239.112.205.205:5140 
-#EXTINF:-1 tvg-id="3" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000 
-#EXTINF:-1 tvg-id="4" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://60.220.167.66:8085/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="5" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://118.79.7.174:6001/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="6" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://60.223.72.198:8004/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="7" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://60.220.167.12:8085/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="8" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?t=D360byGt%2BpZL3Wo1xiFxAw%3D%3D&u=HNTV01YU00021202&p=8&cid=100000190&pid=&l=1&d=48555E45F7FC&ip=192.168.197.125&n=CHCJTYY_8000&errorcode=0&sid=dc0dvd1mPBtLnOcG8ia8jA%3D%3D&r=20231212111401&e=20231212151401&nc=XOLY5A6gm03W&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422697120&srchost=172.16.22.158:8060&gid=DHldhfgdMMpjpVp6NSOZqw%3D%3D 
-#EXTINF:-1 tvg-id="9" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://218.76.32.193:9901/tsfile/live/1018_1.m3u8 
-#EXTINF:-1 tvg-id="10" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://110.189.102.15:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0 
-#EXTINF:-1 tvg-id="11" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://113.57.109.48:1111/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0 
-#EXTINF:-1 tvg-id="12" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://58.19.244.92:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0 
-#EXTINF:-1 tvg-id="13" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://123.235.152.228:9999/rtp/239.253.254.152:8000 
-#EXTINF:-1 tvg-id="14" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://124.129.78.38:3333/rtp/239.253.254.152:8000 
-#EXTINF:-1 tvg-id="15" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://60.27.20.30:5555/rtp/225.1.1.213:5002 
-#EXTINF:-1 tvg-id="16" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://xuys.top:8888/rtp/225.1.1.213:5002 
-#EXTINF:-1 tvg-id="17" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://221.198.182.240:8888/rtp/225.1.1.213:5002 
-#EXTINF:-1 tvg-id="18" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://171.125.90.130:6000/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="19" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://221.205.180.219:8001/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="20" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://183.185.41.93:8085/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="21" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://183.185.167.58:8082/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="22" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://183.185.167.58:8085/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="23" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://171.119.205.174:6001/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="24" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://60.220.167.72:8085/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="25" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://60.220.167.11:8085/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="26" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://124.163.112.145:6001/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="27" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://183.184.39.139:8085/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="28" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://171.118.171.98:8085/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="29" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://221.205.180.219:8005/rtp/226.0.2.240:9820 
-#EXTINF:-1 tvg-id="30" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://220.176.218.175:8888/rtp/239.252.219.84:5140 
-#EXTINF:-1 tvg-id="31" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-mitv://135.148.104.228:19806/9151cec1ea824240b5ee3be1a48ae2c9 
-#EXTINF:-1 tvg-id="32" tvg-name="CHC家庭影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-mitv://135.148.104.228:19806/8083b7def9404a41808df7039034cac8 
 #EXTINF:-1 tvg-id="1" tvg-name="快乐垂钓" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://182.149.156.49:4022/udp/239.93.1.151:5140 
 #EXTINF:-1 tvg-id="2" tvg-name="快乐垂钓" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/快乐垂钓.png" group-title="数字频道",快乐垂钓
