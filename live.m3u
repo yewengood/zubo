@@ -1045,6 +1045,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 mitv://135.148.104.228:19806/b3069418cdff4c69bb544e4b1ff04d56 
 #EXTINF:-1 tvg-id="1" tvg-name="Astro-AOD" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Astro-AOD.png" group-title="广东频道",Astro-AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod 
+#EXTINF:-1 tvg-id="1" tvg-name="重温经典" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/重温经典.png" group-title="广东频道",重温经典
+http://tv.dlwmkj.com/php2021/bfy.php?id=635 
 #EXTINF:-1 tvg-id="1" tvg-name="星光视界" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/星光视界.png" group-title="广东频道",星光视界
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv 
 #EXTINF:-1 tvg-id="1" tvg-name="金马影院" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/金马影院.png" group-title="广东频道",金马影院

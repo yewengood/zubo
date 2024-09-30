@@ -523,6 +523,7 @@ HOY-TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc 
 千禧经典台,mitv://135.148.104.228:19806/b3069418cdff4c69bb544e4b1ff04d56 
 Astro-AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod 
+重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635 
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv 
 金马影院,http://pull.kktv8.com/livekktv/128600025.flv 
 广东地方台,#genre#
