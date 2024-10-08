@@ -6423,102 +6423,6 @@ http://49.234.186.50:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 http://1.14.19.228:35455/itv/6000000006000030630.m3u8?cdn=wasusyt 
 #EXTINF:-1 tvg-id="6" tvg-name="爱院线" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/爱院线.png" group-title="iHOT频道",爱院线
 http://wouu.net:9977/udp/239.93.42.11:5140 
-#EXTINF:-1 tvg-id="1" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6 
-#EXTINF:-1 tvg-id="2" tvg-name="TVB Plus" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB Plus.png" group-title="香港频道",TVB Plus
-mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d 
-#EXTINF:-1 tvg-id="1" tvg-name="Animax" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Animax.png" group-title="香港频道",Animax
-mitv://135.148.104.228:19806/7c6f8a583fc24b298779528c07b8c66d 
-#EXTINF:-1 tvg-id="2" tvg-name="Animax" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Animax.png" group-title="香港频道",Animax
-mitv://135.148.104.228:19806/4913cc8e4b7e490eaebbb4a081bf02b8 
-#EXTINF:-1 tvg-id="1" tvg-name="AXN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/AXN.png" group-title="香港频道",AXN
-mitv://135.148.104.228:19806/6c01776274094a4191d223378054782b 
-#EXTINF:-1 tvg-id="1" tvg-name="Nick Jr." tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Nick Jr..png" group-title="香港频道",Nick Jr.
-mitv://135.148.104.228:19806/0fdb4f78ab6f498f88c12ca5a34fffc2 
-#EXTINF:-1 tvg-id="1" tvg-name="PopC" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/PopC.png" group-title="香港频道",PopC
-mitv://135.148.104.228:19806/3ae0f859370b4f17baec42495be6f043 
-#EXTINF:-1 tvg-id="2" tvg-name="PopC" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/PopC.png" group-title="香港频道",PopC
-mitv://135.148.104.228:19806/63cdb28090d949ed824376fab51fdd12 
-#EXTINF:-1 tvg-id="1" tvg-name="Thrill" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Thrill.png" group-title="香港频道",Thrill
-mitv://135.148.104.228:19806/d20fff7aa7d64ab19d2a39da2970734a 
-#EXTINF:-1 tvg-id="1" tvg-name="tvN" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/tvN.png" group-title="香港频道",tvN
-mitv://135.148.104.228:19806/45cb5d3ff4f842178bd262ac32891a0c 
-#EXTINF:-1 tvg-id="1" tvg-name="KIX" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/KIX.png" group-title="香港频道",KIX
-mitv://135.148.104.228:19806/e0df18c976d2448cae5e6dfe8b748fe4 
-#EXTINF:-1 tvg-id="1" tvg-name="港台电视32" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/港台电视32.png" group-title="香港频道",港台电视32
-mitv://135.148.104.228:19806/8ef4a2b7bac54aba8b17dfd2071df91f 
-#EXTINF:-1 tvg-id="1" tvg-name="TVB娱乐新闻台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB娱乐新闻台.png" group-title="香港频道",TVB娱乐新闻台
-mitv://135.148.104.228:19806/e77d39049c07479ab0ff57800c6e5b06 
-#EXTINF:-1 tvg-id="2" tvg-name="TVB娱乐新闻台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/TVB娱乐新闻台.png" group-title="香港频道",TVB娱乐新闻台
-mitv://135.148.104.228:19806/05e767dba8fa48e9ba386ed231c94318 
-#EXTINF:-1 tvg-id="1" tvg-name="好莱坞电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/好莱坞电影台.png" group-title="香港频道",好莱坞电影台
-http://211.72.65.236:8554/.m3u8 
-#EXTINF:-1 tvg-id="2" tvg-name="好莱坞电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/好莱坞电影台.png" group-title="香港频道",好莱坞电影台
-mitv://135.148.104.228:19806/c4810d15af404015859a5fc5059e4716 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://mobilelive-ds.ysp.cctv.cn/549/2013693901.m3u8 
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://119.129.172.164:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0 
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://144.52.146.226:5002/rtp/239.21.2.47:5002 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://144.52.146.226:5002/rtp/239.21.1.6:5002 
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://60.26.62.168:8000/rtp/225.1.1.195:5002 
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://111.165.213.195:8000/rtp/225.1.1.195:5002 
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://60.27.20.30:5555/rtp/225.1.1.195:5002 
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://114.243.98.221:4022/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://123.118.67.206:8012/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://123.113.110.201:4022/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://114.254.80.240:2222/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://111.196.132.49:20000/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://123.122.163.183:19999/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://123.113.237.160:8888/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://123.113.183.117:9000/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://114.252.227.154:8000/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://114.246.199.171:8888/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://114.254.94.146:2222/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="20" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://123.113.186.207:8000/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="21" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://114.254.93.135:2222/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="22" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://221.221.165.219:8888/rtp/239.3.1.174:8001 
-#EXTINF:-1 tvg-id="23" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://110.177.146.171:888/rtp/239.1.1.13:8013 
-#EXTINF:-1 tvg-id="24" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://223.13.160.204:4022/rtp/239.1.1.13:8013 
-#EXTINF:-1 tvg-id="25" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://223.12.12.89:8084/rtp/239.1.1.13:8013 
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://223.10.11.187:8082/rtp/239.1.1.13:8013 
-#EXTINF:-1 tvg-id="27" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://1.70.35.119:8083/rtp/239.1.1.13:8013 
-#EXTINF:-1 tvg-id="28" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://110.178.52.75:8083/rtp/239.1.1.13:8013 
-#EXTINF:-1 tvg-id="29" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://110.177.148.13:58888/rtp/239.1.1.13:8013 
-#EXTINF:-1 tvg-id="30" tvg-name="CCTV-6" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CCTV-6.png" group-title="香港频道",CCTV-6
-http://110.178.52.75:8082/rtp/239.1.1.13:8013 
-#EXTINF:-1 tvg-id="1" tvg-name="Suria" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Suria.png" group-title="香港频道",Suria
-mitv://135.148.104.228:19806/ba543c5c308c44ad9cde7fbf4bc72171 
-#EXTINF:-1 tvg-id="1" tvg-name="Vasantham" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/Vasantham.png" group-title="香港频道",Vasantham
-mitv://135.148.104.228:19806/cc7a8a329a9f4c2cac0bf4df02cb6b6e 
 #EXTINF:-1 tvg-id="1" tvg-name="AMC电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/AMC电影台.png" group-title="4GTV",AMC电影台
 http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv017 
 #EXTINF:-1 tvg-id="1" tvg-name="CAT电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CAT电影台.png" group-title="4GTV",CAT电影台
@@ -6807,6 +6711,10 @@ http://211.72.65.236:8551/.m3u8
 http://211.72.65.236:8552/.m3u8 
 #EXTINF:-1 tvg-id="1" tvg-name="momo综合台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/momo综合台.png" group-title="台湾频道",momo综合台
 http://211.72.65.236:8553/.m3u8 
+#EXTINF:-1 tvg-id="1" tvg-name="好莱坞电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/好莱坞电影台.png" group-title="台湾频道",好莱坞电影台
+http://211.72.65.236:8554/.m3u8 
+#EXTINF:-1 tvg-id="2" tvg-name="好莱坞电影台" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/好莱坞电影台.png" group-title="台湾频道",好莱坞电影台
+mitv://135.148.104.228:19806/c4810d15af404015859a5fc5059e4716 
 #EXTINF:-1 tvg-id="1" tvg-name="CINEMAX" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CINEMAX.png" group-title="台湾频道",CINEMAX
 http://211.72.65.236:8559/.m3u8 
 #EXTINF:-1 tvg-id="2" tvg-name="CINEMAX" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/CINEMAX.png" group-title="台湾频道",CINEMAX
@@ -7080,7 +6988,7 @@ http://diyp.zxxoo.work/douyu/1226741#http://diyp.zxxoo.work/douyu/1226741
 #EXTINF:-1 tvg-id="1" tvg-name="神乐电影（粤语）" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/神乐电影（粤语）.png" group-title="斗鱼精选",神乐电影（粤语）
 http://diyp.zxxoo.work/douyu/6566671 
 #EXTINF:-1 tvg-id="1" tvg-name="粤语电影极清" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/粤语电影极清.png" group-title="斗鱼精选",粤语电影极清
-https://pullhw.zhaoyangyang.cn/live/8720112.flv?auth_info=AHN0ohZXKIkpHfaJ0Jxo6AooWEsiEl2NEhvmMZGHXvg%3D.5747436c766c78616933686f624f334e#https://pullhw.zhaoyangyang.cn/live/8720112.flv?auth_info=AHN0ohZXKIkpHfaJ0Jxo6AooWEsiEl2NEhvmMZGHXvg%3D.5747436c766c78616933686f624f334e 
+https://pullhw.zhaoyangyang.cn/live/8726106.flv?auth_info=TdTW44Tm98MJbW%2FKohRrFY01PQP07rEA%2F9edVTeweOk%3D.6951654758457745353376437657496b 
 #EXTINF:-1 tvg-id="1" tvg-name="周星驰电影" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/周星驰电影.png" group-title="斗鱼精选",周星驰电影
 http://diyp.zxxoo.work/douyu/3637778 
 #EXTINF:-1 tvg-id="1" tvg-name="麓山迷踪㊣版" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/yewengood/live/main/tv/麓山迷踪㊣版.png" group-title="斗鱼精选",麓山迷踪㊣版
