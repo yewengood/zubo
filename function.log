@@ -1,15 +1,15 @@
-2024-10-08 16:47:13,289 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-10-08 16:47:13,290 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
-2024-10-08 16:47:13,555 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
-2024-10-08 16:47:13,557 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
-2024-10-08 16:47:13,752 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2024-10-08 16:47:13,754 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  四川频道, 📡  北京联通
-2024-10-08 16:47:14,058 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
-2024-10-08 16:47:14,061 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信
-2024-10-08 16:47:16,237 - INFO - url: http://我不是.摸鱼儿.top/live.php 获取成功，判断为txt格式
-2024-10-08 16:47:16,244 - INFO - url: http://我不是.摸鱼儿.top/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视频道, 卫视频道, 其他频道, 广东频道, 📺央视频道, 央视付费频道, 📡卫视频道, 港·澳·台, 🎬电影频道, 咪咕直播
-2024-10-08 16:47:16,456 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-10-08 16:47:16,457 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
-2024-10-08 16:47:16,691 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
-2024-10-08 16:47:16,693 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, 特别说明, 港澳, 台湾, 马来, 新加, 日本, 韩国, 北美, 新闻, 音乐, 体育, 知识, 少儿, 电影, 戏剧, 18+Chinese
-2024-10-08 16:47:17,229 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/others_output.txt 获取成功，判断为txt格式
+2024-10-08 18:39:20,675 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-10-08 18:39:20,676 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
+2024-10-08 18:39:20,786 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
+2024-10-08 18:39:20,788 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
+2024-10-08 18:39:20,889 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2024-10-08 18:39:20,890 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  四川频道, 📡  北京联通
+2024-10-08 18:39:21,017 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
+2024-10-08 18:39:21,020 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信
+2024-10-08 18:39:22,716 - INFO - url: http://我不是.摸鱼儿.top/live.php 获取成功，判断为txt格式
+2024-10-08 18:39:22,723 - INFO - url: http://我不是.摸鱼儿.top/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视频道, 卫视频道, 其他频道, 广东频道, 📺央视频道, 央视付费频道, 📡卫视频道, 港·澳·台, 🎬电影频道, 咪咕直播
+2024-10-08 18:39:22,884 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-10-08 18:39:22,884 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
+2024-10-08 18:39:23,305 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
+2024-10-08 18:39:23,307 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, 特别说明, 港澳, 台湾, 马来, 新加, 日本, 韩国, 北美, 新闻, 音乐, 体育, 知识, 少儿, 电影, 戏剧, 18+Chinese
+2024-10-08 18:39:23,648 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/others_output.txt 获取成功，判断为txt格式
