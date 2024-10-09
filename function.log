@@ -1,16 +1,15 @@
-2024-10-09 12:38:24,660 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-10-09 12:38:24,661 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
-2024-10-09 12:38:24,798 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
-2024-10-09 12:38:24,800 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
-2024-10-09 12:38:24,918 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
-2024-10-09 12:38:24,920 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  四川频道, 📡  北京联通
-2024-10-09 12:38:25,041 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
-2024-10-09 12:38:25,044 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信
-2024-10-09 12:38:26,566 - INFO - url: http://我不是.摸鱼儿.top/live.php 获取成功，判断为txt格式
-2024-10-09 12:38:26,573 - INFO - url: http://我不是.摸鱼儿.top/live.php 爬取成功✅，包含频道分类: 摸鱼公告, 央视频道, 卫视频道, 其他频道, 广东频道, 📺央视频道, 央视付费频道, 📡卫视频道, 港·澳·台, 🎬电影频道, 咪咕直播
-2024-10-09 12:38:26,690 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
-2024-10-09 12:38:26,690 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
-2024-10-09 12:38:27,297 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
-2024-10-09 12:38:27,299 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, 特别说明, 港澳, 台湾, 马来, 新加, 日本, 韩国, 北美, 新闻, 音乐, 体育, 知识, 少儿, 电影, 戏剧, 18+Chinese
-2024-10-09 12:38:27,861 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 获取成功，判断为txt格式
-2024-10-09 12:38:28,154 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 爬取成功✅，包含频道分类: 📡  综合
+2024-10-09 18:39:57,678 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-10-09 18:39:57,680 - INFO - url: https://raw.githubusercontent.com/yewengood/gdtv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信频道
+2024-10-09 18:39:57,930 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 获取成功，判断为txt格式
+2024-10-09 18:39:57,932 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/refs/heads/main/speedtest/gddx_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
+2024-10-09 18:39:58,130 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 获取成功，判断为txt格式
+2024-10-09 18:39:58,132 - INFO - url: https://raw.githubusercontent.com/yewengood/gdzb/main/speedtest/zubo_fofa.txt 爬取成功✅，包含频道分类: 📡  四川频道, 📡  北京联通
+2024-10-09 18:39:58,357 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 获取成功，判断为txt格式
+2024-10-09 18:39:58,360 - INFO - url: https://raw.githubusercontent.com/yewengood/-/main/888.txt 爬取成功✅，包含频道分类: 广东频道, 央视频道, 卫视频道, 台湾频道, NewTV频道, iHOT频道, 数字高清, 4GTV, YY精选, 斗鱼精选, 虎牙-精选, 四川电信
+2024-10-09 18:42:12,390 - ERROR - url: http://我不是.摸鱼儿.top/live.php 爬取失败❌, Error: HTTPConnectionPool(host='183.136.132.24', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f97a6dcf4f0>, 'Connection to 183.136.132.24 timed out. (connect timeout=None)'))
+2024-10-09 18:42:12,614 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 获取成功，判断为txt格式
+2024-10-09 18:42:12,615 - INFO - url: https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt 爬取成功✅，包含频道分类: 📡  电信广电
+2024-10-09 18:42:12,961 - INFO - url: http://free.xiptv.x10.bz/p3p.php 获取成功，判断为txt格式
+2024-10-09 18:42:12,963 - INFO - url: http://free.xiptv.x10.bz/p3p.php 爬取成功✅，包含频道分类: TG群, 特别说明, 港澳, 台湾, 马来, 新加, 日本, 韩国, 北美, 新闻, 音乐, 体育, 知识, 少儿, 电影, 戏剧, 18+Chinese
+2024-10-09 18:42:13,506 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 获取成功，判断为txt格式
+2024-10-09 18:42:13,655 - INFO - url: https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt 爬取成功✅，包含频道分类: 📡  综合
