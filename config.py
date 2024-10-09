@@ -8,7 +8,7 @@ source_urls = [
     "http://我不是.摸鱼儿.top/live.php",
     "https://raw.githubusercontent.com/yewengood/ktv/refs/heads/main/speedtest/gdtv_fofa.txt",
     "http://free.xiptv.x10.bz/p3p.php",
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/others_output.txt"
+    "https://raw.githubusercontent.com/yewengood/kzb/main/zhtv.txt"
     #"https://gitcode.net/ygbh66/666/raw/master/x.txt",
     #"https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
    # "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
